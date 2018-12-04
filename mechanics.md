@@ -1,4 +1,4 @@
-#Jinx: Simple Storytelling Role Playing Game Mechanics
+# Jinx: Simple Storytelling Role Playing Game Mechanics
 
 ## Game Mechanics
 The mechanic of the game is extremely simple. In the majority of the actions, the storyteller should define if the action itself deserves a challenge, or if it is an immediate success or failure. The storyteller should always give priority to the story, avoiding countless dice rolling. However, in case where the action should prove itself, the player should overcome a threshold with an action check. The value of the action check is the three values: **ability** needed by the action, **traits** upon which the ability belongs to and a good old **d20**. 
