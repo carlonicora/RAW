@@ -16,9 +16,7 @@ To succeed in an unchallenged action, the player should score an action check hi
 
 In case of a challenged action, the two characters should both roll for an action check. The character with a higher action check wins the challenge. 
 
-```
-Martin is trying to punch Anne. Martin has a *punching* ability of 18, a *strength* traits of 12, a *dice roll* of 8 and receives a *storytelling bonus* of 7 from the storyteller, for a total of 45. Anne, who is very agile, uses her *dodging* ability of 16, the *agility* trait of 18 and a *dice roll* of 10 and receives *storytelling bonus* of 10 for a total of 54. Clearly Martin tries to punch Anne in the face, but she simply dodges his attempt.
-```
+> Martin is trying to punch Anne. Martin has a *punching* ability of 18, a *strength* traits of 12, a *dice roll* of 8 and receives a *storytelling bonus* of 7 from the storyteller, for a total of 45. Anne, who is very agile, uses her *dodging* ability of 16, the *agility* trait of 18 and a *dice roll* of 10 and receives *storytelling bonus* of 10 for a total of 54. Clearly Martin tries to punch Anne in the face, but she simply dodges his attempt.
 
 ## Traits
 Every character is defined by a set of traits. These traits have values between 1 and 20. The traits are:
@@ -50,7 +48,7 @@ Damages are inflicted to the characters when they lose a challenged action, or w
 damage = weapon * success / 100 - protection
 ```
 
-For example, Anne, just having dodged Martin's punch, decides to stomp her elbow on Martin's nose. Anne scores a 55 on her ability check, against 25 of Martin's. While the elbow provides only 10 damage points, the nose is completely unprotected, therefore Anne produces 3 damages to Martin (10 * 30 /100 - 0).
+> Anne, just having dodged Martin's punch, decides to stomp her elbow on Martin's nose. Anne scores a 55 on her ability check, against 25 of Martin's. While the elbow provides only 10 damage points, the nose is completely unprotected, therefore Anne produces 3 damages to Martin (10 * 30 /100 - 0).
 
 Every character has a number of live points equal to 50 + their strength. If you think that's not much, try receiving an elbow in your nose, and then we discuss.
 
