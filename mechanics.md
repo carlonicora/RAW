@@ -1,69 +1,129 @@
 # Jinx: Simple Storytelling Role Playing Game Mechanics
 
-## Game Mechanics
-The mechanic of the game is extremely simple. In the majority of the actions, the storyteller should define if the action itself deserves a challenge, or if it is an immediate success or failure. The storyteller should always give priority to the story, avoiding countless dice rolling. However, in case where the action should prove itself, the player should overcome a threshold with an action check. The value of the action check is the three values: **ability** needed by the action, **traits** upon which the ability belongs to and a good old **d20**.
+## Traits and Abilities
 
-The storyteller should award a variable number depending on how well the player has described their character's action. The better and more engaging the description, the higher the reward.
+### Traits
+Every character has 3 traits, ranked on a scale between 1 and 20. They are:
 
-```
-action check = trait + ability + d20 + bonus
-```
+- __Body__ identifies everything related to strength, agility, health.
+- __Mind__ defines the intellectual capabilities.
+- __Spirit__ is used for the characters self esteem, confidence and presence.
 
-## Type of Actions
-The game mechanics keep two type of actions into consideration: unchallenged and challenged. The unchallenged actions are those actions against an unanimated objects. The challenged actions, on the contrary, are those against other characters. For example, jumping over a fence is an unchallenged action, while trying to punch another character is a challenged one.
+### Abilities
+Every character has a list of abilities. Each ability is linked to a trait. The initial value of a new ability is the value of the trait itself.
 
-To succeed in an unchallenged action, the player should score an action check higher than a threshold defined by the storyteller.
+The abilities defines the character, as Jinx does not have the notion of class.
 
-In case of a challenged action, the two characters should both roll for an action check. The character with a higher action check wins the challenge. 
-
-> Martin is trying to punch Anne. Martin has a *punching* ability of 18, a *strength* traits of 12, a *dice roll* of 8 and receives a *storytelling bonus* of 7 from the storyteller, for a total of 45. Anne, who is very agile, uses her *dodging* ability of 16, the *agility* trait of 18 and a *dice roll* of 10 and receives *storytelling bonus* of 10 for a total of 54. Clearly Martin tries to punch Anne in the face, but she simply dodges his attempt.
-
-## Traits
-Every character is defined by a set of traits. These traits have values between 1 and 20. The traits are:
-
-* strength
-* intelligence
-* charisma
-* agility
-
-## Abilities
-These are a set of things a character knows how to perform. Each player can define which ones their character has. Every ability should depend from one of the traits. Special elements as spells are counted as abilities, with each spell being a standalone ability.
-
-Each ability has a value that spans between 0 and 100.
-
-## Dice
-Take a nice d20 and roll it! That's as simple as it gets.
-
-If you roll a 19, you can add an additional roll to your ability check value. If you roll a 20 you can add two additional rolls to it. However, if you roll a 1, you will have to remove the result of an additional roll to your ability check value. The additional rolls are not affected by the same rule.
-
-## Storytelling bonus
-The idea is that great stories do not need a lot of dice rolling. It keeps the story moving and the players entertained. The storytellers should try to focus more on a great narrative, trying to involve the players as much as possible into it. Dice rolling and math should be left where Lady Luck should be involved, or if you want to hurt a character.
-
-The storytelling bonus should be applied by the storyteller after the player has described their character's action, but before rolling the dice.
-
-## Damages, protections and death
-Damages are inflicted to the characters when they lose a challenged action, or when they clumsily fall from the third floor. In reality, being shot in the back does not count as a challenged action, yet if you are on the receiving end, it will hurt. The amount of damages received is calculated by adding the damage factor of the weapon used in percentage to the level of success and the eventual protection the character receiving the damage possesses.
-
-```
-damage = weapon * success / 100 - protection
-```
-
-> Anne, just having dodged Martin's punch, decides to stomp her elbow on Martin's nose. Anne scores a 55 on her ability check, against 25 of Martin's. While the elbow provides only 10 damage points, the nose is completely unprotected, therefore Anne produces 3 damages to Martin (10 * 30 /100 - 0).
-
-Every character has a number of live points equal to 50 + their strength. If you think that's not much, try receiving an elbow in your nose, and then we discuss.
-
-## Unchallenged actions complexity
-An action check can be valued between 0 and 160, with extremely lucky cases of 200. The storyteller should keep a scale in mind while setting the threshold for unchallenged actions, where 0 is breathing, 200 is curing cancer and so on.
+### Life points
+Every playing character has 50 life points. When lost, the life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
 
 ## Character creation
-The character creation should be as flexible as the Storyteller wants. The idea is to focus much more on the character identification than the numbers on a piece of paper. What is the character main goal in life or what are the psychological traits they have are more important than how strong they are.
-For the traits, you can ask the player to roll 4d20 to identify them, or assign 40 to 50 points to be distributed amongst them. Keep it flexible and fun: you want the characters to have strengths and weaknesses.
+At the beginning of a game, the user defines:
 
-Then start discussing with the player about the abilities. You can create a list of abilities to pick from or improvise. *Fly casual* and remember to prioritise the characters' details more than their nitty gritty numbers.
+- Traits values
+- Initial abilities and values
+- HEXACO personality
+- Background story
+
+### Traits values
+Every player has 30 points to divide in the three traits of their character. The limit helps create a character that can have strength and weaknesses alike.
+
+### Initial abilities and values
+At the beginning of the game, each character possesses five abilities of their choice. The player has 60 points to distribute in the five abilities, with a limit of 20 points in each ability.
+
+Every ability will start from the value of the trait they refer to.
+
+### HEXACO personality
+Each player should define the personality of a character based on the (HEXACO model of personality structure)[https://en.m.wikipedia.org/wiki/HEXACO_model_of_personality_structure]. The structure identifies six traits of the personality and assigns them a value between 1 and 5:
+
+- __H__ onesty
+- __E__ motionality
+- e __X__ traversion
+- __A__ greeableness
+- __C__ onscientiousness
+- __O__ penness to Experience
+
+Available online there is a (HEXACO personality test)[http://hexaco.org/hexaco-online] which the players can take while seeing the world through their character's eyes.
+
+### Background story
+Every character's initial ability should be explained by a back story. The player should explain why their character know how to do certain things and how they leaned those abilities.
+
+## Actions outcome
+Every time a character need to perform an action which is not trivial or impossible, they will have to check if they succeed. There are two type of actions: challenged (_stealth VS awareness_) and unchallenged (_jumping over a fence_).
+
+In both cases, the rules refers to an ability, but the challenge can be done on a trait.
+
+### Open ended rolls
+Every d20 roll is open ended. Every time a 1 is roll, the player should re-roll the dice and subtract the result. Every time a natural 20 is roll, the player should re-roll the dice and add the result.
+
+The open ended roll applies only to the first roll, and not on the re-rolls.
+
+### Challenged actions
+When the action of a character can be challenged by a counter action of another character, then the result of the action is defined by a simple comparison between the action plus 1d20 of the first character and the counter action plus 1d20 of the second character.
+
+The __level of success or failure__ is the difference between the two action results.
+
+`success = (ability + 1d20) - (ability + 1d20)`
+
+### Unchallenged actions
+Unchallenged actions are those actions which are not opposed by another character. The storyteller should define a threshold that the character should overcome. This threshold define (in percentage value) the complexity of the action.
+
+The action result is calculated by adding the ability or trait of the action plus 1d20.
+
+The __level of success or failure__ is the difference between the threshold and the action result.
+
+`success = (ability + 1d20) - threshold`
+
+## Fighting
+Similarly to every action, the result of an attack depends if the attack is challenged (_punching VS dodging_) or unchallenged (_shooting another character_).
+
+### Challenged Attacks
+When two characters are fighting and the defending character has an ability which can challenge the attacker, then the attack result is defined by a simple comparison between the attack ability plus 1d20 and the defending ability plus 1d20.
+
+The __level of success or failure__ is the difference between the two results.
+
+`success = (attacking ability + 1d20) - (defending ability + 1d20)`
+
+### Unchallenged Attacks
+When the attack of a character cannot be actively defended by the other character, the difficulty is derived by a base challenge factor of __25__. This can receive a positive or negative modifier depending on the opponent apparent size and speed. The _apparent size_ is how big the target looks from the attacker perspective. This can be because of the real size of the opponent, its distance form the attacker or due to the opponent being hidden from view.
+
+apparent size of target|modifier
+---|---:
+Bigger than equal size at 5m|-5
+Equal size at 5m|0
+1/2 the size at 5m|+10
+1/4 the size at 5m|+20
+Smaller than 1/4 size at 5m|+40
+
+speed of target|modifier
+---|---:
+Still|-5
+Walking|0
+Trotting|+5
+Running|+10
+Moving erratically|+5
+
+
+### Damages
+Every weapon has a fixed amount of damages it inflicts. The damage receives a modifier depending on the success of the attack.
+
+success|damage modifier
+---|---:
+1-10|-50%
+11-30|0
+31-40|+50%
+41+|+100%
+
+
+### Ablative armour
+Jinx uses the idea of ablative armours, which are protections that absorb the damages in lieu of the character wearing it. The armours have a fixed amount of protection, which is lost every time a damage is absorbed.
+
+The ablative armour can absorb only 50% of its protection in a single attack. The rest of the damage is passed to the character.
 
 ## Character progression
-As in life, characters grow their abilities when they practice. Yes, practice makes perfect! So, every time a character performs an action, the storyteller should keep track of it. Not only successful actions should be kept into consideration: we learn from our mistakes as well!
+Jinx is based on the character progression based on its abilities, not on levels. Every time a character succeed in an ability test, the player should mark that action as successfully trained.
+At the end of every adventure, which should last a few session, the storyteller should allow the players to try and increase their character's ability scores.
 
-Every time there is a moment of calm in a campaign, the Storyteller should allow a character to improve the value of the abilities they practiced. Each character can improve a maximum of five abilities at a time. To improve an ability, the character should roll 1d20 and score equal or higher than his ability score divided by 5 (in case of a successful action) or by 4 (in case of a failed action). If the roll succeed, the ability will be raised by 1 point.
+To increase the score of a trained ability, the player should score higher than the ability value on a d100 roll. In case of success, the ability is increased by 1 point.
 
-The character progression should be done quite often, to give the characters the possibility to grow steadily.
+The storyteller may allow the value to be tested a second time at the end of the same adventure should the player had demonstrated particular qualities in handling that specific ability.
