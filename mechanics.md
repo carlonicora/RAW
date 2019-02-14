@@ -34,7 +34,7 @@ At the beginning of the game, each character possesses five abilities of their c
 Every ability will start from the value of the trait they refer to.
 
 ### HEXACO personality
-Each player should define the personality of a character based on the (HEXACO model of personality structure)[https://en.m.wikipedia.org/wiki/HEXACO_model_of_personality_structure]. The structure identifies six traits of the personality and assigns them a value between 1 and 5:
+Each player should define the personality of a character based on the [HEXACO model of personality structure](https://en.m.wikipedia.org/wiki/HEXACO_model_of_personality_structure). The structure identifies six traits of the personality and assigns them a value between 1 and 5:
 
 - __H__ onesty
 - __E__ motionality
@@ -43,7 +43,7 @@ Each player should define the personality of a character based on the (HEXACO mo
 - __C__ onscientiousness
 - __O__ penness to Experience
 
-Available online there is a (HEXACO personality test)[http://hexaco.org/hexaco-online] which the players can take while seeing the world through their character's eyes.
+Available online there is a [HEXACO personality test](http://hexaco.org/hexaco-online) which the players can take while seeing the world through their character's eyes.
 
 ### Background story
 Every character's initial ability should be explained by a back story. The player should explain why their character know how to do certain things and how they leaned those abilities.
