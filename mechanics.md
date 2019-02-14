@@ -87,6 +87,8 @@ The __level of success or failure__ is the difference between the two results.
 ### Unchallenged Attacks
 When the attack of a character cannot be actively defended by the other character, the difficulty is derived by a base challenge factor of __25__. This can receive a positive or negative modifier depending on the opponent apparent size and speed. The _apparent size_ is how big the target looks from the attacker perspective. This can be because of the real size of the opponent, its distance form the attacker or due to the opponent being hidden from view.
 
+### Attack modifiers
+
 apparent size of target|modifier
 ---|---:
 Bigger than equal size at 5m|-5
@@ -113,6 +115,17 @@ success|damage modifier
 11-30|0
 31-40|+50%
 41+|+100%
+
+### Effects of damages on character
+When a character has suffered physical damages, they won't be able to perform as well as they would when in optimal conditions. The more the character is hurt, the more challenging their action become.
+
+damages|action modifier
+---|---:
+0-10|0
+11-20|-5
+21-30|-10
+31-40|-15
+41-50|-20
 
 
 ### Ablative armour
