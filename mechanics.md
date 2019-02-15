@@ -12,10 +12,24 @@ Every character has 3 traits, ranked on a scale between 1 and 20. They are:
 ### Abilities
 Every character has a list of abilities. Each ability is linked to a trait. The initial value of a new ability is the value of the trait itself.
 
-The abilities defines the character, as Jinx does not have the notion of class.
+The abilities defines the character, as Jinx does not have the notion of class. The list of abilities is era-dependent. Future expansions will include a list of abilities for various type of games (Fantasy, Contemporary, Science Fiction).
+
 
 ### Life points
-Every playing character has 50 life points. When lost, the life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
+Every playing character has 50 life points plus the value of their __Body__. When lost, the life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
+
+`life points = 50 + Body`
+
+### Effects of damages on character
+When a character has suffered physical damages, they won't be able to perform as well as they would when in optimal conditions. The more the character is hurt, the more challenging their action become.
+
+damages|action modifier
+---|---:
+0-10|0
+11-20|-5
+21-30|-10
+31-40|-15
+41-49|-20
 
 ## Character creation
 At the beginning of a game, the user defines:
@@ -88,23 +102,23 @@ The __level of success or failure__ is the difference between the two results.
 When the attack of a character cannot be actively defended by the other character, the difficulty is derived by a base challenge factor of __25__. This can receive a positive or negative modifier depending on the opponent apparent size and speed. The _apparent size_ is how big the target looks from the attacker perspective. This can be because of the real size of the opponent, its distance form the attacker or due to the opponent being hidden from view.
 
 ### Attack modifiers
+The attack success can be modified by a series of factors. Some of them make it easy to hit or deliver damages, while others can make it more challenging to attack.
 
 apparent size of target|modifier
 ---|---:
-Bigger than equal size at 5m|-5
+Bigger than equal size at 5m|+5
 Equal size at 5m|0
-1/2 the size at 5m|+10
-1/4 the size at 5m|+20
-Smaller than 1/4 size at 5m|+40
+1/2 the size at 5m|-10
+1/4 the size at 5m|-20
+Smaller than 1/4 size at 5m|-40
 
 speed of target|modifier
 ---|---:
-Still|-5
+Still|+5
 Walking|0
-Trotting|+5
-Running|+10
-Moving erratically|+5
-
+Trotting|-5
+Running|-10
+Moving erratically|-5
 
 ### Damages
 Every weapon has a fixed amount of damages it inflicts. The damage receives a modifier depending on the success of the attack.
@@ -116,22 +130,14 @@ success|damage modifier
 31-40|+50%
 41+|+100%
 
-### Effects of damages on character
-When a character has suffered physical damages, they won't be able to perform as well as they would when in optimal conditions. The more the character is hurt, the more challenging their action become.
-
-damages|action modifier
----|---:
-0-10|0
-11-20|-5
-21-30|-10
-31-40|-15
-41-50|-20
-
 
 ### Ablative armour
 Jinx uses the idea of ablative armours, which are protections that absorb the damages in lieu of the character wearing it. The armours have a fixed amount of protection, which is lost every time a damage is absorbed.
 
 The ablative armour can absorb only 50% of its protection in a single attack. The rest of the damage is passed to the character.
+
+### Weapons and Armours
+Future expansions will include a list of weapons and armours for various type of games (Fantasy, Contemporary, Science Fiction).
 
 ## Character progression
 Jinx is based on the character progression based on its abilities, not on levels. Every time a character succeed in an ability test, the player should mark that action as successfully trained.
