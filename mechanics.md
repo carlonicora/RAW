@@ -125,10 +125,10 @@ Every weapon has a fixed amount of damages it inflicts. The damage receives a mo
 
 success|damage modifier
 ---|---:
-1-10|-50%
-11-30|0
-31-40|+50%
-41+|+100%
+1-10|1/2 damage
+11-30|normal
+31-40|+ 1/2 damage
+41+|double damage
 
 
 ### Ablative armour
