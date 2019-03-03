@@ -15,3 +15,34 @@ Challenged attack
 Unchallenged attack
 
 `success = (attacking ability + 1d20) - 25 + modifiers`
+
+damages|action modifier
+---|---:
+0-10|0
+11-20|-5
+21-30|-10
+31-40|-15
+41-49|-20
+
+apparent size of target|modifier
+---|---:
+Bigger than equal size at 5m|+5
+Equal size at 5m|0
+1/2 the size at 5m|-10
+1/4 the size at 5m|-20
+Smaller than 1/4 size at 5m|-40
+
+speed of target|modifier
+---|---:
+Still|+5
+Walking|0
+Trotting|-5
+Running|-10
+Moving erratically|-5
+
+success|damage modifier
+---|---:
+1-10|1/2 damage
+11-30|normal
+31-40|+ 1/2 damage
+41+|double damage
