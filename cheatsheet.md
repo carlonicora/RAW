@@ -18,11 +18,10 @@ Unchallenged attack
 
 damages|action modifier
 ---|---:
-0-10|0
-11-20|-5
-21-30|-10
-31-40|-15
-41-49|-20
+0-20|0
+21-30|-5
+31-40|-10
+41+|-15
 
 apparent size of target|modifier
 ---|---:
@@ -43,6 +42,6 @@ Moving erratically|-5
 success|damage modifier
 ---|---:
 1-10|1/2 damage
-11-30|normal
-31-40|+ 1/2 damage
-41+|double damage
+11-20|normal
+21-30|+ 1/2 damage
+31+|double damage

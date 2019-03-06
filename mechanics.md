@@ -25,11 +25,10 @@ When a character has suffered physical damages, they won't be able to perform as
 
 damages|action modifier
 ---|---:
-0-10|0
-11-20|-5
-21-30|-10
-31-40|-15
-41-49|-20
+0-20|0
+21-30|-5
+31-40|-10
+41+|-15
 
 ## Character creation
 At the beginning of a game, the user defines:
@@ -126,9 +125,9 @@ Every weapon has a fixed amount of damages it inflicts. The damage receives a mo
 success|damage modifier
 ---|---:
 1-10|1/2 damage
-11-30|normal
-31-40|+ 1/2 damage
-41+|double damage
+11-20|normal
+21-30|+ 1/2 damage
+31+|double damage
 
 
 ### Ablative armour
