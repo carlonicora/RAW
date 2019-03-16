@@ -38,7 +38,6 @@ Every ability will start from the value of the trait they refer to.
 
 ### OCEAN personality traits
 
-
 ### Background story
 Every character's initial ability should be explained by a back story. The player should explain why their character know how to do certain things and how they leaned those abilities.
 
