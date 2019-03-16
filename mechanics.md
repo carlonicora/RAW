@@ -46,18 +46,6 @@ At the beginning of the game, each character possesses five abilities of their c
 
 Every ability will start from the value of the trait they refer to.
 
-### HEXACO personality
-Each player should define the personality of a character based on the [HEXACO model of personality structure](https://en.m.wikipedia.org/wiki/HEXACO_model_of_personality_structure). The structure identifies six traits of the personality and assigns them a value between 1 and 5:
-
-- __H__ onesty
-- __E__ motionality
-- e __X__ traversion
-- __A__ greeableness
-- __C__ onscientiousness
-- __O__ penness to Experience
-
-Available online there is a [HEXACO personality test](http://hexaco.org/hexaco-online) which the players can take while seeing the world through their character's eyes.
-
 ### Background story
 Every character's initial ability should be explained by a back story. The player should explain why their character know how to do certain things and how they leaned those abilities.
 
@@ -103,13 +91,13 @@ When the attack of a character cannot be actively defended by the other characte
 ### Attack modifiers
 The attack success can be modified by a series of factors. Some of them make it easy to hit or deliver damages, while others can make it more challenging to attack.
 
-apparent size of target|modifier
+size of target|modifier
 ---|---:
-Bigger than equal size at 5m|+5
-Equal size at 5m|0
-1/2 the size at 5m|-10
-1/4 the size at 5m|-20
-Smaller than 1/4 size at 5m|-40
+Tiny|+10
+Small|+5
+Medium|0
+Big|-5
+Huge|+10
 
 speed of target|modifier
 ---|---:
@@ -133,15 +121,14 @@ success|damage modifier
 ### Ablative armour
 Jinx uses the idea of ablative armours, which are protections that absorb the damages in lieu of the character wearing it. The armours have a fixed amount of protection, which is lost every time a damage is absorbed.
 
-The ablative armour can absorb only 50% of its protection in a single attack. The rest of the damage is passed to the character.
+The ablative armour can absorb only a maximum of damage in a single attack. Each armour should specify this value.
 
 ### Weapons and Armours
 Future expansions will include a list of weapons and armours for various type of games (Fantasy, Contemporary, Science Fiction).
 
 ## Character progression
 Jinx is based on the character progression based on its abilities, not on levels. Every time a character succeed in an ability test, the player should mark that action as successfully trained.
-At the end of every adventure, which should last a few session, the storyteller should allow the players to try and increase their character's ability scores.
+At the end of every adventure, which should last a few session, the storyteller should allow the players to increase their character's ability scores.
 
-To increase the score of a trained ability, the player should score higher than the ability value on a d100 roll. In case of success, the ability is increased by 1 point.
-
-The storyteller may allow the value to be tested a second time at the end of the same adventure should the player had demonstrated particular qualities in handling that specific ability.
+## Magic
+In world where magic can be used, Jinx supports the idea of Vancian Magic. Every spellcaster must learn their spells every day, and they dissolve from their memories after being cast. Hence, magic users must learn the spell before being able to cast it again. Magic users can learn a single spell for longer, which means they are able to cast it more than once.
