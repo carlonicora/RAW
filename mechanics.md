@@ -37,11 +37,7 @@ At the beginning of the game, each character possesses five abilities of their c
 Every ability will start from the value of the trait they refer to.
 
 ### OCEAN personality traits
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> 4e9fed731b21f8b47dba8e7845ef46fa84439184
 
 ### Background story
 Every character's initial ability should be explained by a back story. The player should explain why their character know how to do certain things and how they leaned those abilities.
