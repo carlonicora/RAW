@@ -20,22 +20,12 @@ Every playing character has 50 life points plus the value of their __Body__. Whe
 
 `life points = 50 + Body`
 
-### Effects of damages on character
-When a character has suffered physical damages, they won't be able to perform as well as they would when in optimal conditions. The more the character is hurt, the more challenging their action become.
-
-damages|action modifier
----|---:
-0-20|0
-21-30|-5
-31-40|-10
-41+|-15
-
 ## Character creation
 At the beginning of a game, the user defines:
 
 - Traits values
 - Initial abilities and values
-- HEXACO personality
+- OCEAN personality traits
 - Background story
 
 ### Traits values
@@ -45,6 +35,9 @@ Every player has 30 points to divide in the three traits of their character. The
 At the beginning of the game, each character possesses five abilities of their choice. The player has 60 points to distribute in the five abilities, with a limit of 20 points in each ability.
 
 Every ability will start from the value of the trait they refer to.
+
+### OCEAN personality traits
+ 
 
 ### Background story
 Every character's initial ability should be explained by a back story. The player should explain why their character know how to do certain things and how they leaned those abilities.
