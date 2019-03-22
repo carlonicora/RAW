@@ -1,6 +1,57 @@
 # Game Masters' Guide to Campaigns and Adventures
 
----
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Game Masters' Guide to Campaigns and Adventures](#game-masters-guide-to-campaigns-and-adventures)
+	- [Introduction](#introduction)
+		- [What is a Role-Playing Game](#what-is-a-role-playing-game)
+		- [Setting](#setting)
+		- [Example of play](#example-of-play)
+	- [How to be a good storyteller](#how-to-be-a-good-storyteller)
+		- [Sandboxing or Railroading?](#sandboxing-or-railroading)
+		- [The differences between a storyteller and a player](#the-differences-between-a-storyteller-and-a-player)
+		- [The golden rule of a good game master](#the-golden-rule-of-a-good-game-master)
+	- [Campaigns](#campaigns)
+		- [Plotting a Campaign](#plotting-a-campaign)
+		- [The master plot](#the-master-plot)
+		- [The story is a collection of tasks](#the-story-is-a-collection-of-tasks)
+		- [Know everything and everyone in your plot](#know-everything-and-everyone-in-your-plot)
+		- [A plot is a long term plan written in pencil](#a-plot-is-a-long-term-plan-written-in-pencil)
+		- [Multiple Plots](#multiple-plots)
+	- [Adventures](#adventures)
+		- [Type of Adventures in a Campaign](#type-of-adventures-in-a-campaign)
+			- [Campaign adventures](#campaign-adventures)
+			- [Other adventures](#other-adventures)
+		- [The Story Circle](#the-story-circle)
+		- [Write your adventures in pencil!](#write-your-adventures-in-pencil)
+		- [The Anatomy of an Adventure](#the-anatomy-of-an-adventure)
+			- [Adventure Main Questions](#adventure-main-questions)
+			- [Turning Points](#turning-points)
+			- [Events](#events)
+				- [Type of Events](#type-of-events)
+			- [NPCs and Locations](#npcs-and-locations)
+		- [Footnotes on the anatomy of an adventure](#footnotes-on-the-anatomy-of-an-adventure)
+			- [Splitting the adventure into sessions](#splitting-the-adventure-into-sessions)
+			- [Timing is essential](#timing-is-essential)
+		- [An Example of an Adventure creation](#an-example-of-an-adventure-creation)
+			- [Adventure Main Questions](#adventure-main-questions)
+			- [Turning Points](#turning-points)
+			- [Events](#events)
+				- [Episode/Session 1](#episodesession-1)
+				- [Episode/Session 2](#episodesession-2)
+				- [Episode/Session 3](#episodesession-3)
+				- [Episode/Session 4](#episodesession-4)
+	- [Session 0 and character creation](#session-0-and-character-creation)
+	- [The game mechanics](#the-game-mechanics)
+		- [Actions](#actions)
+		- [Combat](#combat)
+		- [Character Progression](#character-progression)
+	- [Time to play](#time-to-play)
+		- [Before each Episode](#before-each-episode)
+		- [During each Episode](#during-each-episode)
+		- [After each Episode](#after-each-episode)
+
+<!-- /TOC -->
 
 ## Introduction
 
@@ -19,7 +70,6 @@ While Jinx is designed to support multiple universes, this main guide is written
 
 ### Example of play
 
----
 
 ## How to be a good storyteller
 
@@ -148,7 +198,7 @@ One more piece of advice: listen to your players. It is quite common for them to
 
 You have seen how I create an adventure and -hopefully- you haven't lost the main logic behind it. To create the adventure you read it took me 15', plus writing time. In the writing time, I managed to write a few more details.
 
-Let's now go to a step-by-step point to create your own adventure
+Let's now go to a step-by-step point to create your own adventure!
 
 #### Adventure Main Questions
 1. What is the goal of the adventure?
@@ -220,7 +270,7 @@ Also, knowing your players well, and realising what they appreciate the most, ma
 
 ### An Example of an Adventure creation
 
-##### Adventure Main Questions
+#### Adventure Main Questions
 
 Before jumping into the eight points of the Story Circle method, you need to begin from the end. It is not counterintuitive, it simplifies the implementation of your adventure. So, to start, you need to answer three questions:
 1. What are the heroes going to achieve at the end of the adventure?
@@ -365,7 +415,7 @@ The key element at this point is to build tension and expectation in the player 
 3. The PCs decide to go to save Cham Syndula
 ```
 
-###### Episode/Session 2
+##### Episode/Session 2
 
 Your players are now excited because their characters will embark on an adventure to save a rebellious leader. Now, by moving in the lower semicircle of the Story Circle, they enter in the special moment, in the chaotic part of the adventure. You need to create a meaty journey and let the player live it at its best. Let's create more events to connect the dots!
 
@@ -433,7 +483,7 @@ I like to end the sessions on a few seconds of personal reflection. This allows 
 ```
 
 ---
-###### Episode/Session 3
+##### Episode/Session 3
 
 >**5.01 - Passing through the blockade** (_Social Interaction - 15'_)
 >- The Tydirium 375 comes out from hyperspace in the middle of **a lot** of Imperial ships, from star destroyers to tie fighters.
@@ -493,7 +543,7 @@ Please keep in mind that if previously the party decided to split, you have to a
 ```
 
 ---
-###### Episode/Session 4
+##### Episode/Session 4
 
 >**7.01 - The Garrison on the plain** (_Social Interaction - 15'_)
 >- This is the beginning of the resurrection. The PCs failed, but it is payback time for them. **Make it Epic**
