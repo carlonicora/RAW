@@ -1,55 +1,50 @@
 # Game Masters' Guide to Campaigns and Adventures
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Game Masters' Guide to Campaigns and Adventures](#game-masters-guide-to-campaigns-and-adventures)
-	- [Introduction](#introduction)
-		- [What is a Role-Playing Game](#what-is-a-role-playing-game)
-		- [Setting](#setting)
-		- [Example of play](#example-of-play)
-	- [How to be a good storyteller](#how-to-be-a-good-storyteller)
-		- [Sandboxing or Railroading?](#sandboxing-or-railroading)
-		- [The differences between a storyteller and a player](#the-differences-between-a-storyteller-and-a-player)
-		- [The golden rule of a good game master](#the-golden-rule-of-a-good-game-master)
-	- [Campaigns](#campaigns)
-		- [Plotting a Campaign](#plotting-a-campaign)
-		- [The master plot](#the-master-plot)
-		- [The story is a collection of tasks](#the-story-is-a-collection-of-tasks)
-		- [Know everything and everyone in your plot](#know-everything-and-everyone-in-your-plot)
-		- [A plot is a long term plan written in pencil](#a-plot-is-a-long-term-plan-written-in-pencil)
-		- [Multiple Plots](#multiple-plots)
-	- [Adventures](#adventures)
-		- [Type of Adventures in a Campaign](#type-of-adventures-in-a-campaign)
-			- [Campaign adventures](#campaign-adventures)
-			- [Other adventures](#other-adventures)
-		- [The Story Circle](#the-story-circle)
-		- [Write your adventures in pencil!](#write-your-adventures-in-pencil)
-		- [The Anatomy of an Adventure](#the-anatomy-of-an-adventure)
-			- [Adventure Main Questions](#adventure-main-questions)
-			- [Turning Points](#turning-points)
-			- [Events](#events)
-				- [Type of Events](#type-of-events)
-			- [NPCs and Locations](#npcs-and-locations)
-		- [Footnotes on the anatomy of an adventure](#footnotes-on-the-anatomy-of-an-adventure)
-			- [Splitting the adventure into sessions](#splitting-the-adventure-into-sessions)
-			- [Timing is essential](#timing-is-essential)
-		- [An Example of an Adventure creation](#an-example-of-an-adventure-creation)
-			- [Adventure Main Questions](#adventure-main-questions)
-			- [Turning Points](#turning-points)
-			- [Events](#events)
-				- [Episode/Session 1](#episodesession-1)
-				- [Episode/Session 2](#episodesession-2)
-				- [Episode/Session 3](#episodesession-3)
-				- [Episode/Session 4](#episodesession-4)
-	- [Session 0 and character creation](#session-0-and-character-creation)
-	- [The game mechanics](#the-game-mechanics)
-		- [Actions](#actions)
-		- [Combat](#combat)
-		- [Character Progression](#character-progression)
-	- [Time to play](#time-to-play)
-		- [Before each Episode](#before-each-episode)
-		- [During each Episode](#during-each-episode)
-		- [After each Episode](#after-each-episode)
+- [Introduction](#introduction)
+	- [What is a Role-Playing Game](#what-is-a-role-playing-game)
+	- [Setting](#setting)
+	- [Example of play](#example-of-play)
+- [How to be a good storyteller](#how-to-be-a-good-storyteller)
+	- [Sandboxing or Railroading?](#sandboxing-or-railroading)
+	- [The differences between a storyteller and a player](#the-differences-between-a-storyteller-and-a-player)
+	- [The golden rule of a good game master](#the-golden-rule-of-a-good-game-master)
+- [Campaigns](#campaigns)
+	- [Plotting a Campaign](#plotting-a-campaign)
+	- [The master plot](#the-master-plot)
+	- [The story is a collection of tasks](#the-story-is-a-collection-of-tasks)
+	- [Know everything and everyone in your plot](#know-everything-and-everyone-in-your-plot)
+	- [A plot is a long term plan written in pencil](#a-plot-is-a-long-term-plan-written-in-pencil)
+	- [Multiple Plots](#multiple-plots)
+- [Adventures](#adventures)
+	- [Type of Adventures in a Campaign](#type-of-adventures-in-a-campaign)
+		- [Campaign adventures](#campaign-adventures)
+		- [Other adventures](#other-adventures)
+	- [The Story Circle](#the-story-circle)
+	- [Write your adventures in pencil!](#write-your-adventures-in-pencil)
+	- [The Anatomy of an Adventure](#the-anatomy-of-an-adventure)
+		- [Adventure Main Questions](#adventure-main-questions)
+		- [Turning Points](#turning-points)
+		- [Events](#events)
+			- [Type of Events](#type-of-events)
+		- [NPCs and Locations](#npcs-and-locations)
+	- [Footnotes on the anatomy of an adventure](#footnotes-on-the-anatomy-of-an-adventure)
+		- [Splitting the adventure into sessions](#splitting-the-adventure-into-sessions)
+		- [Timing is essential](#timing-is-essential)
+	- [An Example of an Adventure creation](#an-example-of-an-adventure-creation)
+		- [Adventure Main Questions](#adventure-main-questions)
+		- [Turning Points](#turning-points)
+		- [Events](#events)
+			- [Episode/Session 1](#episodesession-1)
+			- [Episode/Session 2](#episodesession-2)
+			- [Episode/Session 3](#episodesession-3)
+			- [Episode/Session 4](#episodesession-4)
+- [Session 0 and character creation](#session-0-and-character-creation)
+- [Time to play](#time-to-play)
+	- [Before each Episode](#before-each-episode)
+	- [During each Episode](#during-each-episode)
+	- [After each Episode](#after-each-episode)
 
 <!-- /TOC -->
 
@@ -97,8 +92,6 @@ A good game master is the one that is able to make their player characters inter
 
 This means that your role of unsung hero will require you to change your plots, stories, ideas and expectations. Become comfortable with changes, because that's the only way you can be a good game master.
 
----
-
 ## Campaigns
 
 ### Plotting a Campaign
@@ -112,7 +105,9 @@ Put your thinking cap on, forget any player and start planning what your world w
 ### The master plot
 A plot is a simple sentence that identifies, without describing, the main villain and its goal.
 
->Lord Enoch wants to gain the throne of the Empire of Wardwore by either buying the support of the high council or killing those who oppose him.
+```
+Lord Enoch wants to gain the throne of the Empire of Wardwore by either buying the support of the high council or killing those who oppose him.
+```
 
 Don't expect your master plot to tell you more than what's necessary. Your first plot does not have to be interesting. A master plot is just the baseline of what the world will go through.
 
@@ -149,8 +144,6 @@ That said, I like to write a few more adventures than strictly necessary. I do i
 
 ### Multiple Plots
 If you want to create a world your players will find multi-faceted and complete, you only need to write more than one plot which interacts between each other. While this may sound simple, at least once you master the logic behind how to create a plot, the complexity of multiple plots is exponentials. The number of non-player characters, how they interact with each other and how these plots will interact together, can be overwhelming. I suggest this approach only if you have mastered the base plot exceptionally well and you have a group of players ready to embark on an epic, long journey.
-
----
 
 ## Adventures
 
@@ -482,7 +475,6 @@ I like to end the sessions on a few seconds of personal reflection. This allows 
 5. The PCs realise that by jumping to hyperspeed towards Ryloth in a stolen Imperial ship is a ticket without return. They will be in charge of their future!
 ```
 
----
 ##### Episode/Session 3
 
 >**5.01 - Passing through the blockade** (_Social Interaction - 15'_)
@@ -542,7 +534,6 @@ Please keep in mind that if previously the party decided to split, you have to a
 7. The PCs realise that the Imperial vessel they have stolen cannot be used to leave Ryloth. They have to realise they need a new Imperial ship to escape.
 ```
 
----
 ##### Episode/Session 4
 
 >**7.01 - The Garrison on the plain** (_Social Interaction - 15'_)
@@ -603,22 +594,7 @@ It is important that you play all the cards in your deck to make sure the PCs fe
 One thing you have to remember is that how many encounters you put between one point in the Story Circle and the other depends entirely by how much you know your players. Do they tend to think a lot before acting? Use fewer planning events and let them role play a lot. Are they swift to take out their weapons and shoot whatever moves? Give them more encounters. Do they like to explore the world they live in details? Fewer explorations.
 You need to know your players and you have to know yourself. Make sure you use your first adventure to learn these details and to adapt your storytelling style to give a good pace.
 
-
----
-
 ## Session 0 and character creation
-
----
-
-## The game mechanics
-
-### Actions
-
-### Combat
-
-### Character Progression
-
----
 
 ## Time to play
 
