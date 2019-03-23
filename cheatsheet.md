@@ -1,47 +1,40 @@
 # Jinx Cheatsheet
 
-Challenged action
+## Actions
 
-`success = (ability + 1d20) - (ability + 1d20)`
+>result = ability + 1d20
 
-Unchallenged action
+## Combat
 
-`success = (ability + 1d20) - threshold`
+### Unchallenged
 
-Challenged attack
+>success = ability + modifiers + 1d20 **- 25**
 
-`success = (attacking ability + 1d20) - (defending ability + 1d20)`
+### Challenged
 
-Unchallenged attack
+>success = ability + modifiers + 1d20 **- adversary**
 
-`success = (attacking ability + 1d20) - 25 + modifiers`
+### Modifiers
 
-damages|action modifier
+size of target|modifier
 ---|---:
-0-20|0
-21-30|-5
-31-40|-10
-41+|-15
+Tiny|-10
+Small|-5
+Medium|0
+Big|+5
+Huge|+10
 
-apparent size of target|modifier
----|---:
-Bigger than equal size at 5m|+5
-Equal size at 5m|0
-1/2 the size at 5m|-10
-1/4 the size at 5m|-20
-Smaller than 1/4 size at 5m|-40
+### Damage
 
-speed of target|modifier
----|---:
-Still|+5
-Walking|0
-Trotting|-5
-Running|-10
-Moving erratically|-5
+>damage = weapon * damage modifier
+
+### Damage Modifier
 
 success|damage modifier
 ---|---:
-1-10|1/2 damage
-11-20|normal
-21-30|+ 1/2 damage
-31+|double damage
+1-10|1/2
+11-20|1
+21-30|1.5
+31-40|2
+41-50|2.5
+51+|3
