@@ -2,7 +2,7 @@
 
 ## Actions
 
->result = ability + 1d20
+>success = ability + 1d20
 
 ## Combat
 
