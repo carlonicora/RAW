@@ -25,11 +25,17 @@
 		- [Unchallenged actions](#unchallenged-actions)
 		- [Threshold](#threshold)
 	- [Combat](#combat)
+		- [Challenged Attacks](#challenged-attacks)
+		- [Unchallenged Attacks](#unchallenged-attacks)
+		- [Attack modifiers](#attack-modifiers)
+		- [Damages](#damages)
+		- [Ablative armours](#ablative-armours)
 	- [Damages and Death](#damages-and-death)
 		- [Effects of damages on character](#effects-of-damages-on-character)
 		- [Unconsciousness](#unconsciousness)
 		- [Death](#death)
 	- [Magic](#magic)
+- [Character Progression](#character-progression)
 - [The World](#the-world)
 - [Storytelling](#storytelling)
 	- [Building dreams 101](#building-dreams-101)
@@ -149,13 +155,70 @@ Threshold|Difficulty level
 ---:|---
 10|Mundane difficulty, almost everyone can do it
 25|Normal challenge, with a bit of effort you can do it
-50|Difficult, you need to master your ability in order to succeed
-75|Exceptional, only few people can do it
-100+|Inhuman, the few that make it are the top
+50|Difficult, you need to know your ability in order to succeed
+75|Exceptional, only those who master the ability can do it
+100+|Inhuman, the few that make it are the top of the top
 
 The threshold is set by the game master, and indicates the level of success the action should reach in order to be successful.
 
 ### Combat
+
+Similarly to every action, the result of an attack depends if the attack is challenged (*punching VS dodging*) or unchallenged (*shooting another character*).
+
+In Jinx, fighting is dangerous. The game itself is designed to make combat a serious action with dire consequences. By no means we want to avoid combat situations, on the contrary we believe they balance a well though-through campaign. Yet, Jinx is a role-playing game which focuses on storytelling and abilities. Combat is no more important than any other skill.
+
+#### Challenged Attacks
+When two characters are fighting and the defending character has an ability which can challenge the attacker, then the attack result is defined by a simple comparison between the attack ability plus 1d20 and the defending ability plus 1d20.
+
+The **level of success or failure** is the difference between the two results.
+
+`success = (attacking ability + 1d20) - (defending ability + 1d20)`
+
+#### Unchallenged Attacks
+When the attack of a character cannot be actively defended by the other character, the difficulty is derived by a base challenge factor of **25**. This can receive a positive or negative modifier depending on the opponent apparent size and speed.
+
+`success = (attacking ability + 1d20) - 25`
+
+#### Attack modifiers
+The attack success can be modified by a series of factors. Some of them make it easy to hit or deliver damages, while others can make it more challenging to attack.
+
+size of target|modifier
+---|---:
+Tiny|+10
+Small|+5
+Medium|0
+Big|-5
+Huge|+10
+
+speed of target|modifier
+---|---:
+Still|+5
+Walking|0
+Trotting|-5
+Running|-10
+Moving erratically|-5
+
+#### Damages
+Every weapon has a fixed amount of damages it inflicts. The damage receives a modifier depending on the success of the attack.
+
+success|damage modifier
+---|---:
+1-10|1/2
+11-20|1
+21-30|1.5
+31-40|2
+41-50|2.5
+51+|3
+
+
+#### Ablative armours
+Jinx uses the idea of ablative armours, which are protections that absorb the damages in lieu of the character wearing it. The armours have a fixed amount of protection, which is lost every time a damage is absorbed.
+
+The ablative armour can absorb only a maximum of damage in a single attack. Each armour should specify this value.
+
+Every time the damage caused by a single attack is bigger than the amount of damages the armour can substain in a single attack, the rest of the damages are passed to the character.
+
+Each character can try and repair a damaged armour using the Armoury skill.
 
 ### Damages and Death
 
@@ -187,6 +250,8 @@ A character dies when one of the following condition happens:
 
 
 ### Magic
+
+## Character Progression
 
 ## The World
 
