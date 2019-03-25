@@ -44,6 +44,8 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 
 ### Magic
 
+## The World
+
 ## Storytelling
 
 ### Building dreams 101
@@ -94,17 +96,17 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 
 ### Factions
 
-## Running a game
+### Running a game
 
-### The social contract
+#### The social contract
 
-### Session 0
+#### Session 0
 
-### Before every session
+#### Before every session
 
-### During every session
+#### During every session
 
-### After every session
+#### After every session
 
 ## Examples
 
