@@ -10,15 +10,32 @@ Every character has 3 traits, ranked on a scale between 1 and 20. They are:
 - __Spirit__ is used for the characters self esteem, confidence and presence.
 
 ### Abilities
+
 Every character has a list of abilities. Each ability is linked to a trait. The initial value of a new ability is the value of the trait itself.
 
 The abilities defines the character, as Jinx does not have the notion of class. The list of abilities is era-dependent. Future expansions will include a list of abilities for various type of games (Fantasy, Contemporary, Science Fiction).
 
+### Talents
+
+Some abilities, when mastered over 50 points, offers some unique talents. Differently from traits and abilities, talents do not have any value, they are just capabilities that expands the abilities themselves. For example, a character whose melee ability of 50 or more can chose to master a double attack.
+
+The list of talents is available with the list of attributes.
 
 ### Life points
 Every playing character has 50 life points plus the value of their __Body__. When lost, the life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
 
-`life points = 50 + Body`
+`life points = 40 + Body`
+
+### Effects of damages on character
+When a character has suffered physical damages, they won't be able to perform as well as they would when in optimal conditions. The more the character is hurt, the more challenging their action become.
+
+damages|action modifier
+---|---:
+0-20|0
+21-25|-5
+26-30|-10
+31-35|-15
+36+|-20
 
 ## Character creation
 At the beginning of a game, the user defines:
@@ -104,10 +121,12 @@ Every weapon has a fixed amount of damages it inflicts. The damage receives a mo
 
 success|damage modifier
 ---|---:
-1-10|1/2 damage
+1-10|damage 0.5
 11-20|normal
-21-30|+ 1/2 damage
-31+|double damage
+21-30|damage x 1.5
+31-40|damage x 2
+41-50|damage x 2.5
+51+|damage x 3
 
 
 ### Ablative armour
