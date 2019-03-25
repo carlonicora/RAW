@@ -6,11 +6,27 @@
 
 ### Settings
 
+This game is based on a fantasy world like the ones in Tolkien's **The Lord of the Ring**, 
+
 ### An example of play
 
 ## Character creation
 
 ### Demography
+
+#### Races
+
+##### Humans
+
+##### Elves
+
+##### Dwarves
+
+##### Halflings
+
+##### Orcs
+
+##### Half-Elves
 
 ### Psychography
 
@@ -28,7 +44,7 @@
 
 ### Magic
 
-## Storyteller
+## Storytelling
 
 ### Building dreams 101
 
@@ -77,3 +93,29 @@
 ### Locations
 
 ### Factions
+
+## Running a game
+
+### The social contract
+
+### Session 0
+
+### Before every session
+
+### During every session
+
+### After every session
+
+## Examples
+
+### Character Creation
+
+### Campaign Creation
+
+### Adventure Creation
+
+### Non Player Character Creation
+
+### Location Creation
+
+### Faction Creation
