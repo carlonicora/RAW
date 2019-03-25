@@ -97,6 +97,8 @@ The **level of success or failure** is the difference between the threshold and 
 ## Fighting
 Similarly to every action, the result of an attack depends if the attack is challenged (*punching VS dodging*) or unchallenged (*shooting another character*).
 
+In Jinx, fighting is dangerous. The game itself is designed to make combat a serious action with dire consequences. By no means we want to avoid combat situations, on the contrary we believe they balance a well though-through campaign. Yet, Jinx is a role-playing game which focuses on storytelling and abilities. Combat is no more important than any other skill.
+
 ### Challenged Attacks
 When two characters are fighting and the defending character has an ability which can challenge the attacker, then the attack result is defined by a simple comparison between the attack ability plus 1d20 and the defending ability plus 1d20.
 
