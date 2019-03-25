@@ -91,6 +91,8 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 
 ### An example of play
 
+*Storyteller*: When you reach the base of the tower, you notice two men sitting with their backs on the door.
+
 ## Character creation
 
 ### Demography
