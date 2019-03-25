@@ -42,6 +42,33 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 
 ### Damages and Death
 
+A character life points are indicative of their psycho-physical health. Every time a character is injured, debilitated or psychologically damaged, their life points are lowered to reflect the character status. 
+
+#### Effects of damages on character
+
+When a character has suffered damages, they won't be able to perform as well as they would when in optimal conditions. The more the character is hurt, the more challenging their action become.
+
+The table below indicates how the amount of psychophysical damages affects the character ability to perform any action.
+
+damages|action modifier
+---|---:
+0-20|0
+21-25|-5
+26-30|-10
+31-35|-15
+36+|-20
+
+#### Unconsciousness
+
+When a character reaches between 0 and -30 life points, they are rendered unconscious. They can only be revived with medicine, potions or spells. Every round unconscious, every player character should roll a body trait check against a threshold of **25*, or lose 10 life points.
+
+#### Death
+
+A character dies when one of the following condition happens:
+- they reach -31 points or less
+- when they are unconscious, an attacker announces a *coup de grace* on them
+
+
 ### Magic
 
 ## The World
