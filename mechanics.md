@@ -1,13 +1,13 @@
 # Jinx: Simple Storytelling Role Playing Game Mechanics
 
-## Traits and Abilities
+## Traits, Abilities and Talents
 
 ### Traits
 Every character has 3 traits, ranked on a scale between 1 and 20. They are:
 
-- __Body__ identifies everything related to strength, agility, health.
-- __Mind__ defines the intellectual capabilities.
-- __Spirit__ is used for the characters self esteem, confidence and presence.
+- **Body** identifies everything related to strength, agility, health.
+- **Mind** defines the intellectual capabilities.
+- **Spirit** is used for the characters self esteem, confidence and presence.
 
 ### Abilities
 
@@ -21,8 +21,8 @@ Some abilities, when mastered over 50 points, offers some unique talents. Differ
 
 The list of talents is available with the list of attributes.
 
-### Life points
-Every playing character has 50 life points plus the value of their __Body__. When lost, the life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
+## Life Points
+Every playing character has 50 life points plus the value of their **Body**. When lost, the life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
 
 `life points = 40 + Body`
 
@@ -36,6 +36,16 @@ damages|action modifier
 26-30|-10
 31-35|-15
 36+|-20
+
+### Unconsciousness
+
+When a character reaches between 0 and -30 life points, they are rendered unconscious. To regain consciousness they can only be revived with medicine, potions or spells. Every round unconscious, every player character should roll a body trait check against a challenge of 25, or lose 10 life points.
+
+### Death
+
+A character dies when one of the following condition happens:
+- they reach -31 points or less
+- when they are unconscious, an attacker announces a *coup de grace* on them
 
 ## Character creation
 At the beginning of a game, the user defines:
@@ -59,7 +69,7 @@ Every ability will start from the value of the trait they refer to.
 Every character's initial ability should be explained by a back story. The player should explain why their character know how to do certain things and how they leaned those abilities.
 
 ## Actions outcome
-Every time a character need to perform an action which is not trivial or impossible, they will have to check if they succeed. There are two type of actions: challenged (_stealth VS awareness_) and unchallenged (_jumping over a fence_).
+Every time a character need to perform an action which is not trivial or impossible, they will have to check if they succeed. There are two type of actions: challenged (*stealth VS awareness*) and unchallenged (*jumping over a fence*).
 
 In both cases, the rules refers to an ability, but the challenge can be done on a trait.
 
@@ -71,7 +81,7 @@ The open ended roll applies only to the first roll, and not on the re-rolls.
 ### Challenged actions
 When the action of a character can be challenged by a counter action of another character, then the result of the action is defined by a simple comparison between the action plus 1d20 of the first character and the counter action plus 1d20 of the second character.
 
-The __level of success or failure__ is the difference between the two action results.
+The **level of success or failure** is the difference between the two action results.
 
 `success = (ability + 1d20) - (ability + 1d20)`
 
@@ -80,22 +90,22 @@ Unchallenged actions are those actions which are not opposed by another characte
 
 The action result is calculated by adding the ability or trait of the action plus 1d20.
 
-The __level of success or failure__ is the difference between the threshold and the action result.
+The **level of success or failure** is the difference between the threshold and the action result.
 
 `success = (ability + 1d20) - threshold`
 
 ## Fighting
-Similarly to every action, the result of an attack depends if the attack is challenged (_punching VS dodging_) or unchallenged (_shooting another character_).
+Similarly to every action, the result of an attack depends if the attack is challenged (*punching VS dodging*) or unchallenged (*shooting another character*).
 
 ### Challenged Attacks
 When two characters are fighting and the defending character has an ability which can challenge the attacker, then the attack result is defined by a simple comparison between the attack ability plus 1d20 and the defending ability plus 1d20.
 
-The __level of success or failure__ is the difference between the two results.
+The **level of success or failure** is the difference between the two results.
 
 `success = (attacking ability + 1d20) - (defending ability + 1d20)`
 
 ### Unchallenged Attacks
-When the attack of a character cannot be actively defended by the other character, the difficulty is derived by a base challenge factor of __25__. This can receive a positive or negative modifier depending on the opponent apparent size and speed. The _apparent size_ is how big the target looks from the attacker perspective. This can be because of the real size of the opponent, its distance form the attacker or due to the opponent being hidden from view.
+When the attack of a character cannot be actively defended by the other character, the difficulty is derived by a base challenge factor of **25**. This can receive a positive or negative modifier depending on the opponent apparent size and speed. The *apparent size* is how big the target looks from the attacker perspective. This can be because of the real size of the opponent, its distance form the attacker or due to the opponent being hidden from view.
 
 ### Attack modifiers
 The attack success can be modified by a series of factors. Some of them make it easy to hit or deliver damages, while others can make it more challenging to attack.
@@ -121,12 +131,12 @@ Every weapon has a fixed amount of damages it inflicts. The damage receives a mo
 
 success|damage modifier
 ---|---:
-1-10|damage 0.5
-11-20|normal
-21-30|damage x 1.5
-31-40|damage x 2
-41-50|damage x 2.5
-51+|damage x 3
+1-10|1/2
+11-20|1
+21-30|1.5
+31-40|2
+41-50|2.5
+51+|3
 
 
 ### Ablative armour
