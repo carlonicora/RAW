@@ -91,7 +91,51 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 
 ### An example of play
 
-*Storyteller*: When you reach the base of the tower, you notice two men sitting with their backs on the door.
+> **Storyteller**: When you reach the base of the tower, you notice two men sitting with their backs on the door.
+>
+> **Faby**: Are they asleep?
+>
+> **Storyteller**: No, they are talking amongst each other
+>
+> **Will**: Can we get close to them without being noticed
+>
+> **Storyteller**: Not really, especially because they have already spotted you. They are standing up, and you notice that one of the two is adjusting his sword
+>
+> **Faby**: How far are we from them?
+>
+> **Storyteller**: They are roughly 20 meters from them. Now that that stood up, you can see they are quite tall. One of them has a sleeveless shirt, and his arms are full of tattoos
+>
+> **Will**: Do I recognise any of the tattoos?
+>
+> **Storyteller**: Without any doubt. You have seen them many times during the last war.
+>
+> **Will**: Shit...
+>
+> **Faby**: I take my bow out and I aim
+>
+> **Storyteller**: When they see you taking your bow out they start moving towards you. One of them seems smarter than the other and moves quite erratically, the other focuses on speed
+>
+> **Will**: I guess Brikoto takes out his long sword
+>
+> **Faby**: I spend one turn to carefully aim to the idiot running straight towards me
+>
+> **Storyteller**: He seems to be sure he can reach you before you can let your arrow fly. He is raising his sword while he runs. It is obvious that the other is smarter, as while he is moving towards you, he start shouting.
+>
+> **Will**: Brikoto moves towards the second man saying "*So much for trying and be quiet...*"
+>
+> **Faby**: Okado let the arrow fly, and says to Brikoto "*Hey, I told you we should have gone from the other entrance!*"
+>
+> **Storyteller**: Roll to hit, Faby
+>
+> **Faby rolls a die**: Okado's ability with the bow is 49, plus 17 of the dice, plus 10 as I was aiming for one turn... I have 74, minus 25 to hit, I have a success of 51. 15 damages times 3, Okado strikes 45 damages with a single arrow!
+>
+> **Storyteller**: You see the first man running straight towards Okado, that let one of her arrow fly towards him. His velocity is immediately halted when the arrow hits him straight on his head, making him fall heavily on his back. Will, what do you do?
+>
+> **Will**: running erratically or not, as soon as the second idiot is close, I swing my sword.
+>
+> **Faby**: I take out my knife and I make sure that the first guy is not going to stand up again.
+>
+> **Storyteller**: The second man
 
 ## Character creation
 
@@ -261,19 +305,51 @@ A character dies when one of the following condition happens:
 
 ## Storytelling
 
-### Building dreams 101
+The idea of being a "good storyteller" boils down to be able to create world and stories your players are going to love. If your players can't stop talking about what happened in the last session and they come back for more, you know you are doing a great job.
 
-#### The differences between a storyteller and a player
+Yet, the road to having fun, for a storyteller, is not as simple as the one our players have. There are a lot of things that go behind the scenes of a good role-playing game adventure, and many of them fall on the storyteller's shoulder. While role-playing is a group effort, and the final story is written by the players, it is your responsibility to lie the foundations for your players to build on.
+
+In this part of the book we will do deeper in the things we do to create unforgettable stories. We will I've you access to all our secrets.
 
 #### The golden rule of a good game master
 
+A good game master is the one that is able to make their player characters interact with and shape a story which everyone love.
+
+This means that your role of unsung hero will require you to change your plots, stories, ideas and expectations. Become comfortable with changes, because that's the only way you can be a good game master.
+
 #### Sandboxing or Railroading?
+
+Online it is easy to find a holy war raging between supporters of sandboxing games and "railroaders". Jinx is neither, but sits in the middle. A campaign well plotted and a flexible approach to adventures, which keeps into consideration the players as the most essential elements of a role-playing game, is what Jinx supports. In realising that both sides have pro and con, we take an approach which enhances storytelling and fun. Please do remember that in role-playing games there are no winning conditions, there is fun.
+
+If you are new to the terms "sandboxing" and "railroading", then you have an advantage, as you won't have to forget what you have learned. However, should you be a strong supporter of one or the other, the advice we can give you is to open your mind and read this book. If, then, you'll feel that your way is the right way, by any means, please do play as you love. What we know is that every game master, dungeon master or storyteller has their own fabulous way of running a game. The important thing is to do it.
 
 #### Failing to plan means planning to fail
 
 It does not matter if you are a strong believer in a sandbox in approach, or if you agree with a more structured approach as this game preaches. The reality is that if you, as storyteller, fail to plan means you will let our players down. Your role is critical to the success of the game. If you work out your story or world well, your players will help you shape the adventures their character will live. If you don't, improvisation alone won't be enough to entertain your players.
 
 #### The building blocks of a story
+
+In the next sub chapters, we will often refer to a lot of terms which every seasoned storyteller knows. Feel free to keep these terms in mind as an introduction to what we are ping to dig deeper later.
+
+**Storyteller** or **Game Master**: a player who is responsible to manage the game and set the story the player characters are going to live.
+
+**Player**: a real person who plays a role-playing game.
+
+**Character** or **Player Character** or **PC**: a fictional figure which the player controls during the game. This is not a real person.
+
+**Campaign**: a large and complex story arc that spans across many adventures, and that lasts months, if not years, of play. 
+
+**Adventures**: a story split amongst a finite number of sessions which tells a self contained story, which can be integral part of a campaign.
+
+**Session**: a few continuative hours of play, where the player characters are exposed to a series of events.
+
+**Event**: something that happens during a role-playing game session and that is designer to involve a player character in the story.
+
+**Non Player Character** or **NPC**: a fictional figure controlled by the storyteller. Every single living being in a story which is not a PC. These characters are controlled by the storyteller.
+
+**Location**:
+
+**Faction**:
 
 #### Setting thresholds
 
