@@ -46,6 +46,8 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 
 ## The World
 
+*In the first version of Jinx, this part is left intentionally blank*
+
 ## Storytelling
 
 ### Building dreams 101
@@ -55,6 +57,10 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 #### The golden rule of a good game master
 
 #### Sandboxing or Railroading?
+
+#### Failing to plan means planning to fail
+
+It does not matter if you are a strong believer in a sandbox in approach, or if you agree with a more structured approach as this game preaches. The reality is that if you, as storyteller, fail to plan means you will let our players down. Your role is critical to the success of the game. If you work out your story or world well, your players will help you shape the adventures their character will live. If you don't, improvisation alone won't be enough to entertain your players.
 
 #### The building blocks of a story
 
@@ -89,6 +95,8 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 ##### Sessions
 
 ##### Timing
+
+#### Think linearly, expand logically, improvise organically
 
 ### Non Player Characters
 
