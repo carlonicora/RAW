@@ -299,6 +299,24 @@ A character dies when one of the following condition happens:
 
 ## Character Progression
 
+In Jinx, character progresses by growing their abilities through experience and repetition. When the player characters use any ability, they should mark them. At the end of each session, each player character can try and raise the ability level.
+
+In order to improve their abilities, player characters have to roll a d100 and score higher than their current ability skill. If a character has successfully used an ability more than once, every success after the first give them a bonus of +10 to the roll. The amount of progression of each ability depends on the success score of the roll.
+
+'success = d100 + bonus - current ability value'
+
+### Progression steps
+
+A player character who successfully increase the value of an ability will add a set of points based on the table below.
+
+Progression success|Ability increase
+---|---
+1-20|+1
+21-30|+3
+31-40|+5
+40+|+10
+
+
 ## The World
 
 *In the first version of Jinx, this part is left intentionally blank*
@@ -347,9 +365,9 @@ In the next sub chapters, we will often refer to a lot of terms which every seas
 
 **Non Player Character** or **NPC**: a fictional figure controlled by the storyteller. Every single living being in a story which is not a PC. These characters are controlled by the storyteller.
 
-**Location**:
+**Location**: A place where your player characters can live their adventures. It can be as small as a room, or as large as an empire.
 
-**Faction**:
+**Faction**: Many times Non Player Characters group together and form groups. They can be a guild, as well as a crime syndicate.
 
 #### Setting thresholds
 
