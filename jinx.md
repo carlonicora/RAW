@@ -309,7 +309,6 @@ success|damage modifier
 41-50|2.5
 51+|3
 
-
 #### Ablative armours
 Jinx uses the idea of ablative armours, which are protections that absorb the damages in lieu of the character wearing it. The armours have a fixed amount of protection, which is lost every time a damage is absorbed.
 
@@ -346,7 +345,6 @@ When a character reaches between 0 and -30 life points, they are rendered uncons
 A character dies when one of the following condition happens:
 - they reach -31 points or less
 - when they are unconscious, an attacker announces a *coup de grace* on them
-
 
 ### Magic
 
@@ -430,6 +428,16 @@ In the next sub chapters, we will often refer to a lot of terms which every seas
 **Location**: A place where your player characters can live their adventures. It can be as small as a room, or as large as an empire.
 
 **Faction**: Many times Non Player Characters group together and form groups. They can be a guild, as well as a crime syndicate.
+
+#### The Assumption of Heroism
+
+Combat is not a pivotal point in Jinx. It is different from all the other abilities for the way it is dealt with, but it should not be the most important part in the adventures. This is why the combat should be regulated by the **Assumption of Heroism**. This is the idea that, by default, the player characters win. This does not mean that the combat should not be dangerous to the player characters, on the contrary the risk of death should loom over every combat, it simply means that the NPCs must prove themselves extraordinary to win.
+
+The Assumption of Heroism means that the storyteller should allow any NPCs to be able to perform only a limited number of combat round before being defeated, either by being killed by the PCs or by fleeing the scene.
+
+This rule applies exclusively if the PCs manage to hit their foe. A PCs who does not try to actively engage in combat, or that does not hit the opponent, does not fall in the *heroism* category.
+
+As storyteller, it your duty to understand how long a combat should last, and how the foes will challenge the PCs. Planning, even in this case, is paramount to create a positive experience for your players. What will the NPCs do in every round they have available? How will they play their cards? You should try and prepare these details before each combat, but adapt them during it to shape the game around your player characters' actions.
 
 #### Setting thresholds
 
