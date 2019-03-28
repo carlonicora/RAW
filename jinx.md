@@ -264,11 +264,11 @@ The attack success can be modified by a series of factors. Some of them make it 
 
 size of target|modifier
 ---|---:
-Tiny|+10
-Small|+5
+Tiny|-10
+Small|-5
 Medium|0
-Big|-5
-Huge|-10
+Big|+5
+Huge|+10
 
 Remember that a positive modifier makes it easier for the character to hit.
 
@@ -279,6 +279,15 @@ Walking|0
 Trotting|-5
 Running|-10
 Moving erratically|-5
+
+To balance the game in terms of challenging the hand to hand combat, the melee combat and the ranged combat, the following modifiers should be applied to ranged combat
+
+Distance to target|modifier
+---|---:
+0-15m|0
+16m-30m|-5
+31m-45m|-10
+46m+|-15
 
 #### Damages
 Every weapon has a fixed amount of damages it inflicts. The damage receives a modifier depending on the success of the attack.
