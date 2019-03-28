@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Introduction](#introduction)
+	- [The goals of Jinx](#the-goals-of-jinx)
 	- [What is a Role-Playing Game](#what-is-a-role-playing-game)
 	- [Settings](#settings)
 	- [An example of play](#an-example-of-play)
@@ -36,6 +37,7 @@
 		- [Death](#death)
 	- [Magic](#magic)
 - [Character Progression](#character-progression)
+	- [Progression steps](#progression-steps)
 - [The World](#the-world)
 - [Storytelling](#storytelling)
 	- [Building dreams 101](#building-dreams-101)
@@ -46,10 +48,12 @@
 		- [The building blocks of a story](#the-building-blocks-of-a-story)
 		- [Setting thresholds](#setting-thresholds)
 	- [Campaigns](#campaigns)
+		- [Always start with the end in mind](#always-start-with-the-end-in-mind)
 		- [Plotting a Campaign](#plotting-a-campaign)
 		- [The master plot](#the-master-plot)
-		- [The story is a collection of tasks](#the-story-is-a-collection-of-tasks)
+		- [The story is a collection of information](#the-story-is-a-collection-of-information)
 		- [Know everything and everyone in your plot](#know-everything-and-everyone-in-your-plot)
+		- [How to make a campaign come to life](#how-to-make-a-campaign-come-to-life)
 		- [Write in pencil](#write-in-pencil)
 	- [Adventures](#adventures)
 		- [Type of Adventures in a Campaign](#type-of-adventures-in-a-campaign)
@@ -84,6 +88,19 @@
 ## Introduction
 
 @TODO
+
+### The goals of Jinx
+
+In the world of Tabletop Role-Playing Games, Jinx is but a drop in an ocean. Yet, it has been written with clear goals in mind:
+
+- provide a minimalistic mechanics that supports storytelling
+- define a system to help storytellers to create campaigns and adventures
+
+Jinx focuses more on giving player characters the possibility to grow as complex entities. This means supporting a multi-faceted growth without the need of identifying classes or archetypes. It also support a balanced approach to combat, by making it dangerous.
+
+In the end, what you have to remember is that it will be up to the storyteller to use these rules at the best of their possibility. I have seen fantastic campaigns played by incredible game masters on rubbish rules, but I have very rarely seen bad game masters deliver quality adventures with whichever mechanics.
+
+The final goal of Jinx is to help shape great storytellers, allowing them to focus more on stories and less on rules!
 
 ### What is a Role-Playing Game
 
@@ -301,7 +318,6 @@ success|damage modifier
 41-50|2.5
 51+|3
 
-
 #### Ablative armours
 Jinx uses the idea of ablative armours, which are protections that absorb the damages in lieu of the character wearing it. The armours have a fixed amount of protection, which is lost every time a damage is absorbed.
 
@@ -339,7 +355,6 @@ A character dies when one of the following condition happens:
 - they reach -31 points or less
 - when they are unconscious, an attacker announces a *coup de grace* on them
 
-
 ### Magic
 
 @TODO
@@ -358,10 +373,10 @@ A player character who successfully increase the value of an ability will add a 
 
 Progression success|Ability increase
 ---|---
-1-20|+1
-21-30|+3
-31-40|+5
-40+|+10
+1-10|+1
+11-25|+2
+26-35|+3
+36+|+5
 
 ## The World
 
@@ -371,6 +386,14 @@ Progression success|Ability increase
 
 The idea of being a "good storyteller" boils down to be able to create world and stories your players are going to love. If your players can't stop talking about what happened in the last session and they come back for more, you know you are doing a great job.
 
+Yet, the road to having fun, for a storyteller, is not as simple as the one our players have. There are a lot of things that go behind the scenes of a good role-playing game adventure, and many of them fall on the storyteller's shoulder. While role-playing is a group effort, and the final story is written by the players, it is your responsibility to lie the foundations for your players to build on.
+
+In this part of the book we will do deeper in the things we do to create unforgettable stories. We will I've you access to all our secrets.
+
+### Building dreams 101
+The idea of being a "good storyteller" boils down to be able to create world and stories your players are going to love. If your players can't stop talking about what happened in the last session and they come back for more, you know you are doing a great job.
+
+#### The differences between a storyteller and a player
 Yet, the road to having fun, for a storyteller, is not as simple as the one our players have. There are a lot of things that go behind the scenes of a good role-playing game adventure, and many of them fall on the storyteller's shoulder. While role-playing is a group effort, and the final story is written by the players, it is your responsibility to lie the foundations for your players to build on.
 
 In this part of the book we will do deeper in the things we do to create unforgettable stories. We will I've you access to all our secrets.
@@ -401,7 +424,7 @@ In the next sub chapters, we will often refer to a lot of terms which every seas
 
 **Character** or **Player Character** or **PC**: a fictional figure which the player controls during the game. This is not a real person.
 
-**Campaign**: a large and complex story arc that spans across many adventures, and that lasts months, if not years, of play. 
+**Campaign**: a large and complex story arc that spans across many adventures, and that lasts months, if not years, of play.
 
 **Adventures**: a story split amongst a finite number of sessions which tells a self contained story, which can be integral part of a campaign.
 
@@ -414,6 +437,16 @@ In the next sub chapters, we will often refer to a lot of terms which every seas
 **Location**: A place where your player characters can live their adventures. It can be as small as a room, or as large as an empire.
 
 **Faction**: Many times Non Player Characters group together and form groups. They can be a guild, as well as a crime syndicate.
+
+#### The Assumption of Heroism
+
+Combat is not a pivotal point in Jinx. It is different from all the other abilities for the way it is dealt with, but it should not be the most important part in the adventures. This is why the combat should be regulated by the **Assumption of Heroism**. This is the idea that, by default, the player characters win. This does not mean that the combat should not be dangerous to the player characters, on the contrary the risk of death should loom over every combat, it simply means that the NPCs must prove themselves extraordinary to win.
+
+The Assumption of Heroism means that the storyteller should allow any NPCs to be able to perform only a limited number of combat round before being defeated, either by being killed by the PCs or by fleeing the scene.
+
+This rule applies exclusively if the PCs manage to hit their foe. A PCs who does not try to actively engage in combat, or that does not hit the opponent, does not fall in the *heroism* category.
+
+As storyteller, it your duty to understand how long a combat should last, and how the foes will challenge the PCs. Planning, even in this case, is paramount to create a positive experience for your players. What will the NPCs do in every round they have available? How will they play their cards? You should try and prepare these details before each combat, but adapt them during it to shape the game around your player characters' actions.
 
 #### Setting thresholds
 
@@ -495,9 +528,31 @@ A man like him is sure to be willing to send a clear message to everyone who dar
 
 > The execution of Lady Elgolath
 
-Lady Elgolath has done something wrong, but seen that Lord Enoch is still not the Emperor, he must have been careful to pass things as very legal, so Lady Elgolath could have gone through a trial before being 
+Lady Elgolath has done something wrong, but seen that Lord Enoch is still not the Emperor, he must have been careful to pass things as very legal, so Lady Elgolath could have gone through a trial before being executed.
 
 > The treason trial
+
+What if Lady Elgolath was betrayed by an old friend who was bought by Lord Enoch? This can be an interesting twist of events.
+
+> Betraying the high council
+
+Let's say that to gain power, Lord Enoch had to eliminate two adversaries? One is Lady Elgolath, maybe the other is called Lord Mutwen. Hey, let's say that he "was" called Lord Mutwen.
+
+> Murder on the hill
+
+Before starting to eliminate those who are against him, Lord Enoch must have hired an assassin.
+
+> Hiring the assassin
+
+And before that, Lord Enoch must have gained a large sum of money to support his work.
+
+> Breaking in the Imperial Coinage
+
+We have always considered the campaign from when Lord Enoch started pulling all the strings, but maybe before that he wanted to make sure that his name was high up in the list of the possible successors to the throne. Maybe a lavish party where politics were drawn.
+
+> The Mid Summer Ball
+
+
 
 #### Write in pencil
 
@@ -513,11 +568,59 @@ Remember the golden rule of a good game master. You must embrace change for your
 
 ### Adventures
 
+Once you have your campaign master plot laid out, it is time to think about all the great adventures your player characters can live. How are their lives going to interact with your campaign, and how are they going to be an integral part of how the world you prepared is going to be shaped?
+
+We think that the most important thing to understand is that being the Game Master does not need being the one who decides how the history you will be narrating will come out. Your players are as involved in shaping the story as you are, and you should remember this in the way you adapt the adventures on their choices. Remember, always write in pencil and embrace change!
+
 #### Type of Adventures in a Campaign
+
+@TODO Campaign Adventures
+
+The first thing you need to understand is that, despite your campaign being the master plot shaping your characters' futures, the campaign linked to the campaign plot is not the only one existing. On the contrary, focussing exclusively on those would rob your players from a lot of fun. Imagine how incredibly strong are the adventures who dig into the characters' past and background. When you take the time to listen to your players and shape the future of their characters based on the back stories they wrote, you create a world they are going to love.
 
 #### The Story Circle
 
+Please keep in mind that this method to create an adventure is based both on a structured and well-known storytelling technique, as well as an easy to use anatomy. It all starts with Dan Harmon's "Story Circle".  Dan Harmond simplified Joseph Campbell "Monomyth" also known as "The Hero's Journey".
+Dan Harmond divides every story in a circle identified by eight steps. This Story Circle can be applied to every story in every media. Hence it can be used to create amazing adventures whose story will relate to your players.
+
+Before describing every step, let me dig a bit deeper in the circle and how it can be divided. You will understand why I try to divide my adventures into four sessions. If you divide the story circle horizontally, the top part is the start and the end of the story, while the bottom part identifies the characters' growth and change. The ordinary versus the special, life versus death, consciousness versus unconsciousness or order versus chaos. If you give the right rhythm to your adventure, this will be felt by your players, as their characters were in a great film. When the characters move from one semicircle to the other, they evolve.
+By dividing the story circle vertically as well, you identify four intersections and four spaces.  These are the main parts of our adventures. Every time one of the lines intersect the circle, you define a story point, additionally, between each point, you can identify another story point. With this method, you can identify a total of 8 story points. These points will navigate a hero through their story, piece by piece.
+
+Dan Harmond named each of the 8 points:
+1. YOU - A character is in their comfort zone
+2. NEED - They want something
+3. GO - They enter an unfamiliar situation
+4. SEARCH - They adapt to it
+5. FIND - Get what they wanted
+6. TAKE - pay a heavy price for it
+7. RETURN - Then return to their familiar situation
+8. CHANGE - Having changed
+
+Every time a character crosses one of the lines, it advances in the story. Each crossing is a major drama point. In point 3 a hero enters an unfamiliar situation and adapts to the new "norm", often struggling to do so. Point 5 define the inner struggle of the hero.
+
+For those of you who are used to the "Three Acts Adventure", the first quadrant identifies the first act, ending with the adventure hook. The second and third quadrant identify the second act, with the midpoint in the middle and the first failed attempt to end it. The last quadrant is the third act, where the heroes win.
+
+But how do you apply Dan Harmond's study to your adventure? Or, to better put it, how do you create a great adventure using Harmond's study?
+
 #### Type of events
+
+In my experience, you can divide events into five main categories:
+
+- **GM time** From time to time, you need the space to present something to your players. These are events where there is no interaction with the PCs, but they give you the time to give the PCs a frame of reference or the right amount of information.
+
+- **Planning and Recaps** These are the events in which the player characters discuss amongst themselves. They are extremely important for the players to cement the information they received. You have to remember that the players do not have all the information you have as a Game Master. You have to allow them time for pure roleplay and information analysis. The time for these type of events is extremely variable and depends on your players. One party I had wanted nothing more than a constant, collective brainstorm, investing a huge amount of time in pure discussions. Another was very action-oriented, which meant these events were very short. You need to know about your party!
+
+- **Exploration** Exploring a new environment can be exciting and can give you time to reorganise the session time, change the adventure on the fly and give something to your player characters. This kind of events' duration is entirely up to you. You can make the are to be explored dry of information, keeping the event short, or you can allow your player characters to dissect an entire Star Destroyer piece by piece. Use the exploration events wisely though: make sure your PCs don't get bored and frustrated because they can't find anything.
+
+- **Action** This type of event is about doing something. What I like about it is that they are predictable in terms of results and duration. You should know what's the goal of the action and how much time should it take for you to make the PCs achieve (or fail).
+
+- **Encounter** Here we land in the most exciting types of events: the player characters interact with other NPCs. Of course, you can divide an encounter into two different categories: social interactions or combat situations.
+
+  - **Social Interactions** my favourite encounters. You can dispense information, taunt your player character, make them fall in love or talk with their archnemesis. Whatever is in your NPCs arsenal comes through. This is because I am not a fighting-heavy game master, but your miles may vary. The key element for social interaction is the quality of your NPCs, their three-dimensionality. You are generally in charge of the timing of these situations. Like in any situation in which you are the person timing it, make sure not to stretch it too much or making it too dry. If you are an inexperienced game master, give yourself time.
+
+  - **Combat** While I am not a fighting-heavy game master, I still believe that combat situations are great to keep the level of excitement elevated. There is nothing better than a spike of adrenaline to shake a soporiferous session. But please, remember that even your monsters are NPCs, give them a three-dimensional feel to it. This is why I despise random encounters: because they have no reason to exist apart from having a useless fight.
+
+Now that we have explored the types of events you can fill your story with, let's go back to our examples so I can show my thought process.
 
 #### The Anatomy of an Adventure
 
