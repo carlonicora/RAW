@@ -279,6 +279,8 @@ When the attack of a character cannot be actively defended by the other characte
 #### Attack modifiers
 The attack success can be modified by a series of factors. Some of them make it easy to hit or deliver damages, while others can make it more challenging to attack.
 
+Please note that these modifiers are optional, and should never slow down the game. It is down to the storyteller to decide how much to involve the modifiers. Our approach is simple: if it makes the game more interesting, use them, otherwise drop them.
+
 size of target|modifier
 ---|---:
 Tiny|-10
@@ -295,7 +297,6 @@ Still|+5
 Walking|0
 Trotting|-5
 Running|-10
-Moving erratically|-5
 
 To balance the game in terms of challenging the hand to hand combat, the melee combat and the ranged combat, the following modifiers should be applied to ranged combat
 
@@ -305,6 +306,14 @@ Distance to target|modifier
 16m-30m|-5
 31m-45m|-10
 46m+|-15
+
+Last, but not least, you should consider the challenge of hitting a subject who is partially covered
+
+Coverage|modifier
+---|---:
+Part (25%)|-5
+Half(50%)|-10
+Sensible(75%+)|-15
 
 #### Damages
 Every weapon has a fixed amount of damages it inflicts. The damage receives a modifier depending on the success of the attack.
