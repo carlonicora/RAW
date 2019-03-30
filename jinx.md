@@ -102,7 +102,13 @@
 
 ## Introduction
 
-@TODO
+When I started writing Jinx, I did not think I would have written and entire book. I was looking for some simple mechanics which would allow me to focus more on storytelling than other. I liked the vast availability of D&D, but there were some pet peeves which kept me away from it, namely levels and classes. Alas, I had always been one of those storytellers who preferred characters without labels attached to them. I was more in line with mechanics a-la Call of Cthulhu, but Fantasy has always been a love of mine.
+
+Truth is that I wrote some simple mechanics and I started playing with them. My players were thrown in an intense campaign and, without realising, they became my playtesters. The first good thing is that, by focusing more on the story and less on the rolls, I was able to gently lead them to each rule. The second good thing was that the mechanics worked exactly as expected, and they were smooth and simple to learn, while keeping the flexibility I was looking for.
+
+The book you have in your hand is one of the many iteration in making the rules better and the information more readable. I never thought someone would have read what started as a one-pager mechanics. Nonetheless, I hope you will like it, or that at least it will give you some interesting ideas to work on!
+
+Carlo
 
 ### The goals of Jinx
 
