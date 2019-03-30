@@ -30,6 +30,9 @@
 		- [Start with your demography](#start-with-your-demography)
 		- [Bring in your psychographic information](#bring-in-your-psychographic-information)
 		- [How were their abilities learned](#how-were-their-abilities-learned)
+- [The world of things](#the-world-of-things)
+	- [Weapons](#weapons)
+	- [Armours](#armours)
 - [Game Mechanics](#game-mechanics)
 	- [Performing Actions](#performing-actions)
 		- [Open ended rolls](#open-ended-rolls)
@@ -95,7 +98,7 @@
 	- [Location Creation](#location-creation)
 	- [Faction Creation](#faction-creation)
 
-<!-- /TOC -->!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- /TOC --> TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Introduction](#introduction)
 	- [The goals of Jinx](#the-goals-of-jinx)
@@ -343,14 +346,45 @@ Below you will find a list of abilities available in Jinx. They are divided by t
 
 ##### Body Abilities
 
-These are
-
+Ability|Description
+---|---
+Climb|
+Ride|
+Swim|
+Acrobatics|
+Hand to Hand Combat|
+Melee Combat|
+Missile Combat|
+Craft (_specify_)|
+Dodge|
 
 ##### Mind Abilities
 
+Ability|Description
+---|---
+Track|
+Disarm Trap|
+Runes|
+Perception|
+Language|
+Oratory|
+Potions|
+Write|
+Lore|
+Mana|
 
 ##### Spirit Abilities
 
+Ability|Description
+---|---
+Ambush|
+Stalk/Hide|
+Pick Lock|
+Cookery|
+Bargain|
+Persuade|
+Hunt|
+Empathy|
 
 ### Life Points
 Every playing character has 40 life points plus the value of their **Body**. When lost, the life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
@@ -386,6 +420,39 @@ Jinx leverages the OCEAN personality definition. It is a very simple way to char
 Every character starts the game with at least 3 ability. Writing how these skills were learned is a fantastic way to give a context to your character. Tell a story about how your character developed.
 
 > *Okado* was raised in a clerical monastery dedicated to *Anshalla* the Goddess of War. The clerics brought her in when she was less than a year old, and she grew in a regimented environment which valued the ability to survive more than love. Everyone in the monastery had do do their part to bring food on the table, and *Okado* soon became *Ithildir* assistant. The old warrior was a solitary woman, and preferred the wilderness to the chitchat of the monastery. She brought *Okado* with her during her excursion, and trained her in the art of surviving and hunting for food.
+
+## The world of things
+
+### Weapons
+
+Weapon|Damages
+---|---:
+Punch|5
+Club|10
+Dagger|10
+Sling|10
+Hand axe|15
+Mace|15
+Quarterstaff|15
+Spear|15
+Short Bow|15
+Sword|15
+Battle Axe|20
+Crossbow|20
+Long Sword|20
+Morningstar|20
+Warhammer|20
+Two Handed Sword|25
+Lance|30
+
+### Armours
+
+Armour|Total Protection|Max Protection per attack
+---|---:|---:
+Shield|10|4
+Leather Armour|20|6
+Chain Mail|30|8
+Breastplate|40|10
 
 ## Game Mechanics
 
