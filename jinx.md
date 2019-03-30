@@ -783,22 +783,29 @@ Remember the golden rule of a good game master. You must embrace change for your
 
 ### Adventures
 
+While working on the campaign was something you could do without knowing the player characters, when you start working on the adventures, you need to have your PCs ready. The best way of writing adventures, is to know your PCs and design each adventure around them.
+
 Once you have your campaign master plot laid out, it is time to think about all the great adventures your player characters can live. How are their lives going to interact with your campaign, and how are they going to be an integral part of how the world you prepared is going to be shaped?
 
 We think that the most important thing to understand is that being the Game Master does not need being the one who decides how the history you will be narrating will come out. Your players are as involved in shaping the story as you are, and you should remember this in the way you adapt the adventures on their choices. Remember, always write in pencil and embrace change!
 
 #### Type of Adventures in a Campaign
 
-@TODO Campaign Adventures
+Obviously, the first type of adventures we will discuss are the campaign's. We have a campaign with the master plot and a list of adventure ideas. The titles you wrote are the starting point for each of your campaign adventure.
 
-The first thing you need to understand is that, despite your campaign being the master plot shaping your characters' futures, the campaign linked to the campaign plot is not the only one existing. On the contrary, focussing exclusively on those would rob your players from a lot of fun. Imagine how incredibly strong are the adventures who dig into the characters' past and background. When you take the time to listen to your players and shape the future of their characters based on the back stories they wrote, you create a world they are going to love.
+However, you need to understand is that, despite your campaign being the master plot shaping your characters' futures, the adventures linked to the campaign plot are not the only one existing. On the contrary, focussing exclusively on those would rob your players from a lot of fun. Imagine how incredibly strong are the adventures who dig into the characters' past and background. When you take the time to listen to your players and shape the future of their characters based on the back stories they wrote, you create a world they are going to love.
+
+Jinx strongly recommends spending time to create details backstories for each characters. This is done for two main reasons: the first is to help the players bond with their characters, the second is to give storytellers good hooks to create incredibly personal adventures.
 
 #### The Story Circle
 
-Please keep in mind that this method to create an adventure is based both on a structured and well-known storytelling technique, as well as an easy to use anatomy. It all starts with Dan Harmon's "Story Circle".  Dan Harmond simplified Joseph Campbell "Monomyth" also known as "The Hero's Journey".
-Dan Harmond divides every story in a circle identified by eight steps. This Story Circle can be applied to every story in every media. Hence it can be used to create amazing adventures whose story will relate to your players.
+Jinx is structured to help storytellers write homebrew adventures which are at the same time simple to write and powerful to play. The goal is to provide you with a framework to develop memorable adventures, and to do this we look into the "story circle" idea.
 
-Before describing every step, let me dig a bit deeper in the circle and how it can be divided. You will understand why I try to divide my adventures into four sessions. If you divide the story circle horizontally, the top part is the start and the end of the story, while the bottom part identifies the characters' growth and change. The ordinary versus the special, life versus death, consciousness versus unconsciousness or order versus chaos. If you give the right rhythm to your adventure, this will be felt by your players, as their characters were in a great film. When the characters move from one semicircle to the other, they evolve.
+Please keep in mind that this method to create an adventure is based both on a structured and well-known storytelling technique, as well as an easy to use anatomy. It all starts with Dan Harmon's "Story Circle".  Dan Harmond simplified Joseph Campbell "Monomyth" also known as "The Hero's Journey". Dan Harmond divides every story in a circle identified by eight steps. This Story Circle can be applied to every story in every media. Hence it can be used to create amazing adventures whose story will relate to your players.
+
+The reason to use this method is to create stories that will glue your players to the chairs, asking for more. It is the same method scriptwriters use for your favourite films, and while you may not realise it yet, they all follow the same storytelling structure. Jinx has distilled all these information in a simple step-by-step methodology.
+
+However, defore describing every step, you should know a bit more about the Story Circle and how it works. You will understand why I try to divide my adventures into four sessions. If you divide the story circle horizontally, the top part is the start and the end of the story, while the bottom part identifies the characters' growth and change. The ordinary versus the special, life versus death, consciousness versus unconsciousness or order versus chaos. If you give the right rhythm to your adventure, this will be felt by your players, as their characters were in a great film. When the characters move from one semicircle to the other, they evolve.
 By dividing the story circle vertically as well, you identify four intersections and four spaces.  These are the main parts of our adventures. Every time one of the lines intersect the circle, you define a story point, additionally, between each point, you can identify another story point. With this method, you can identify a total of 8 story points. These points will navigate a hero through their story, piece by piece.
 
 Dan Harmond named each of the 8 points:
@@ -839,17 +846,64 @@ Now that we have explored the types of events you can fill your story with, let'
 
 #### The Anatomy of an Adventure
 
+You have seen how I create an adventure and -hopefully- you haven't lost the main logic behind it. To create the adventure you read it took me 15', plus writing time. In the writing time, I managed to write a few more details.
+
+Let's now go to a step-by-step point to create your own adventure!
+
 ##### Adventure Main Questions
+
+1. What is the goal of the adventure?
+2. Why do the PCs need to achieve this goal?
+3. How are they going to achieve it?
 
 ##### Turning Points
 
+1. What is the final realisation/turn of events which can lead the PCs to achieve their goals? (point 7)
+2. How are the PCs achieve their goals? (point 8)
+3. What is the decision the PCs make that defines the moment they move from being a secondary actor to being in charge? (point 5)
+4. What turn of events makes them attempt a solution which will fail? (point 6)
+5. What is the change they accept to embark in the adventure? (point 3)
+6. What is the burning need they have to feel for the hook to work? (point 2)
+7. What changes that give them the possibility to get closer to accepting they are the primary actors in charge of the adventure? (point 4)
+8. What is the start of the adventure?
+
 ##### Events
+
+1. What is the "normal life" and how do you do to make the player characters to feel a burning Need? (between points 1 and 2)
+2. How do you enhance the need, making the PCs say YES to your adventure? (between points 2 and 3)
+3. What is the first part of the adventure which makes them the PCs feel confident? (between points 3 and 4)
+4. What do the Player Characters go through to make them feel very low, reaching the point they decide to truly commit to an internal change that will give them power? (between points 4 and 5)
+5. What do the players do to prepare to win what they perceive to be the most important battle? (between points 5 and 6)
+6. What is that the player characters fails so spectacularly that they have to re-think their goals? (between points 6 and 7)
+7. Now the player characters regroup and win. What happens to give them this possibility? (between points 7 and 8)
+8. What do you do to show your player characters the appreciative pat on the back for their victory? (after point 8)
 
 ##### Sessions
 
+Don't you crave a new episode of a TV series when the end of the previous leaves you on a cliffhanger? The only thing you think is: I want to know how this is going to end. This emotional value is a key element in keeping the interest alive and the commitment high. And let's not forget, you are dealing with characters your players have created and love.
+
+There is simple magic to create this aura of suspension in your adventures. You have to know when to stop the sessions. Luckily for you, using this method, creating cliffhangers is very simple. We mentioned before that there are three points where the characters cross a line in the circle: when they decide to embark in the adventure in point number 3; when they take responsibility for being the drivers of the adventure in point number 5; and when they decide to return to their familiar situation by facing the odds and winning the day in point 7. Each of these points defines a cliffhanger in the story, and if you time your sessions well, at the end of each session you will leave your players craving for more. At the end of session one, they will be excited because they are ready to solve their needs. At the end of session two, they will understand they need to lead the story. At the end of session three, they will probably fear for the
+
+@TODO
+
 ##### Timing
 
-#### Think linearly, expand logically, improvise organically
+One of my personal mistakes was that I was always trying to cram too many things in a single session. I wanted my the characters to do too much in a 3 hours session. This was causing the players often to be puzzled on what happened. I was going too fast, and they weren't able to appreciate the game. So, my personal target became to plan fewer things, to make stories a bit lighter and blander.
+
+Try and understand your players as much as you can. When you start timing each event correctly, then you will learn how to make your plots more entertaining, without overrunning.
+
+Also, knowing your players well, and realising what they appreciate the most, may help you changing the ratio of the adventure, maybe making the first part spanning over two sessions (this is rare) or the ending one lasting longer (easier).
+
+#### Think linearly, expand logically, improvise organically and re-write constantly
+
+One common comment I get when I tell how I structure an adventure, is that I write linearly. While this is absolutely true, the misconception is that a linear structure leads to a railroad adventure. This is not true if you stick to four main pillars:
+
+1. **Think Linearly**. Your adventure should be written in a linear way. You should plan a structure that goes from point to point.
+2. **Expand Logically**. Once you have a linear structure of an adventure, you need to start looking at all the moments in which the player characters' interaction may change the direction of an adventure.
+3. **Improvise Organically**. During the game, you should be ready to improvise based on your player characters' actions.
+4. **Re-write Constantly**. After each session, you should go back to the drawing board and change the linear structure to adapt to the player characters' decisions.
+
+Using these four steps, I can guarantee you will be able to plan adventures which are going to rock your players' world, without making them feel directed in a specific direction. This is neither Railroading nor Sandboxing, this is just being a good storyteller!
 
 ### Non Player Characters
 
