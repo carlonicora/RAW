@@ -202,17 +202,91 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 
 @TODO
 
-### Traits, Abilities and Life Points
+### Traits, Abilities and Talents
 
-@TODO
+#### Traits
+
+Every character is identified by three main traits.
+
+- **Body** identifies everything related to strength, agility, health.
+- **Mind** defines the intellectual capabilities.
+- **Spirit** is used for the characters self esteem, confidence and presence.
+
+Every player has 30 points to divide in the three traits of their character. The limit helps create a character that can have strength and weaknesses alike.
+
+#### Abilities
+
+Every character possesses a list of abilities. These are the things a character know how to do. The abilities defines the character, as Jinx does not have the notion of class.
+
+Each ability is linked to one of the three main traits. The trait defines the initial value for each ability.
+
+At the beginning of the game, each character possesses five abilities of their choice. The player has 60 points to distribute in the five abilities, with a limit of 20 points in each ability.
+
+The list of available abilities are found below.
+
+#### Talents
+
+Some abilities, when mastered over 50 points, offers some unique talents. Differently from traits and abilities, talents do not have any value, they are just capabilities that expands the abilities themselves. For example, a character whose melee ability of 50 or more can chose to master a double attack.
+
+The list of talents is available with the list of attributes.
+
+#### List of Abilities
+
+Below you will find a list of abilities available in Jinx. They are divided by their trait and describe any available talent.
+
+##### Body Abilities
+
+
+##### Mind Abilities
+
+
+##### Spirit Abilities
+
+
+### Life Points
+Every playing character has 40 life points plus the value of their **Body**. When lost, the life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
+
+`life points = 40 + Body`
 
 ### Backstory
 
-@TODO
+In Jinx, a character backstory is as important as any other trait or ability, if not more. The guidelines of a player character's backstory should always be agreed with the storyteller. However, it is important for the player to describe their character's backstory. This is a moment in which each player learns about their character and bond with it.
+
+To write a character backstory that is central to your character record sheet, you should follow these steps:
+
+1. Write something about your character demographic
+2. Write about your character psychographic information
+3. Describe how your character acquired their abilities
+
+#### Start with your demography
+
+When writing your backstory, you should keep well in mind your character's race, gender and general demographic information. This should be the base of the story you are going to tell about your character.
+
+> *Okado* was born in a small village in the east. Her mother was the daughter of a renowned bard, who was singing the praise of the Elven lands. In one of these trips *Alia* fell in love with a human who was hired to protect his father during their journey. The love was, unfortunately, short lived, and when *Okado* was born, her mixed race was seen as a sign of dirt from her grandfather. He could not understand how an elf as beautiful as *Alia* could have accepted to produce such a lesser spawn.
+>
+>*Okado* did not have the time to grow and speak for herself, because his grandfather gave an ultimatum to her daughter: leave her daughter or lose her parents and status. *Alia* had never been a strong woman, and valued her race more than her daughter.
+
+#### Bring in your psychographic information
+
+Jinx leverages the OCEAN personality definition. It is a very simple way to characterise a person, or a PC in this case, with five simple values. These values, as described in the [psychography](#psychography) part above, identify one characteristic of your character's personality. You should write a small episode linked to each of the detailed traits.
+
+> *Okado* has always been very interested in trying new things, in exploring the unknown. When she was just but a child, she accepted another accolite's bet and jumped on a horse. She was but 6 years old, but found the experience exhilarating. The clerics that looked after her didn't, and punished both for having risked the well being of the horse, not to mention her own neck. However, since that moment, Okado felt a great respect of the mighty beasts, and despite not having one herself, she will always be attracted to their beauty.
+
+#### How were their abilities learned
+
+Every character starts the game with at least 3 ability. Writing how these skills were learned is a fantastic way to give a context to your character. Tell a story about how your character developed.
+
+> *Okado* was raised in a clerical monastery dedicated to *Anshalla* the Goddess of War. The clerics brought her in when she was less than a year old, and she grew in a regimented environment which valued the ability to survive more than love. Everyone in the monastery had do do their part to bring food on the table, and *Okado* soon became *Ithildir* assistant. The old warrior was a solitary woman, and preferred the wilderness to the chitchat of the monastery. She brought *Okado* with her during her excursion, and trained her in the art of surviving and hunting for food.
 
 ## Game Mechanics
 
-@TODO
+Jinx is based on simple game mechanics which revolve around a series of abilities each characters has. The abilities define the characters' skillset, and allow them to grow as complex entities. The abilities are based on the fact that we all have some basic traits, and that the more we perform an action, the more skilled we become at it.
+
+In Jinx, every ability is scored in values that range from 0 to 100. The higher the score, the better the character is at that particular ability.
+
+Jinx keeps into account a random opportunity of failure and success in the form of a die which can be rolled and added to the total ability. This signifies the chance and the fortunate or unfortunate conditions. The luck variance can add up to 20 points, which in extreme cases can expand the variance from removing 20 points to adding 40 points to an action.
+
+The goal is to create a realistic approach to how a real person is, with unique skillsets each character has and abilities which grows organically, making the characters progress.
 
 ### Performing Actions
 
