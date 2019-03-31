@@ -886,13 +886,16 @@ There is simple magic to create this aura of suspension in your adventures. You 
 
 @TODO
 
-##### Timing
+#### Location, Location, Location
 
-One of my personal mistakes was that I was always trying to cram too many things in a single session. I wanted my the characters to do too much in a 3 hours session. This was causing the players often to be puzzled on what happened. I was going too fast, and they weren't able to appreciate the game. So, my personal target became to plan fewer things, to make stories a bit lighter and blander.
+While the Story Circle is an amazing tool to narrate a story, life as a storyteller has one difference: your players. They will live your stories and they will shape them, or at least your goal should be to allow them to shape them. A linear story will give you enough information to be a good storyteller, but to get one step forward, it is time to talk about locations.
 
-Try and understand your players as much as you can. When you start timing each event correctly, then you will learn how to make your plots more entertaining, without overrunning.
+In the world you describe to your players, more often than not locations will play a very important role. Not only you can characterise your story through them, but they usually are the place where object, clues or non player characters reside. If you go back to the original role-playing game, Dungeons and Dragons, the idea was to design a dungeon. In every room you would place objects, traps or monsters, and that was the game.
 
-Also, knowing your players well, and realising what they appreciate the most, may help you changing the ratio of the adventure, maybe making the first part spanning over two sessions (this is rare) or the ending one lasting longer (easier).
+Writing your locations in details, including all the information about how they are relevant to your characters and to your story, allows you to bring a better three dimensionality to your world. Moreover, and this is maybe even more important, will transform your linear story in a free-floating one without the need to change your adventure. What if your player characters decide to go in the Inn before exploring the castle? What if they decide to avoid the first village, but they go directly in the woods? Including all the information about your locations in the adventure will allow you to shift even further from railroading.
+
+The best option you have while writing your adventure, is to make note of all the locations your player characters can come in touch with during a session. After having written your adventure, you should list all the locations and add the information about what the player characters can find who they can meet in them. Of course, some encounters can only happen linearly, so stay flexible!
+
 
 #### Think linearly, expand logically, improvise organically and re-write constantly
 
@@ -904,6 +907,29 @@ One common comment I get when I tell how I structure an adventure, is that I wri
 4. **Re-write Constantly**. After each session, you should go back to the drawing board and change the linear structure to adapt to the player characters' decisions.
 
 Using these four steps, I can guarantee you will be able to plan adventures which are going to rock your players' world, without making them feel directed in a specific direction. This is neither Railroading nor Sandboxing, this is just being a good storyteller!
+
+#### Timing
+
+One of my personal mistakes was that I was always trying to cram too many things in a single session. I wanted my the characters to do too much in a 3 hours session. This was causing the players often to be puzzled on what happened. I was going too fast, and they weren't able to appreciate the game. So, my personal target became to plan fewer things, to make stories a bit lighter and blander.
+
+Try and understand your players as much as you can. When you start timing each event correctly, then you will learn how to make your plots more entertaining, without overrunning.
+
+Also, knowing your players well, and realising what they appreciate the most, may help you changing the ratio of the adventure, maybe making the first part spanning over two sessions (this is rare) or the ending one lasting longer (easier).
+
+#### About the length of your writing
+
+Writing a lot of text is simple, but the art of summarising things is one of the most challenging things. However, I have always disliked storytellers who read during the game. I have always thought that every encounter can be summarised in a few bullet points, which are easy to digest during the game.
+
+The end result should therefore be a very short, readable text.
+
+> **1.01 - The Curious Innkeeper**
+>
+> - When the playing characters reach the Inn, they will feel the innkeeper is keeping an eye on them
+> - The Innkeeper will desperately try to gather information from the characters
+> - Try to make sure the playing characters feels like they are spied upon.
+> - Keep this event free of other NPCs and let the player start guessing *why* the innkeeper is so interested in them: **there is nothing better than some good old paranoia**
+
+This is what you should have in front of you during the game. However, the process of creating an adventure can go through some serious writing. This is absolutely fine, because it will give you the background information which will help you running the game smoothly!
 
 ### Non Player Characters
 
