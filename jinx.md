@@ -457,6 +457,7 @@ The difficulty to hit is, by default, 25. However, if the defendant has a skill 
 Please note that every additional passive action performed in the same round receives a -5 penalty.
 
 > The second guard, galvanised but his colleague, decides to attack *Okado* as well. This time, because *Okado* has already parried an attack in the same round, the passive resistance will receive a penalty of -5. The second guard has a melee ability of 34 and rolls a 17, which totals 51. While *Okado* has a melee ability of 53, with a penalty of -5, she can only offer a passive resistance of 48. The second guard will hit, but causing only minimal damage to her.
+>
 > It is now *Okado*'s time to attack. She focuses on her first guard first, hitting him (ability of 53 plus a 1d20 roll of 15 minus a passive resistance of 36 gives her a 32 points success) and causing a heavy damage. She also uses her melee talent of two attacks per round on the second guard, which is killed instantaneously, as *Okado* rolls a critical hit (ability 53 - second attack talent penalty -5 + 1d20 roll of 20 + bonus 1d20 roll of 18 - passive resistance of 34 for a success of 52) delivering three times the normal damage of her sword.
 
 #### Attack modifiers
@@ -477,19 +478,19 @@ Remember that a positive modifier makes it easier for the character to hit.
 
 speed of target|modifier
 ---|---:
-Still|+5
-Walking|0
+Still or Walking|0
 Trotting|-5
 Running|-10
 
-To balance the game in terms of challenging the hand to hand combat, the melee combat and the ranged combat, the following modifiers should be applied to ranged combat
+To balance the game in terms of challenging the hand to hand combat, the melee combat and the ranged combat, the following modifiers should be applied to ranged combat. Please keep in mind that every ranged weapon has a maximum range, over which the attack fails automatically.
 
 Distance to target|modifier
 ---|---:
 0-15m|0
 16m-30m|-5
 31m-45m|-10
-46m+|-15
+46m-100m|-15
+101m+|-25
 
 Last, but not least, you should consider the challenge of hitting a subject who is partially covered
 
