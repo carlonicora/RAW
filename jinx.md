@@ -433,18 +433,34 @@ Similarly to every action, the result of an attack depends if the attack is chal
 In Jinx, fighting is dangerous. The game itself is designed to make combat a serious action with dire consequences. By no means we want to avoid combat situations, on the contrary we believe they balance a well though-through campaign. Yet, Jinx is a role-playing game which focuses on storytelling and abilities. Combat is no more important than any other skill.
 
 #### Challenged Attacks
+
 When two characters are fighting and the defending character has an ability which can challenge the attacker, then the attack result is defined by a simple comparison between the attack ability plus 1d20 and the defending ability plus 1d20.
 
 The **level of success or failure** is the difference between the two results.
 
 `success = (attacking ability + 1d20) - (defending ability + 1d20)`
 
+An example of a challenged attack is when the defending character spends their turn to perform a defending action. The attacking character may try to punch another, who may try to dodge the punch. In that case the attacking character will use 1d20+brawl, and to succeed will have to score higher than the defending 1d20+dodge. In this case, the defending character will invest their action for their turn, and won't be able to do an attack themselves.
+
 #### Unchallenged Attacks
+
 When the attack of a character cannot be actively defended by the other character, the difficulty is derived by a base challenge factor of **25**. This can receive a positive or negative modifier depending on the opponent apparent size and speed.
 
 `success = (attacking ability + 1d20) - 25`
 
+#### Passive resistance
+
+The difficulty to hit is, by default, 25. However, if the defendant has a skill which identifies an ability to oppose the attack (both attacker and defender have melee ability) then the default value may be replaced by the defender's ability. This is considered a passive resistance, and does not require the defending character to spend their action turn. It is automatic.
+
+> After spotting *Okado*, the guard raises his sword and attacks her. The guard has a melee ability of 36, and with a roll of 13 he would have scored a success of 24 (ability+1d20-25). However, *Okado* is extremely skilled with her sword and she naturally knows how to defend an attack. Her melee ability is 53, which is enough to parry the guard's attack (which totalled 49).
+
+Please note that every additional passive action performed in the same round receives a -5 penalty.
+
+> The second guard, galvanised but his colleague, decides to attack *Okado* as well. This time, because *Okado* has already parried an attack in the same round, the passive resistance will receive a penalty of -5. The second guard has a melee ability of 34 and rolls a 17, which totals 51. While *Okado* has a melee ability of 53, with a penalty of -5, she can only offer a passive resistance of 48. The second guard will hit, but causing only minimal damage to her.
+> It is now *Okado*'s time to attack. She focuses on her first guard first, hitting him (ability of 53 plus a 1d20 roll of 15 minus a passive resistance of 36 gives her a 32 points success) and causing a heavy damage. She also uses her melee talent of two attacks per round on the second guard, which is killed instantaneously, as *Okado* rolls a critical hit (ability 53 - second attack talent penalty -5 + 1d20 roll of 20 + bonus 1d20 roll of 18 - passive resistance of 34 for a success of 52) delivering three times the normal damage of her sword.
+
 #### Attack modifiers
+
 The attack success can be modified by a series of factors. Some of them make it easy to hit or deliver damages, while others can make it more challenging to attack.
 
 Please note that these modifiers are optional, and should never slow down the game. It is down to the storyteller to decide how much to involve the modifiers. Our approach is simple: if it makes the game more interesting, use them, otherwise drop them.
