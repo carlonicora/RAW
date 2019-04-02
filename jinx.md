@@ -845,21 +845,41 @@ But how do you apply Dan Harmond's study to your adventure? Or, to better put it
 
 In my experience, you can divide events into five main categories:
 
-- **GM time** From time to time, you need the space to present something to your players. These are events where there is no interaction with the PCs, but they give you the time to give the PCs a frame of reference or the right amount of information.
+##### GM time
 
-- **Planning and Recaps** These are the events in which the player characters discuss amongst themselves. They are extremely important for the players to cement the information they received. You have to remember that the players do not have all the information you have as a Game Master. You have to allow them time for pure roleplay and information analysis. The time for these type of events is extremely variable and depends on your players. One party I had wanted nothing more than a constant, collective brainstorm, investing a huge amount of time in pure discussions. Another was very action-oriented, which meant these events were very short. You need to know about your party!
+From time to time, you need the space to present something to your players. These are events where there is no interaction with the PCs, but they give you the time to give the PCs a frame of reference or the right amount of information.
 
-- **Exploration** Exploring a new environment can be exciting and can give you time to reorganise the session time, change the adventure on the fly and give something to your player characters. This kind of events' duration is entirely up to you. You can make the are to be explored dry of information, keeping the event short, or you can allow your player characters to dissect an entire Star Destroyer piece by piece. Use the exploration events wisely though: make sure your PCs don't get bored and frustrated because they can't find anything.
+*To make this type of events work...* you need to keep them short. It is a recap, it gives you the possibility to set the tone. This does not mean you have to take the stage for half an hour and bore your players to death.
 
-- **Action** This type of event is about doing something. What I like about it is that they are predictable in terms of results and duration. You should know what's the goal of the action and how much time should it take for you to make the PCs achieve (or fail).
+##### Planning and Recaps
 
-- **Encounter** Here we land in the most exciting types of events: the player characters interact with other NPCs. Of course, you can divide an encounter into two different categories: social interactions or combat situations.
+These are the events in which the player characters discuss amongst themselves. They are extremely important for the players to cement the information they received. You have to remember that the players do not have all the information you have as a Game Master. You have to allow them time for pure roleplay and information analysis. The time for these type of events is extremely variable and depends on your players. One party I had wanted nothing more than a constant, collective brainstorm, investing a huge amount of time in pure discussions. Another was very action-oriented, which meant these events were very short. You need to know about your party!
 
-  - **Social Interactions** my favourite encounters. You can dispense information, taunt your player character, make them fall in love or talk with their archnemesis. Whatever is in your NPCs arsenal comes through. This is because I am not a fighting-heavy game master, but your miles may vary. The key element for social interaction is the quality of your NPCs, their three-dimensionality. You are generally in charge of the timing of these situations. Like in any situation in which you are the person timing it, make sure not to stretch it too much or making it too dry. If you are an inexperienced game master, give yourself time.
+*To make this type of events work...* you need to give the playing characters the time to talk. Give them the right settings, lower the music, make sure that the tone of the game shifts. One non-player character who is there to help them may be good if your players have trouble kickstarting the thought process.
 
-  - **Combat** While I am not a fighting-heavy game master, I still believe that combat situations are great to keep the level of excitement elevated. There is nothing better than a spike of adrenaline to shake a soporiferous session. But please, remember that even your monsters are NPCs, give them a three-dimensional feel to it. This is why I despise random encounters: because they have no reason to exist apart from having a useless fight.
+##### Exploration
 
-Now that we have explored the types of events you can fill your story with, let's go back to our examples so I can show my thought process.
+Exploring a new environment can be exciting and can give you time to reorganise the session time, change the adventure on the fly and give something to your player characters. This kind of events' duration is entirely up to you. You can make the are to be explored dry of information, keeping the event short, or you can allow your player characters to dissect an entire Star Destroyer piece by piece. Use the exploration events wisely though: make sure your PCs don't get bored and frustrated because they can't find anything.
+
+*To make this type of events work...* you need to define locations very well, then place the ball in the playing characters court. Let them tell you what they want to do, and be reactive to them. To be able to be reactive and to provide them with enough information to keep the interest alive, but not too many to conclude the entire event in two seconds, you need to know your surroundings. What can they find in each location? Describe what they see and feel so that they are interested in going on exploring. A Dungeon design from the original D&D is the perfect example, just don't limit yourself to an underground cave.
+
+##### Action
+
+This type of event is about doing something. What I like about it is that they are predictable in terms of results and duration. You should know what's the goal of the action and how much time should it take for you to make the PCs achieve (or fail).
+
+*To make this type of events work...* you should know your location and you should try and consider what a playing character may be interested in doing. Give your playing characters a series of challenges, without resolving an entire scene with a simple roll. Build the tension and release it over time!
+
+##### Social Interaction
+
+My favourite encounters. You can dispense information, taunt your player character, make them fall in love or talk with their archnemesis. Whatever is in your NPCs arsenal comes through. This is because I am not a fighting-heavy game master, but your miles may vary. The key element for social interaction is the quality of your NPCs, their three-dimensionality. You are generally in charge of the timing of these situations. Like in any situation in which you are the person timing it, make sure not to stretch it too much or making it too dry. If you are an inexperienced game master, give yourself time.
+
+*To make this type of events work...* your non player characters have to be well designed. They have to be three dimensional, they must have character and things to say. Try to think about your non player characters before the event, so that you know how they behave and how they can react. You can find more information on how to create a great NPC later in the book.
+
+##### Combat
+
+While I am not a fighting-heavy game master, I still believe that combat situations are great to keep the level of excitement elevated. There is nothing better than a spike of adrenaline to shake a soporiferous session. But please, remember that even your monsters are NPCs, give them a three-dimensional feel to it. This is why I despise random encounters: because they have no reason to exist apart from having a useless fight.
+
+*To make this type of events work...* you must know how to fight! Your NPCs or monsters must have a plan, or if they don't, you must know they don't (but that should be a plan nonetheless). Remember the Assumption of Heroism and make sure the foes do what they can to play their part. One thing many storytellers seem to forget is that NPCs or monsters may not be interested in dying, and they may well think to flee if they see the worse come to worst!
 
 #### The Anatomy of an Adventure
 
