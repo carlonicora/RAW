@@ -1,6 +1,6 @@
 # Jinx Storytelling Game
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:5 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Introduction](#introduction)
 	- [The goals of Jinx](#the-goals-of-jinx)
@@ -274,45 +274,217 @@ Below you will find a list of abilities available in Jinx. They are divided by t
 
 ##### Body Abilities
 
-Ability|Description
----|---
-Climb|
-Ride|
-Swim|
-Acrobatics|
-Hand to Hand Combat|
-Melee Combat|
-Missile Combat|
-Craft (_specify_)|
-Dodge|
+###### Acrobatics
+
+The ability to display physical flexibility in multiple situations.
+
+Talent|Required level
+---|---:
+@TODO|50
+
+###### Climb
+
+The ability to climb vertical surfaces, mitigating any difficulties that may arise.
+
+Talent|Required level
+---|---:
+Carry another character|50
+
+###### Combat: Dodge
+
+The ability to successfully evade enemy attacks
+
+Talent|Required level
+---|---:
+One dodge doesn't impact the number of actions in a round|50
+Two dodge doesn't impact the number of actions in a round|75
+
+###### Combat: Hand to Hand
+
+The ability to successfully engage opponents while unarmed.
+
+Talent|Required level
+---|---:
+Two penalised attacks per round|50
+Two attacks per round|75
+Three attacks per round|95
+
+###### Combat: Melee
+
+The ability to successfully engage opponents while armed with close-range weaponry
+
+Talent|Required level
+---|---:
+Two penalised attacks/weapons per round|50
+Two attacks/weapons per round|75
+Three attacks per round|95
+
+###### Combat: Missile
+
+The ability to successfully engage opponents while armed with long-ranged attacking implements.
+
+Talent|Required level
+---|---:
+Two penalised attacks per round|50
+Two attacks per round|75
+
+###### Craft
+
+The ability to design and create the specified object.
+
+Talent|Required level
+---|---:
+@todo|50
+
+###### Ride
+
+The ability to better ride a creature - horse or otherwise.
+
+Talent|Required level
+---|---:
+Ride flying creatures|50
+
+###### Swim
+
+The ability to swim.
+
+Talent|Required level
+---|---:
+@todo|50
 
 ##### Mind Abilities
 
-Ability|Description
----|---
-Track|
-Disarm Trap|
-Runes|
-Perception|
-Language|
-Oratory|
-Potions|
-Write|
-Lore|
-Mana|
+###### Investigate
+
+The ability to gather information regarding a specific topic and to make accurate deductions based off of available information.
+
+Talent|Required level
+---|---:
+@todo|50
+
+###### Languages
+
+The ability that governs communication skills and the translation of foreign tongues and written texts
+
+Talent|Required level
+---|---:
+Proficient in 2 Languages|40
+Can be used to "fast talk/convince"|50
+Proficient in 3 Languages|60
+Proficient in 4 Languages|70
+Proficient in 5 Languages|80
+Proficient in 6 Languages|90
+
+###### Lore
+
+The ability to know history or legends
+
+Talent|Required level
+---|---:
+@todo|50
+
+###### Mana
+
+The ability to manipulate magic
+
+Talent|Required level
+---|---:
+Ability to create spells of difficulty 25|50
+Ability to create spells of difficulty 60|70
+Ability to create spells of difficulty 90|95
+
+###### Perception
+
+The ability to better detect minor and/or distant physical phenomena that would normally escape one's view.
+
+Talent|Required level
+---|---:
+@todo|50
+
+###### Potions
+
+The ability to understand the intricacies of creating and utilising herbs to create poisons and remedies
+
+Talent|Required level
+---|---:
+Potions and remedies potency 5|20
+Potions and remedies potency 20|40
+Potions and remedies potency 40|60
+Potions and remedies potency 50|80
+
+###### Runes
+
+The ability to understand carvings and writings of a magical / runic nature.
+
+Talent|Required level
+---|---:
+@todo|50
+
+###### Traps
+
+Ability could benefit by focusing more on the understanding / creation / disarming / improvisation of traps.
+
+Talent|Required level
+---|---:
+@todo|50
 
 ##### Spirit Abilities
 
-Ability|Description
----|---
-Ambush|
-Stalk/Hide|
-Pick Lock|
-Cookery|
-Bargain|
-Persuade|
-Hunt|
-Empathy|
+###### Con artistry
+
+The ability to pick locks, sleigh of hands and thievery in general
+
+Talent|Required level
+---|---:
+@todo|50
+
+###### Cooking
+
+This skill covers the practicum, theory, and artistic expressive ability in Gastronomy, Mixology, Patisserie, and Boulangerie.
+
+Talent|Required level
+---|---:
+@todo|50
+
+###### Empathy
+
+The ability to emotionally understand and share the feelings of others.
+
+Talent|Required level
+---|---:
+@todo|50
+
+###### Hunt/Survival
+
+@TODO
+
+Talent|Required level
+---|---:
+@todo|50
+
+###### Persuasion/Charm
+
+The ability to convince others that they should act in a way that benefits you, through non-violent means.
+
+Talent|Required level
+---|---:
+Can be used to seduce|50
+
+###### Stalk/Hide
+
+The ability to hide oneself of follow someone without being seen
+
+Talent|Required level
+---|---:
+Disappear in the shadows|50
+
+###### Willpower
+
+The ability to act in spite of anything that seeks to obstruct that action or to resist external dominance
+
+Talent|Required level
+---|---:
+@todo|50
 
 ### Life Points
 Every playing character has 40 life points plus the value of their **Body**. When lost, the life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
