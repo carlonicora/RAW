@@ -42,6 +42,7 @@
 	- [Combat](#combat)
 		- [Challenged Attacks](#challenged-attacks)
 		- [Unchallenged Attacks](#unchallenged-attacks)
+		- [Passive resistance](#passive-resistance)
 		- [Attack modifiers](#attack-modifiers)
 		- [Damages](#damages)
 		- [Ablative armours](#ablative-armours)
@@ -79,8 +80,10 @@
 			- [Turning Points](#turning-points)
 			- [Events](#events)
 			- [Sessions](#sessions)
-			- [Timing](#timing)
-		- [Think linearly, expand logically, improvise organically](#think-linearly-expand-logically-improvise-organically)
+		- [Location, Location, Location](#location-location-location)
+		- [Think linearly, expand logically, improvise organically and re-write constantly](#think-linearly-expand-logically-improvise-organically-and-re-write-constantly)
+		- [Timing](#timing)
+		- [About the length of your writing](#about-the-length-of-your-writing)
 	- [Non Player Characters](#non-player-characters)
 	- [Locations](#locations)
 	- [Factions](#factions)
@@ -225,6 +228,7 @@ At the beginning of a game, the user defines:
 ##### Half-Elves
 
 @TODO
+
 
 ### Psychography
 
