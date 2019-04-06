@@ -74,7 +74,7 @@
 	- [Adventures](#adventures)
 		- [Type of Adventures in a Campaign](#type-of-adventures-in-a-campaign)
 		- [The Story Circle](#the-story-circle)
-		- [Type of events](#type-of-events)
+		- [Type of Scenes](#type-of-Scenes)
 			- [GM time](#gm-time)
 			- [Planning and Recaps](#planning-and-recaps)
 			- [Exploration](#exploration)
@@ -84,7 +84,7 @@
 		- [The Anatomy of an Adventure](#the-anatomy-of-an-adventure)
 			- [Adventure Main Questions](#adventure-main-questions)
 			- [Turning Points](#turning-points)
-			- [Events](#events)
+			- [Scenes](#Scenes)
 			- [Sessions](#sessions)
 		- [Location, Location, Location](#location-location-location)
 		- [Think linearly, expand logically, improvise organically and re-write constantly](#think-linearly-expand-logically-improvise-organically-and-re-write-constantly)
@@ -523,7 +523,7 @@ Every character starts the game with at least 3 ability. Writing how these skill
 
 ## The world of things
 
-### Weapons
+### Weapons
 
 Weapon|Damages
 ---|---:
@@ -842,9 +842,9 @@ In the next sub chapters, we will often refer to a lot of terms which every seas
 
 **Adventures**: a story split amongst a finite number of sessions which tells a self contained story, which can be integral part of a campaign.
 
-**Session**: a few continuative hours of play, where the player characters are exposed to a series of events.
+**Session**: a few continuative hours of play, where the player characters are exposed to a series of Scenes.
 
-**Event**: something that happens during a role-playing game session and that is designer to involve a player character in the story.
+**Scene**: something that happens during a role-playing game session and that is designer to involve a player character in the story.
 
 **Non Player Character** or **NPC**: a fictional figure controlled by the storyteller. Every single living being in a story which is not a PC. These characters are controlled by the storyteller.
 
@@ -946,7 +946,7 @@ Lady Elgolath has done something wrong, but seen that Lord Enoch is still not th
 
 > The treason trial
 
-What if Lady Elgolath was betrayed by an old friend who was bought by Lord Enoch? This can be an interesting twist of events.
+What if Lady Elgolath was betrayed by an old friend who was bought by Lord Enoch? This can be an interesting twist of Scenes.
 
 > Betraying the high council
 
@@ -976,7 +976,7 @@ However you believe your campaigns or Adventures will be played, your player cha
 
 You should write everything in pencil, at least in your mind. This means, be ready to change your mind over and over again. This mental attitude will help you being a better storyteller.
 
-One of the most crucial aspects of plotting a campaign is to understand that everything you are writing now is just an idea. You still don't know your player characters, their backstories and their dreams. You have no idea how their future actions will impact the villain's plot. This is why your plot and its collection of adventures should still be just an idea. You will change your plot adventures ideas many times, and you should understand that this is the life of a good campaign. There is nothing worse than a game master who can't conceive that their players may not be interested in the order of events.
+One of the most crucial aspects of plotting a campaign is to understand that everything you are writing now is just an idea. You still don't know your player characters, their backstories and their dreams. You have no idea how their future actions will impact the villain's plot. This is why your plot and its collection of adventures should still be just an idea. You will change your plot adventures ideas many times, and you should understand that this is the life of a good campaign. There is nothing worse than a game master who can't conceive that their players may not be interested in the order of Scenes.
 
 Remember the golden rule of a good game master. You must embrace change for your players' sake. While you will spend hours plotting and writing, it is their prerogative to decide how to interact with your creation. Trying to force a story down your player's throat is merely wrong.
 
@@ -1023,45 +1023,133 @@ For those of you who are used to the "Three Acts Adventure", the first quadrant 
 
 But how do you apply Dan Harmond's study to your adventure? Or, to better put it, how do you create a great adventure using Harmond's study?
 
-#### Type of events
+#### Scenes
 
-In my experience, you can divide events into five main categories:
+In many years of storytelling, I have met as many styles of planning an adventure as there are storytellers out there. There isn't a right or a wrong way of doing it. I have decided to write down my planning style.  This is the one that allows me to plan a four hours session of play in details. I don't waste my time writing, yet it allows me to create a consistent story which make sense for my players.
+
+This way is simple: when I know to intrigue my player characters, I design a list of scenes which may allow the player characters to move from one point to another. I use as many scenes as I need, and each one of them should answer one simple question: why? Why does this scene exist? Is there a purpose for it? If a scene has more than one purpose, I tend to split them in two, but if a scene does not have a purpose, then I either remove it or go back to the drawing board!
+
+#### Type of Scenes
+
+In my experience, you can divide Scenes into five main categories:
 
 ##### GM time
 
-From time to time, you need the space to present something to your players. These are events where there is no interaction with the PCs, but they give you the time to give the PCs a frame of reference or the right amount of information.
+From time to time, you need the space to present something to your players. These are Scenes where there is no interaction with the PCs, but they give you the time to give the PCs a frame of reference or the right amount of information.
 
-*To make this type of events work...* you need to keep them short. It is a recap, it gives you the possibility to set the tone. This does not mean you have to take the stage for half an hour and bore your players to death.
+*To make this type of Scenes work...* you need to keep them short. It is a recap, it gives you the possibility to set the tone. This does not mean you have to take the stage for half an hour and bore your players to death.
 
 ##### Planning and Recaps
 
-These are the events in which the player characters discuss amongst themselves. They are extremely important for the players to cement the information they received. You have to remember that the players do not have all the information you have as a Game Master. You have to allow them time for pure roleplay and information analysis. The time for these type of events is extremely variable and depends on your players. One party I had wanted nothing more than a constant, collective brainstorm, investing a huge amount of time in pure discussions. Another was very action-oriented, which meant these events were very short. You need to know about your party!
+These are the Scenes in which the player characters discuss amongst themselves. They are extremely important for the players to cement the information they received. You have to remember that the players do not have all the information you have as a Game Master. You have to allow them time for pure roleplay and information analysis. The time for these type of Scenes is extremely variable and depends on your players. One party I had wanted nothing more than a constant, collective brainstorm, investing a huge amount of time in pure discussions. Another was very action-oriented, which meant these Scenes were very short. You need to know about your party!
 
-*To make this type of events work...* you need to give the playing characters the time to talk. Give them the right settings, lower the music, make sure that the tone of the game shifts. One non-player character who is there to help them may be good if your players have trouble kickstarting the thought process.
+*To make this type of Scenes work...* you need to give the playing characters the time to talk. Give them the right settings, lower the music, make sure that the tone of the game shifts. One non-player character who is there to help them may be good if your players have trouble kickstarting the thought process.
 
 ##### Exploration
 
-Exploring a new environment can be exciting and can give you time to reorganise the session time, change the adventure on the fly and give something to your player characters. This kind of events' duration is entirely up to you. You can make the are to be explored dry of information, keeping the event short, or you can allow your player characters to dissect an entire Star Destroyer piece by piece. Use the exploration events wisely though: make sure your PCs don't get bored and frustrated because they can't find anything.
+Exploring a new environment can be exciting and can give you time to reorganise the session time, change the adventure on the fly and give something to your player characters. This kind of Scenes' duration is entirely up to you. You can make the are to be explored dry of information, keeping the Scene short, or you can allow your player characters to dissect an entire Star Destroyer piece by piece. Use the exploration Scenes wisely though: make sure your PCs don't get bored and frustrated because they can't find anything.
 
-*To make this type of events work...* you need to define locations very well, then place the ball in the playing characters court. Let them tell you what they want to do, and be reactive to them. To be able to be reactive and to provide them with enough information to keep the interest alive, but not too many to conclude the entire event in two seconds, you need to know your surroundings. What can they find in each location? Describe what they see and feel so that they are interested in going on exploring. A Dungeon design from the original D&D is the perfect example, just don't limit yourself to an underground cave.
+*To make this type of Scenes work...* you need to define locations very well, then place the ball in the playing characters court. Let them tell you what they want to do, and be reactive to them. To be able to be reactive and to provide them with enough information to keep the interest alive, but not too many to conclude the entire Scene in two seconds, you need to know your surroundings. What can they find in each location? Describe what they see and feel so that they are interested in going on exploring. A Dungeon design from the original D&D is the perfect example, just don't limit yourself to an underground cave.
 
 ##### Action
 
-This type of event is about doing something. What I like about it is that they are predictable in terms of results and duration. You should know what's the goal of the action and how much time should it take for you to make the PCs achieve (or fail).
+This type of Scene is about doing something. What I like about it is that they are predictable in terms of results and duration. You should know what's the goal of the action and how much time should it take for you to make the PCs achieve (or fail).
 
-*To make this type of events work...* you should know your location and you should try and consider what a playing character may be interested in doing. Give your playing characters a series of challenges, without resolving an entire scene with a simple roll. Build the tension and release it over time!
+*To make this type of Scenes work...* you should know your location and you should try and consider what a playing character may be interested in doing. Give your playing characters a series of challenges, without resolving an entire scene with a simple roll. Build the tension and release it over time!
 
 ##### Social Interaction
 
 My favourite encounters. You can dispense information, taunt your player character, make them fall in love or talk with their archnemesis. Whatever is in your NPCs arsenal comes through. This is because I am not a fighting-heavy game master, but your miles may vary. The key element for social interaction is the quality of your NPCs, their three-dimensionality. You are generally in charge of the timing of these situations. Like in any situation in which you are the person timing it, make sure not to stretch it too much or making it too dry. If you are an inexperienced game master, give yourself time.
 
-*To make this type of events work...* your non player characters have to be well designed. They have to be three dimensional, they must have character and things to say. Try to think about your non player characters before the event, so that you know how they behave and how they can react. You can find more information on how to create a great NPC later in the book.
+*To make this type of Scenes work...* your non player characters have to be well designed. They have to be three dimensional, they must have character and things to say. Try to think about your non player characters before the Scene, so that you know how they behave and how they can react. You can find more information on how to create a great NPC later in the book.
 
 ##### Combat
 
 While I am not a fighting-heavy game master, I still believe that combat situations are great to keep the level of excitement elevated. There is nothing better than a spike of adrenaline to shake a soporiferous session. But please, remember that even your monsters are NPCs, give them a three-dimensional feel to it. This is why I despise random encounters: because they have no reason to exist apart from having a useless fight.
 
-*To make this type of events work...* you must know how to fight! Your NPCs or monsters must have a plan, or if they don't, you must know they don't (but that should be a plan nonetheless). Remember the Assumption of Heroism and make sure the foes do what they can to play their part. One thing many storytellers seem to forget is that NPCs or monsters may not be interested in dying, and they may well think to flee if they see the worse come to worst!
+*To make this type of Scenes work...* you must know how to fight! Your NPCs or monsters must have a plan, or if they don't, you must know they don't (but that should be a plan nonetheless). Remember the Assumption of Heroism and make sure the foes do what they can to play their part. One thing many storytellers seem to forget is that NPCs or monsters may not be interested in dying, and they may well think to flee if they see the worse come to worst!
+
+##### Location
+
+Yes, some scenes are just locations. The player characters should be able to explore the place they are in, maybe there are hidden secrets to discover, maybe there is something happening in the room they are in. Sometimes it is just a place where they find something they need.
+
+*To make this type of Scenes work...*
+
+#### The Anatomy of a Scene
+
+Before going to understand how an adventure is build, I want to point out how a scene is built. This because an adventure will use scenes, so it is good to understand how to build those. Without further ado, let's look into it and see how a single scene can be created.
+
+Apart from the type of the scene and its title, you will find that the rule of the five Ws apply to the scenes. Why, When, Where, Who, What and How. Answering these simple questions will give a great over view of each scene.
+
+Before digging deeper in this, I would like to underline two things. The first is about how to write a scene, the second is about the scene's flexibility. The way a storyteller write a scene depends on their style. I like bullet points, they make my life simple when I write the scene and easily accessible when I play. I don't like to read from a document, so I don't add any particular text to read to my players. Having bullet points allow me a quick access of whatever should already be in my brain. As for the scene flexibility, you should remember that a scene may well be wiped out by the player characters actions in the previous scene. Remember, not because you invested time in it, your players should love it. Write in pencil and make sure you allow your mind to conceive the fact that the story is build with your players, not without.
+
+##### Title
+
+Hey, this may sound silly, but a one-liner to remind you what the scene is without reading for more than a second is invaluable. You can write it at the beginning, to help you dig deeper, or you can do it at the end, when you know exactly what's happening in the scene. That's up to you.
+
+> The death of Ilkinos
+
+##### Type
+
+Few pages back, I mentioned you can have many types of scenes. This single line just tells me what to expect.
+
+> Exploration
+
+##### Why
+
+This is the golden point for every scene, and the "*sine qua non*", the indispensable thing without which the scene is not a scene: its purpose for the player characters! What is the reason for the scene to exist? Why are you considering making your player characters live it? Even a simple combat should have a purpose!
+
+The purpose should be specific and clear to you. Something like "*the PCs should learn something about something else*" won't do any good. You, the storyteller, should always be in the know.
+
+> The player characters should realise that Enoch is not the good character they thought
+
+##### When
+
+Now, here I cheated a bit with the Five Ws. In the when, I write the playing time I set up for this scene. This is a number which helps me plan a session well. To write numbers that make sense, you need to understand your players well.
+
+> 15'
+
+##### Where
+
+The location is the place where the scene takes place. In some occasion the location **is** the scene. Give it flavour, give it character. How does it look and feel? If you want to draw a map, do it. Or if you, like me, are a "*theatre of the mind*" storyteller, just make it juicy in the way you tell it.
+
+> Topmost tower in the Uldwich castle at sundown
+
+##### Who
+
+Who is present in the scene apart the player characters? Here is where I put together a list of non player characters and eventually monsters. I just put their names, but before playing I will make sure I have more details for each of those I named.
+
+> Lord Enoch
+>
+> Ilkinos
+
+##### What
+
+The "what" are the information or things the player character may learn or get from the scene. I say "may" because player characters are renown to have a mind of their own. From time to time they miss the elephant in the room, just because they are too focussed on what their agenda is.
+
+> - Ilkinos dies
+> - Lord Enoch is a villain
+> - *Ashanta* is the keeper of the map the player characters need
+> - Ilkinos possessed the renown Sword of Tears
+
+
+##### How
+
+Last, but not least, here I write a bulletpoints of everything I need to define the scene. Short, to the point, and without any writing skills required.
+
+Please try and keep in mind that the more natural you are in front of your players, the more they will enjoy the game. If you read from a piece of paper, you lose part of the magic you are creating. Writing a short list of elements, sometimes tags that allow you to describe something in an incredible way, is more than enough. Sometimes it is fine to write a direct discussion, as long as it is short.
+
+> - Sunset. Describe it beautifully
+> - Flags waving to the wind
+> - Ilkinos and Lord Enoch are discussing violently
+> - The player characters are hidden
+> - The player characters should realise the two non player characters are way above their league, if they get involved... good luck player characters
+> - Ilkinos tells Lord Enoch he knew it was him trying to kill the Duke
+> - Lord Enoch says "*Oh, you 'knew', of course you did! Do you like being smart? Top of the class, Ilkinos, as always. Top of the class and bottom of the social scale. I have you now here, and I will get to Ashanta later!*"
+> - Ilkinos says "*She is gone, Enoch, she is far beyond your reach, and the map to the flying citadel with her!*"
+> - Lord Enoch is a great fighter and kills Ilkinos
+> - Lord Enoch swiftly flee the scene without noticing the player characters
+> - The Sword of Tears is still there 
 
 #### The Anatomy of an Adventure
 
@@ -1077,16 +1165,16 @@ Let's now go to a step-by-step point to create your own adventure!
 
 ##### Turning Points
 
-1. What is the final realisation/turn of events which can lead the PCs to achieve their goals? (point 7)
+1. What is the final realisation/turn of Scenes which can lead the PCs to achieve their goals? (point 7)
 2. How are the PCs achieve their goals? (point 8)
 3. What is the decision the PCs make that defines the moment they move from being a secondary actor to being in charge? (point 5)
-4. What turn of events makes them attempt a solution which will fail? (point 6)
+4. What turn of Scenes makes them attempt a solution which will fail? (point 6)
 5. What is the change they accept to embark in the adventure? (point 3)
 6. What is the burning need they have to feel for the hook to work? (point 2)
 7. What changes that give them the possibility to get closer to accepting they are the primary actors in charge of the adventure? (point 4)
 8. What is the start of the adventure?
 
-##### Events
+##### Scenes
 
 1. What is the "normal life" and how do you do to make the player characters to feel a burning Need? (between points 1 and 2)
 2. How do you enhance the need, making the PCs say YES to your adventure? (between points 2 and 3)
@@ -1131,7 +1219,7 @@ Using these four steps, I can guarantee you will be able to plan adventures whic
 
 One of my personal mistakes was that I was always trying to cram too many things in a single session. I wanted my the characters to do too much in a 3 hours session. This was causing the players often to be puzzled on what happened. I was going too fast, and they weren't able to appreciate the game. So, my personal target became to plan fewer things, to make stories a bit lighter and blander.
 
-Try and understand your players as much as you can. When you start timing each event correctly, then you will learn how to make your plots more entertaining, without overrunning.
+Try and understand your players as much as you can. When you start timing each Scene correctly, then you will learn how to make your plots more entertaining, without overrunning.
 
 Also, knowing your players well, and realising what they appreciate the most, may help you changing the ratio of the adventure, maybe making the first part spanning over two sessions (this is rare) or the ending one lasting longer (easier).
 
@@ -1146,7 +1234,7 @@ The end result should therefore be a very short, readable text.
 > - When the playing characters reach the Inn, they will feel the innkeeper is keeping an eye on them
 > - The Innkeeper will desperately try to gather information from the characters
 > - Try to make sure the playing characters feels like they are spied upon.
-> - Keep this event free of other NPCs and let the player start guessing *why* the innkeeper is so interested in them: **there is nothing better than some good old paranoia**
+> - Keep this Scene free of other NPCs and let the player start guessing *why* the innkeeper is so interested in them: **there is nothing better than some good old paranoia**
 
 This is what you should have in front of you during the game. However, the process of creating an adventure can go through some serious writing. This is absolutely fine, because it will give you the background information which will help you running the game smoothly!
 
