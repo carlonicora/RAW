@@ -1,132 +1,23 @@
 # Jinx Storytelling Game
 
-<!-- TOC depthFrom:2 depthTo:5 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Introduction](#introduction)
-	- [The goals of Jinx](#the-goals-of-jinx)
-	- [What is a Role-Playing Game](#what-is-a-role-playing-game)
-	- [Settings](#settings)
-	- [An example of play](#an-example-of-play)
-- [Character creation](#character-creation)
-	- [Demography](#demography)
-		- [Races](#races)
-			- [Humans](#humans)
-			- [Elves](#elves)
-			- [Dwarves](#dwarves)
-			- [Halflings](#halflings)
-			- [Orcs](#orcs)
-			- [Half-Elves](#half-elves)
-	- [Psychography](#psychography)
-	- [Traits, Abilities and Talents](#traits-abilities-and-talents)
-		- [Traits](#traits)
-		- [Abilities](#abilities)
-		- [Talents](#talents)
-		- [List of Abilities](#list-of-abilities)
-			- [Body Abilities](#body-abilities)
-			- [Mind Abilities](#mind-abilities)
-			- [Spirit Abilities](#spirit-abilities)
-	- [Life Points](#life-points)
-	- [Backstory](#backstory)
-		- [Start with your demography](#start-with-your-demography)
-		- [Bring in your psychographic information](#bring-in-your-psychographic-information)
-		- [How were their abilities learned](#how-were-their-abilities-learned)
-- [The world of things](#the-world-of-things)
-	- [Weapons](#weapons)
-	- [Armours](#armours)
-- [Game Mechanics](#game-mechanics)
-	- [Performing Actions](#performing-actions)
-		- [Open ended rolls](#open-ended-rolls)
-		- [Challenged actions](#challenged-actions)
-		- [Unchallenged actions](#unchallenged-actions)
-		- [Threshold](#threshold)
-	- [Combat](#combat)
-		- [Challenged Attacks](#challenged-attacks)
-		- [Unchallenged Attacks](#unchallenged-attacks)
-		- [Passive resistance](#passive-resistance)
-		- [Attack modifiers](#attack-modifiers)
-		- [Damages](#damages)
-		- [Ablative armours](#ablative-armours)
-	- [Damages and Death](#damages-and-death)
-		- [Effects of damages on character](#effects-of-damages-on-character)
-		- [Unconsciousness](#unconsciousness)
-		- [Death](#death)
-	- [Magic](#magic)
-- [Character Progression](#character-progression)
-	- [Progression steps](#progression-steps)
-- [The World](#the-world)
-- [Storytelling](#storytelling)
-	- [Building dreams 101](#building-dreams-101)
-		- [The differences between a storyteller and a player](#the-differences-between-a-storyteller-and-a-player)
-		- [The golden rule of a good game master](#the-golden-rule-of-a-good-game-master)
-		- [Sandboxing or Railroading?](#sandboxing-or-railroading)
-		- [Failing to plan means planning to fail](#failing-to-plan-means-planning-to-fail)
-		- [The building blocks of a story](#the-building-blocks-of-a-story)
-		- [The Assumption of Heroism](#the-assumption-of-heroism)
-		- [Setting thresholds](#setting-thresholds)
-	- [Campaigns](#campaigns)
-		- [Always start with the end in mind](#always-start-with-the-end-in-mind)
-		- [Plotting a Campaign](#plotting-a-campaign)
-		- [The master plot](#the-master-plot)
-		- [The story is a collection of information](#the-story-is-a-collection-of-information)
-		- [Know everything and everyone in your plot](#know-everything-and-everyone-in-your-plot)
-		- [How to make a campaign come to life](#how-to-make-a-campaign-come-to-life)
-		- [Write in pencil](#write-in-pencil)
-	- [Adventures](#adventures)
-		- [Type of Adventures in a Campaign](#type-of-adventures-in-a-campaign)
-		- [The Story Circle](#the-story-circle)
-		- [Type of Scenes](#type-of-Scenes)
-			- [GM time](#gm-time)
-			- [Planning and Recaps](#planning-and-recaps)
-			- [Exploration](#exploration)
-			- [Action](#action)
-			- [Social Interaction](#social-interaction)
-			- [Combat](#combat)
-		- [The Anatomy of an Adventure](#the-anatomy-of-an-adventure)
-			- [Adventure Main Questions](#adventure-main-questions)
-			- [Turning Points](#turning-points)
-			- [Scenes](#Scenes)
-			- [Sessions](#sessions)
-		- [Location, Location, Location](#location-location-location)
-		- [Think linearly, expand logically, improvise organically and re-write constantly](#think-linearly-expand-logically-improvise-organically-and-re-write-constantly)
-		- [Timing](#timing)
-		- [About the length of your writing](#about-the-length-of-your-writing)
-	- [Non Player Characters](#non-player-characters)
-	- [Locations](#locations)
-	- [Factions](#factions)
-	- [Running a game](#running-a-game)
-		- [The social contract](#the-social-contract)
-		- [Session 0](#session-0)
-		- [Before every session](#before-every-session)
-		- [During every session](#during-every-session)
-		- [After every session](#after-every-session)
-- [Examples](#examples)
-	- [Character Creation](#character-creation)
-	- [Campaign Creation](#campaign-creation)
-	- [Adventure Creation](#adventure-creation)
-	- [Non Player Character Creation](#non-player-character-creation)
-	- [Location Creation](#location-creation)
-	- [Faction Creation](#faction-creation)
-
-<!-- /TOC -->
-
 ## Introduction
 
-When I started writing Jinx, I did not think I would have written and entire book. I was looking for some simple mechanics which would allow me to focus more on storytelling than other. I liked the vast availability of D&D, but there were some pet peeves which kept me away from it, namely levels and classes. Alas, I had always been one of those storytellers who preferred characters without labels attached to them. I was more in line with mechanics a-la Call of Cthulhu, but Fantasy has always been a love of mine.
+When I started writing Jinx, I did not think I would have written an entire book. I was looking for some simple mechanics which would allow me to focus more on storytelling than others. I liked the vast availability of D&D, but there were some pet peeves which kept me away from it, namely levels and classes. Alas, I had always been one of those storytellers who preferred characters without labels attached to them. I was more in line with mechanics a-la Call of Cthulhu, but Fantasy has always been a love of mine.
 
-Truth is that I wrote some simple mechanics and I started playing with them. My players were thrown in an intense campaign and, without realising, they became my playtesters. The first good thing is that, by focusing more on the story and less on the rolls, I was able to gently lead them to each rule. The second good thing was that the mechanics worked exactly as expected, and they were smooth and simple to learn, while keeping the flexibility I was looking for.
+Truth is that I wrote some simple mechanics and I started playing with them. My players were thrown in an intense campaign and, without realising, they became my playtesters. The first good thing is that, by focusing more on the story and less on the rolls, I was able to gently lead them to each rule. The second good thing was that the mechanics worked precisely as expected, and they were smooth and simple to learn while keeping the flexibility I was looking for.
 
-The book you have in your hand is one of the many iteration in making the rules better and the information more readable. I never thought someone would have read what started as a one-pager mechanics. Nonetheless, I hope you will like it, or that at least it will give you some interesting ideas to work on!
+The book you have in your hand is one of the many iterations in making the rules better and the information more readable. I never thought someone would have read what started as a one-pager mechanics. Nonetheless, I hope you will like it, or that at least it will give you some exciting ideas to work on!
 
 Carlo
 
 ### The goals of Jinx
 
-In the world of Tabletop Role-Playing Games, Jinx is but a drop in an ocean. Yet, it has been written with clear goals in mind:
+In the world of Tabletop Role-Playing Games, Jinx is but a drop in the ocean. Yet, it has been written with clear goals in mind:
 
 - provide a minimalistic mechanics that supports storytelling
 - define a system to help storytellers to create campaigns and adventures
 
-Jinx focuses more on giving player characters the possibility to grow as complex entities. This means supporting a multi-faceted growth without the need of identifying classes or archetypes. It also support a balanced approach to combat, by making it dangerous.
+Jinx focuses more on giving player characters the possibility to grow as complex entities. This means supporting a multi-faceted growth without the need for identifying classes or archetypes. It also supports a balanced approach to combat, by making it dangerous.
 
 In the end, what you have to remember is that it will be up to the storyteller to use these rules at the best of their possibility. I have seen fantastic campaigns played by incredible game masters on rubbish rules, but I have very rarely seen bad game masters deliver quality adventures with whichever mechanics.
 
@@ -164,7 +55,7 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 >
 > **Will**: Shit...
 >
-> **Faby**: I take my bow out and I aim
+> **Faby**: I take my bow out, and I take aim
 >
 > **Storyteller**: When they see you taking your bow out they start moving towards you. One of them seems smarter than the other and moves quite erratically, the other focuses on speed
 >
@@ -172,7 +63,7 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 >
 > **Faby**: I spend one turn to carefully aim to the idiot running straight towards me
 >
-> **Storyteller**: He seems to be sure he can reach you before you can let your arrow fly. He is raising his sword while he runs. It is obvious that the other is smarter, as while he is moving towards you, he start shouting.
+> **Storyteller**: He seems to be sure he can reach you before you can let your arrow fly. He is raising his sword while he runs. It is obvious that the other is smarter, as while he is moving towards you, he starts shouting.
 >
 > **Will**: Brikoto moves towards the second man saying "*So much for trying and be quiet...*"
 >
@@ -182,11 +73,11 @@ This game is based on a fantasy world like the ones in Tolkien's **The Lord of t
 >
 > **Faby rolls a die**: Okado's ability with the bow is 49, plus 17 of the dice, plus 10 as I was aiming for one turn... I have 74, minus 25 to hit, I have a success of 51. 15 damages times 3, Okado strikes 45 damages with a single arrow!
 >
-> **Storyteller**: You see the first man running straight towards Okado, that let one of her arrow fly towards him. His velocity is immediately halted when the arrow hits him straight on his head, making him fall heavily on his back. Will, what do you do?
+> **Storyteller**: You see the first man running straight towards Okado, that let one of her arrows fly towards him. His velocity is immediately halted when the arrow hits him straight on his head, making him fall heavily on his back. Will, what do you do?
 >
 > **Will**: running erratically or not, as soon as the second idiot is close, I swing my sword.
 >
-> **Faby**: I take out my knife and I make sure that the first guy is not going to stand up again.
+> **Faby**: I take out my knife, and I make sure that the first guy is not going to stand up again.
 >
 > **Storyteller**: The second man
 
@@ -247,26 +138,26 @@ At the beginning of a game, the user defines:
 Every character is identified by three main traits.
 
 - **Body** identifies everything related to strength, agility, health.
-- **Mind** defines the intellectual capabilities.
-- **Spirit** is used for the characters self esteem, confidence and presence.
+- **Mind** defines intellectual capabilities.
+- **Spirit** is used for the characters self-esteem, confidence and presence.
 
 Every player has 30 points to divide in the three traits of their character. The limit helps create a character that can have strength and weaknesses alike.
 
 #### Abilities
 
-Every character possesses a list of abilities. These are the things a character know how to do. The abilities defines the character, as Jinx does not have the notion of class.
+Every character possesses a list of abilities. These are the things a character know how to do. The abilities define the character, as Jinx does not have the notion of class.
 
 Each ability is linked to one of the three main traits. The trait defines the initial value for each ability.
 
 At the beginning of the game, each character possesses five abilities of their choice. The player has 60 points to distribute in the five abilities, with a limit of 20 points in each ability.
 
-The list of available abilities are found below.
+The list of available abilities is found below.
 
 #### Talents
 
-Some abilities, when mastered over 50 points, offers some unique talents. Differently from traits and abilities, talents do not have any value, they are just capabilities that expands the abilities themselves. For example, a character whose melee ability of 50 or more can chose to master a double attack.
+Some abilities, when mastered over 50 points, offers some unique talents. Differently, from traits and abilities, talents do not have any value, they are just capabilities that expand the abilities themselves. For example, a character whose melee ability of 50 or more can choose to master a double attack.
 
-The list of talents is available with the list of attributes.
+The list of talents is available with a list of attributes.
 
 #### List of Abilities
 
@@ -321,7 +212,7 @@ Three attacks per round|95
 
 ###### Combat: Missile
 
-The ability to successfully engage opponents while armed with long-ranged attacking implements.
+The ability to successfully engage opponents while armed with long-range attacking implements.
 
 Talent|Required level
 ---|---:
@@ -414,7 +305,7 @@ Potions and remedies potency 50|80
 
 ###### Runes
 
-The ability to understand carvings and writings of a magical / runic nature.
+The ability to understand the carvings and writings of a magical/runic nature.
 
 Talent|Required level
 ---|---:
@@ -422,7 +313,7 @@ Talent|Required level
 
 ###### Traps
 
-Ability could benefit by focusing more on the understanding / creation / disarming / improvisation of traps.
+The ability could benefit by focusing more on the understanding/creation/ disarming / improvisation of traps.
 
 Talent|Required level
 ---|---:
@@ -432,7 +323,7 @@ Talent|Required level
 
 ###### Con artistry
 
-The ability to pick locks, sleigh of hands and thievery in general
+The ability to pick locks, sleight of hands and thievery in general
 
 Talent|Required level
 ---|---:
@@ -472,7 +363,7 @@ Can be used to seduce|50
 
 ###### Stalk/Hide
 
-The ability to hide oneself of follow someone without being seen
+The ability to hide oneself to follow someone without being seen
 
 Talent|Required level
 ---|---:
@@ -487,7 +378,7 @@ Talent|Required level
 @todo|50
 
 ### Life Points
-Every playing character has 40 life points plus the value of their **Body**. When lost, the life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
+Every player character has 40 life points plus the value of their **Body**. When lost, life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
 
 `life points = 40 + Body`
 
@@ -505,21 +396,21 @@ To write a character backstory that is central to your character record sheet, y
 
 When writing your backstory, you should keep well in mind your character's race, gender and general demographic information. This should be the base of the story you are going to tell about your character.
 
-> *Okado* was born in a small village in the east. Her mother was the daughter of a renowned bard, who was singing the praise of the Elven lands. In one of these trips *Alia* fell in love with a human who was hired to protect his father during their journey. The love was, unfortunately, short lived, and when *Okado* was born, her mixed race was seen as a sign of dirt from her grandfather. He could not understand how an elf as beautiful as *Alia* could have accepted to produce such a lesser spawn.
+> *Okado* was born in a small village in the east. Her mother was the daughter of a renowned bard, who was singing the praise of the Elven lands. In one of these trips *Alia* fell in love with a human who was hired to protect his father during their journey. The love was, unfortunately, short-lived, and when *Okado* was born, her mixed race was seen as a sign of dirt from her grandfather. He could not understand how an elf as beautiful as *Alia* could have accepted to produce such a lesser spawn.
 >
 >*Okado* did not have the time to grow and speak for herself, because his grandfather gave an ultimatum to her daughter: leave her daughter or lose her parents and status. *Alia* had never been a strong woman, and valued her race more than her daughter.
 
 #### Bring in your psychographic information
 
-Jinx leverages the OCEAN personality definition. It is a very simple way to characterise a person, or a PC in this case, with five simple values. These values, as described in the [psychography](#psychography) part above, identify one characteristic of your character's personality. You should write a small episode linked to each of the detailed traits.
+Jinx leverages the OCEAN personality definition. It is a very simple way to characterise a person, or a player character in this case, with five simple values. These values, as described in the [psychography](#psychography) part above, identify one characteristic of your character's personality. You should write a small episode linked to each of the detailed traits.
 
-> *Okado* has always been very interested in trying new things, in exploring the unknown. When she was just but a child, she accepted another accolite's bet and jumped on a horse. She was but 6 years old, but found the experience exhilarating. The clerics that looked after her didn't, and punished both for having risked the well being of the horse, not to mention her own neck. However, since that moment, Okado felt a great respect of the mighty beasts, and despite not having one herself, she will always be attracted to their beauty.
+> *Okado* has always been very interested in trying new things, in exploring the unknown. When she was just but a child, she accepted another accolite's bet and jumped on a horse. She was but 6 years old but found the experience exhilarating. The clerics that looked after her didn't and punished both for having risked the well being of the horse, not to mention her own neck. However, since that moment, Okado felt great respect of the mighty beasts, and despite not having one herself, she will always be attracted to their beauty.
 
 #### How were their abilities learned
 
 Every character starts the game with at least 3 ability. Writing how these skills were learned is a fantastic way to give a context to your character. Tell a story about how your character developed.
 
-> *Okado* was raised in a clerical monastery dedicated to *Anshalla* the Goddess of War. The clerics brought her in when she was less than a year old, and she grew in a regimented environment which valued the ability to survive more than love. Everyone in the monastery had do do their part to bring food on the table, and *Okado* soon became *Ithildir* assistant. The old warrior was a solitary woman, and preferred the wilderness to the chitchat of the monastery. She brought *Okado* with her during her excursion, and trained her in the art of surviving and hunting for food.
+> *Okado* was raised in a clerical monastery dedicated to *Anshalla* the Goddess of War. The clerics brought her in when she was less than a year old, and she grew in a regimented environment which valued the ability to survive more than love. Everyone in the monastery had do their part to bring food on the table, and *Okado* soon became *Ithildir* assistant. The old warrior was a solitary woman and preferred the wilderness to the chitchat of the monastery. She brought *Okado* with her during her excursion and trained her in the art of surviving and hunting for food.
 
 ## The world of things
 
@@ -542,7 +433,7 @@ Crossbow|20
 Long Sword|20
 Morningstar|20
 Warhammer|20
-Two Handed Sword|25
+Two-Handed Sword|25
 Lance|30
 
 ### Armours
@@ -556,7 +447,7 @@ Breastplate|40|10
 
 ## Game Mechanics
 
-Jinx is based on simple game mechanics which revolve around a series of abilities each characters has. The abilities define the characters' skillset, and allow them to grow as complex entities. The abilities are based on the fact that we all have some basic traits, and that the more we perform an action, the more skilled we become at it.
+Jinx is based on simple game mechanics which revolve around a series of abilities each character has. The abilities define the characters' skillset and allow them to grow as complex entities. The abilities are based on the fact that we all have some basic traits, and that the more we perform an action, the more skilled we become at it.
 
 In Jinx, every ability is scored in values that range from 0 to 100. The higher the score, the better the character is at that particular ability.
 
@@ -566,19 +457,19 @@ The goal is to create a realistic approach to how a real person is, with unique 
 
 ### Performing Actions
 
-Every time a character need to perform an action which is not trivial or impossible, they will have to check if they succeed. There are two type of actions: challenged (*stealth VS awareness*) and unchallenged (*jumping over a fence*).
+Every time a character needs to perform an action which is not trivial or impossible, they will have to check if they succeed. There are two types of actions: challenged (*stealth VS awareness*) and unchallenged (*jumping over a fence*).
 
-In both cases, the rules refers to an ability, but the challenge can be done on a trait.
+In both cases, the rules refer to an ability, but the challenge can be done on a trait.
 
 #### Open ended rolls
 
-Every d20 roll is open ended. Every time a 1 is roll, the player should re-roll the dice and subtract the result. Every time a natural 20 is roll, the player should re-roll the dice and add the result.
+Every d20 roll is open-ended. Every time a 1 is rolled, the player should re-roll the dice and subtract the result. Every time a natural 20 is rolled, the player should re-roll the dice and add the result.
 
-The open ended roll applies only to the first roll, and not on the re-rolls.
+The open-ended roll applies only to the first roll, and not on the re-rolls.
 
 #### Challenged actions
 
-When the action of a character can be challenged by a counter action of another character, then the result of the action is defined by a simple comparison between the action plus 1d20 of the first character and the counter action plus 1d20 of the second character.
+When the action of a character can be challenged by counteraction of another character, then the result of the action is defined by a simple comparison between the action plus 1d20 of the first character and the counteraction plus 1d20 of the second character.
 
 The **level of success or failure** is the difference between the two action results.
 
@@ -586,7 +477,7 @@ The **level of success or failure** is the difference between the two action res
 
 #### Unchallenged actions
 
-Unchallenged actions are those actions which are not opposed by another character. The storyteller should define a threshold that the character should overcome. This threshold define (in percentage value) the complexity of the action.
+Unchallenged actions are those actions which are not opposed by another character. The storyteller should define a threshold that the character should overcome. This threshold defines (in a percentage value) the complexity of the action.
 
 The action result is calculated by adding the ability or trait of the action plus 1d20.
 
@@ -596,7 +487,7 @@ The **level of success or failure** is the difference between the threshold and 
 
 #### Threshold
 
-Jinx is based on a percentile complexity level. Every time an action is performed, the total result identifies the degree of success on a scale between 0 and 100. It is therefore simple to identify threshold vales the storyteller should use to challenge a character's action.
+Jinx is based on a percentile complexity level. Every time an action is performed, the total result identifies the degree of success on a scale between 0 and 100. It is therefore simple to identify threshold values the storyteller should use to challenge a character's action.
 
 Threshold|Difficulty level
 ---:|---
@@ -606,13 +497,13 @@ Threshold|Difficulty level
 75|Exceptional, only those who master the ability can do it
 100+|Inhuman, the few that make it are the top of the top
 
-The threshold is set by the game master, and indicates the level of success the action should reach in order to be successful.
+The threshold is set by the game master and indicates the level of success the action should reach in order to be successful.
 
 ### Combat
 
 Similarly to every action, the result of an attack depends if the attack is challenged (*punching VS dodging*) or unchallenged (*shooting another character*).
 
-In Jinx, fighting is dangerous. The game itself is designed to make combat a serious action with dire consequences. By no means we want to avoid combat situations, on the contrary we believe they balance a well though-through campaign. Yet, Jinx is a role-playing game which focuses on storytelling and abilities. Combat is no more important than any other skill.
+In Jinx, fighting is dangerous. The game itself is designed to make combat a serious action with dire consequences. By no means we want to avoid combat situations, on the contrary, we believe they balance a well thought-through campaign. Yet, Jinx is a role-playing game which focuses on storytelling and abilities. Combat is no more important than any other skill.
 
 #### Challenged Attacks
 
@@ -622,7 +513,7 @@ The **level of success or failure** is the difference between the two results.
 
 `success = (attacking ability + 1d20) - (defending ability + 1d20)`
 
-An example of a challenged attack is when the defending character spends their turn to perform a defending action. The attacking character may try to punch another, who may try to dodge the punch. In that case the attacking character will use 1d20+brawl, and to succeed will have to score higher than the defending 1d20+dodge. In this case, the defending character will invest their action for their turn, and won't be able to do an attack themselves.
+An example of a challenged attack is when the defending character spends their turn to perform a defending action. The attacking character may try to punch another, who may try to dodge the punch. In that case, the attacking character will use 1d20+brawl, and to succeed will have to score higher than the defending 1d20+dodge. In this case, the defending character will invest their action for their turn, and won't be able to do an attack themselves.
 
 #### Unchallenged Attacks
 
@@ -632,15 +523,15 @@ When the attack of a character cannot be actively defended by the other characte
 
 #### Passive resistance
 
-The difficulty to hit is, by default, 25. However, if the defendant has a skill which identifies an ability to oppose the attack (both attacker and defender have melee ability) then the default value may be replaced by the defender's ability. This is considered a passive resistance, and does not require the defending character to spend their action turn. It is automatic.
+The difficulty to hit is, by default, 25. However, if the defendant has a skill which identifies an ability to oppose the attack (both attacker and defender have melee ability) then the default value may be replaced by the defender's ability. This is considered a passive resistance and does not require the defending character to spend their action turn. It is automatic.
 
-> After spotting *Okado*, the guard raises his sword and attacks her. The guard has a melee ability of 36, and with a roll of 13 he would have scored a success of 24 (ability+1d20-25). However, *Okado* is extremely skilled with her sword and she naturally knows how to defend an attack. Her melee ability is 53, which is enough to parry the guard's attack (which totalled 49).
+> After spotting *Okado*, the guard raises his sword and attacks her. The guard has a melee ability of 36, and with a roll of 13, he would have scored a success of 24 (ability+1d20-25). However, *Okado* is extremely skilled with her sword and she naturally knows how to defend an attack. Her melee ability is 53, which is enough to parry the guard's attack (which totalled 49).
 
 Please note that every additional passive action performed in the same round receives a -5 penalty.
 
-> The second guard, galvanised but his colleague, decides to attack *Okado* as well. This time, because *Okado* has already parried an attack in the same round, the passive resistance will receive a penalty of -5. The second guard has a melee ability of 34 and rolls a 17, which totals 51. While *Okado* has a melee ability of 53, with a penalty of -5, she can only offer a passive resistance of 48. The second guard will hit, but causing only minimal damage to her.
+> The second guard, galvanised but his colleague, decides to attack *Okado* as well. This time, because *Okado* has already parried an attack in the same round, the passive resistance will receive a penalty of -5. The second guard has a melee ability of 34 and rolls a 17, which totals 51. While *Okado* has a melee ability of 53, with a penalty of -5, she can only offer a passive resistance of 48. The second guard will hit but causing only minimal damage to her.
 >
-> It is now *Okado*'s time to attack. She focuses on her first guard first, hitting him (ability of 53 plus a 1d20 roll of 15 minus a passive resistance of 36 gives her a 32 points success) and causing a heavy damage. She also uses her melee talent of two attacks per round on the second guard, which is killed instantaneously, as *Okado* rolls a critical hit (ability 53 - second attack talent penalty -5 + 1d20 roll of 20 + bonus 1d20 roll of 18 - passive resistance of 34 for a success of 52) delivering three times the normal damage of her sword.
+> It is now *Okado*'s time to attack. She focuses on her first guard first, hitting him (the ability of 53 plus a 1d20 roll of 15 minus a passive resistance of 36 gives her a 32 points success) and causing a massive damage. She also uses her melee talent of two attacks per round on the second guard, which is killed instantaneously, as *Okado* rolls a critical hit (ability 53 - second attack talent penalty -5 + 1d20 roll of 20 + bonus 1d20 roll of 18 - passive resistance of 34 for a success of 52) delivering three times the normal damage of her sword.
 
 #### Attack modifiers
 
@@ -658,7 +549,7 @@ Huge|+10
 
 Remember that a positive modifier makes it easier for the character to hit.
 
-speed of target|modifier
+the speed of target|modifier
 ---|---:
 Still or Walking|0
 Trotting|-5
@@ -695,11 +586,11 @@ success|damage modifier
 51+|3
 
 #### Ablative armours
-Jinx uses the idea of ablative armours, which are protections that absorb the damages in lieu of the character wearing it. The armours have a fixed amount of protection, which is lost every time a damage is absorbed.
+Jinx uses the idea of ablative armours, which are protections that absorb the damages in lieu of the character wearing it. The armours have a fixed amount of protection, which is lost every time damage is absorbed.
 
 The ablative armour can absorb only a maximum of damage in a single attack. Each armour should specify this value.
 
-Every time the damage caused by a single attack is bigger than the amount of damages the armour can substain in a single attack, the rest of the damages are passed to the character.
+Every time the damage caused by a single attack is bigger than the number of damages the armour can sustain in a single attack, the rest of the damages are passed to the character.
 
 Each character can try and repair a damaged armour using the Armoury skill.
 
@@ -709,9 +600,9 @@ A character life points are indicative of their psycho-physical health. Every ti
 
 #### Effects of damages on character
 
-When a character has suffered damages, they won't be able to perform as well as they would when in optimal conditions. The more the character is hurt, the more challenging their action become.
+When a character has suffered damages, they won't be able to perform as well as they would when in optimal conditions. The more the character is hurt, the more challenging their action becomes.
 
-The table below indicates how the amount of psychophysical damages affects the character ability to perform any action.
+The table below indicates how the amount of psychophysical damages affects the character's ability to perform any action.
 
 damages|action modifier
 ---|---:
@@ -735,7 +626,7 @@ A character dies when one of the following condition happens:
 
 @TODO
 
-In world where magic can be used, Jinx supports the idea of Vancian Magic. Every spellcaster must learn their spells every day, and they dissolve from their memories after being cast. Hence, magic users must learn the spell before being able to cast it again. Magic users can learn a single spell for longer, which means they are able to cast it more than once.
+In a world where magic can be used, Jinx supports the idea of Vancian Magic. Every spellcaster must learn their spells every day, and they dissolve from their memories after being cast. Hence, magic users must learn the spell before being able to cast it again. Magic users can learn a single spell for longer, which means they are able to cast it more than once.
 
 Each spell has a complexity level. Spellcasters have the ability to learn and cast spells of complexity lower than their ability. Each day, spellcasters can memorise a set maximum amount of spells per complexity;
 
@@ -777,13 +668,13 @@ Which means that a character with a magical ability of 33 will be able to memori
 
 In Jinx, character progresses by growing their abilities through experience and repetition. When the player characters use any ability, they should mark them. At the end of each session, each player character can try and raise the ability level.
 
-In order to improve their abilities, player characters have to roll a d100 and score higher than their current ability skill. If a character has successfully used an ability more than once, every success after the first give them a bonus of +10 to the roll. The amount of progression of each ability depends on the success score of the roll.
+In order to improve their abilities, player characters have to roll a d100 and score higher than their current ability skill. If a character has successfully used an ability more than once, every success after the first gives them a bonus of +10 to the roll. The amount of progression of each ability depends on the success score of the roll.
 
 'success = d100 + bonus - current ability value'
 
 ### Progression steps
 
-A player character who successfully increase the value of an ability will add a set of points based on the table below.
+A player character who successfully increase the value of ability will add a set of points based on the table below.
 
 Progression success|Ability increase
 ---|---
@@ -800,17 +691,17 @@ Progression success|Ability increase
 
 The idea of being a "good storyteller" boils down to be able to create world and stories your players are going to love. If your players can't stop talking about what happened in the last session and they come back for more, you know you are doing a great job.
 
-Yet, the road to having fun, for a storyteller, is not as simple as the one our players have. There are a lot of things that go behind the scenes of a good role-playing game adventure, and many of them fall on the storyteller's shoulder. While role-playing is a group effort, and the final story is written by the players, it is your responsibility to lie the foundations for your players to build on.
+Yet, the road to having fun, for a storyteller, is not as simple as the one our players have. There are a lot of things that go behind the scenes of a good role-playing game adventure, and many of them fall on the storyteller's shoulder. While role-playing is a group effort, and the final story is written by the players, it is your responsibility to lay the foundations for your players to build on.
 
-In this part of the book we will do deeper in the things we do to create unforgettable stories. We will I've you access to all our secrets.
+In this part of the book, we will do deeper in the things we do to create unforgettable stories. We will I've you access to all our secrets.
 
 ### Building dreams 101
 The idea of being a "good storyteller" boils down to be able to create world and stories your players are going to love. If your players can't stop talking about what happened in the last session and they come back for more, you know you are doing a great job.
 
 #### The differences between a storyteller and a player
-Yet, the road to having fun, for a storyteller, is not as simple as the one our players have. There are a lot of things that go behind the scenes of a good role-playing game adventure, and many of them fall on the storyteller's shoulder. While role-playing is a group effort, and the final story is written by the players, it is your responsibility to lie the foundations for your players to build on.
+Yet, the road to having fun, for a storyteller, is not as simple as the one our players have. There are a lot of things that go behind the scenes of a good role-playing game adventure, and many of them fall on the storyteller's shoulder. While role-playing is a group effort, and the final story is written by the players, it is your responsibility to lay the foundations for your players to build on.
 
-In this part of the book we will do deeper in the things we do to create unforgettable stories. We will I've you access to all our secrets.
+In this part of the book, we will do deeper in the things we do to create unforgettable stories. We will I've you access to all our secrets.
 
 #### The golden rule of a good game master
 
@@ -820,17 +711,17 @@ This means that your role of unsung hero will require you to change your plots, 
 
 #### Sandboxing or Railroading?
 
-Online it is easy to find a holy war raging between supporters of sandboxing games and "railroaders". Jinx is neither, but sits in the middle. A campaign well plotted and a flexible approach to adventures, which keeps into consideration the players as the most essential elements of a role-playing game, is what Jinx supports. In realising that both sides have pro and con, we take an approach which enhances storytelling and fun. Please do remember that in role-playing games there are no winning conditions, there is fun.
+Online it is easy to find a holy war raging between supporters of sandboxing games and "railroaders". Jinx is neither but sits in the middle. A campaign well plotted and a flexible approach to adventures, which keeps into consideration the players as the most essential elements of a role-playing game, is what Jinx supports. In realising that both sides have pro and con, we take an approach which enhances storytelling and fun. Please do remember that in role-playing games there are no winning conditions, there is fun.
 
 If you are new to the terms "sandboxing" and "railroading", then you have an advantage, as you won't have to forget what you have learned. However, should you be a strong supporter of one or the other, the advice we can give you is to open your mind and read this book. If, then, you'll feel that your way is the right way, by any means, please do play as you love. What we know is that every game master, dungeon master or storyteller has their own fabulous way of running a game. The important thing is to do it.
 
 #### Failing to plan means planning to fail
 
-It does not matter if you are a strong believer in a sandbox in approach, or if you agree with a more structured approach as this game preaches. The reality is that if you, as storyteller, fail to plan means you will let our players down. Your role is critical to the success of the game. If you work out your story or world well, your players will help you shape the adventures their character will live. If you don't, improvisation alone won't be enough to entertain your players.
+It does not matter if you are a strong believer in a sandbox in approach, or if you agree with a more structured approach as this game preaches. The reality is that if you, as the storyteller, fail to plan means you will let our players down. Your role is critical to the success of the game. If you work out your story or world well, your players will help you shape the adventures their character will live. If you don't, improvisation alone won't be enough to entertain your players.
 
 #### The building blocks of a story
 
-In the next sub chapters, we will often refer to a lot of terms which every seasoned storyteller knows. Feel free to keep these terms in mind as an introduction to what we are ping to dig deeper later.
+In the next subchapters, we will often refer to a lot of terms which every seasoned storyteller knows. Feel free to keep these terms in mind as an introduction to what we are ping to dig deeper later.
 
 **Storyteller** or **Game Master**: a player who is responsible to manage the game and set the story the player characters are going to live.
 
@@ -840,33 +731,33 @@ In the next sub chapters, we will often refer to a lot of terms which every seas
 
 **Campaign**: a large and complex story arc that spans across many adventures, and that lasts months, if not years, of play.
 
-**Adventures**: a story split amongst a finite number of sessions which tells a self contained story, which can be integral part of a campaign.
+**Adventures**: a story split amongst a finite number of sessions which tells a self-contained story, which can be an integral part of a campaign.
 
 **Session**: a few continuative hours of play, where the player characters are exposed to a series of Scenes.
 
-**Scene**: something that happens during a role-playing game session and that is designer to involve a player character in the story.
+**Scene**: something that happens during a role-playing game session and that is designed to involve a player character in the story.
 
-**Non Player Character** or **NPC**: a fictional figure controlled by the storyteller. Every single living being in a story which is not a PC. These characters are controlled by the storyteller.
+** Non-Player Character** or **NPC**: a fictional figure controlled by the storyteller. Every single living being in a story which is not a player characters. These characters are controlled by the storyteller.
 
 **Location**: A place where your player characters can live their adventures. It can be as small as a room, or as large as an empire.
 
-**Faction**: Many times Non Player Characters group together and form groups. They can be a guild, as well as a crime syndicate.
+**Faction**: Many times Non-Player Characters group together and form groups. They can be a guild, as well as a crime syndicate.
 
 #### The Assumption of Heroism
 
-Combat is not a pivotal point in Jinx. It is different from all the other abilities for the way it is dealt with, but it should not be the most important part in the adventures. This is why the combat should be regulated by the **Assumption of Heroism**. This is the idea that, by default, the player characters win. This does not mean that the combat should not be dangerous to the player characters, on the contrary the risk of death should loom over every combat, it simply means that the NPCs must prove themselves extraordinary to win.
+Combat is not a pivotal point in Jinx. It is different from all the other abilities for the way it is dealt with, but it should not be the most important part of the adventures. This is why the combat should be regulated by the **Assumption of Heroism**. This is the idea that, by default, the player characters win. This does not mean that the combat should not be dangerous to the player characters, on the contrary, the risk of death should loom over every combat, it simply means that the non-player characters must prove themselves extraordinary to win.
 
-The Assumption of Heroism means that the storyteller should allow any NPCs to be able to perform only a limited number of combat round before being defeated, either by being killed by the PCs or by fleeing the scene.
+The Assumption of Heroism means that the storyteller should allow any non-player character to be able to perform only a limited number of combat round before being defeated, either by being killed by the player characters or by fleeing the scene.
 
-This rule applies exclusively if the PCs manage to hit their foe. A PCs who does not try to actively engage in combat, or that does not hit the opponent, does not fall in the *heroism* category.
+This rule applies exclusively if the player characters manage to hit their foe. A player character who does not try to actively engage in combat or that does not hit the opponent, does not fall in the *heroism* category.
 
-As storyteller, it your duty to understand how long a combat should last, and how the foes will challenge the PCs. Planning, even in this case, is paramount to create a positive experience for your players. What will the NPCs do in every round they have available? How will they play their cards? You should try and prepare these details before each combat, but adapt them during it to shape the game around your player characters' actions.
+As the storyteller, you have to understand how long combat should last, and how the foes will challenge the player characters. Planning, even in this case, is paramount to create a positive experience for your players. What will the non-player characters do in every round they have available? How will they play their cards? You should try and prepare these details before each combat, but adapt them during it to shape the game around your player characters' actions.
 
 #### Setting thresholds
 
-Jinx bases many ability checks on a threshold scale that you, the storyteller, need to identifying. While using a custom selection of the threshold is a challenge for new storytellers, it is a weapon you can use to influence a game for the enjoyment of everyone. Setting a threshold value is more art than science. With experience it become easier to set the values.
+Jinx bases many ability checks on a threshold scale that you, the storyteller, need to identify. While using a custom selection of the threshold is a challenge for new storytellers, it is a weapon you can use to influence a game for the enjoyment of everyone. Setting a threshold value is more art than science. With experience, it becomes easier to set the values.
 
-But let's go back to the advantages of having a variable challenge. Let's say your players have managed to fight their ways through countless challenges, and they are now trying to sneakily pass through a gate without being spotted. You build up the tension, you describe the world around them and then ask a *stealth* check. The PC rolls a success of 72, while you had set a threshold of 75. What would happen if they fail? Maybe the story will be best for everyone if the PC had succeeded. So you narrate the PC action, build up the tension, and finish the description with a judgment call if to make the action succeed or not.
+But let's go back to the advantages of having a variable challenge. Let's say your players have managed to fight their ways through countless challenges, and they are now trying to sneakily pass through a gate without being spotted. You build up the tension, you describe the world around them and then ask a *stealth* check. The player character rolls a success of 72, while you had set a threshold of 75. What would happen if they fail? Maybe the story will be best for everyone if the player character had succeeded. So you narrate the player character's action, build up the tension, and finish the description with a judgment call if to make the action succeed or not.
 
 As the storyteller, it is your call if to openly announce the threshold before the roll, or if to keep it secret. The first is a build up on the dice, the second on you. What we mean is that by announcing the threshold, the players will focus on the dice to understand if their action succeeds. On the contrary, if you are keeping the threshold secret, they will tell you their degree of success, but you can them play the action resolution epically.
 
@@ -876,7 +767,7 @@ As the storyteller, it is your call if to openly announce the threshold before t
 >
 > *Player*: I have an Athletics ability of 47 and I rolled a 17, for a total of 64...
 >
-> *Storyteller look at the players for a moment*: Groncon jumps from the collapsing bridge. Behind him the three  orcs realise too late the fate that awaits them. With panic in their eyes, they try desperately to stop and run back, but it is too late and they fall in the chasm below. In the meantime Groncon, extending his arms, tries desperately to reach one of the window ledges. *Storyteller pauses for a moment, looking at his players* He stops just a few inches short from the wall... luckily for him, the ledges are just those few inches deep to allow him to barely hold himself to them. Groncon *the storyteller turns to him* you hold yourself with your nails, and you hit the wall rather violently. Yet, after few seconds of fear, you realise you managed to escape the three orcs.
+> *Storyteller look at the players for a moment*: Groncon jumps from the collapsing bridge. Behind him, the three orcs realise too late the fate that awaits them. With panic in their eyes, they try desperately to stop and run back, but it is too late and they fall in the chasm below. In the meantime, Groncon, extending his arms, tries desperately to reach one of the window ledges. *Storyteller pauses for a moment, looking at his players* He stops just a few inches short from the wall... luckily for him, the ledges are just those few inches deep to allow him to barely hold himself to them. Groncon *the storyteller turns to him* you hold yourself with your nails, and you hit the wall rather violently. Yet, after a few seconds of fear, you realise you managed to escape the three orcs.
 
 ### Campaigns
 
@@ -888,7 +779,7 @@ A very important element while writing campaigns and adventures, you need to sta
 
 The main idea behind a great campaign is simple: you should be able to create a compelling, detailed background plot. Now, what many storytellers don't understand about a campaign is that its plot is neither about the player characters nor it is the story the player characters will go through. While this may sound strange, especially after I mentioned that everything should be around your player and their characters, you need to realise one thing. Your player characters only exist in a world, and the way you allow them to live is to have a world which can live without them. The campaign is your world without the player characters. It is the background upon which they will become heroes of villains. If you have this plot, you can allow them to interact with an exciting world.
 
-Moreover, when you consider this plot, we find it is always best to write it from a villain perspective. While you can write a plot from the perspective of an ally, this does not give your player characters enough interesting spots to interact with the plot. The campaign is therefore a long story arc about a villain and what they want to achieve.
+Moreover, when you consider this plot, we find it is always best to write it from a villain perspective. While you can write a plot from the perspective of an ally, this does not give your player characters enough interesting spots to interact with the plot. The campaign is, therefore, a long story arc about a villain and what they want to achieve.
 
 Put your thinking cap on, forget any player and start planning what your world will go through in the next months.
 
@@ -902,7 +793,7 @@ Don't expect your master plot to tell you more than what's necessary. Your first
 
 #### The story is a collection of information
 
-Another common pitfall some storytellers make, is to think that they can grow the story and learn about it at the same time the players do. This is a common mistake you can sort quickly. Imagine yourself as the writer of a intriguing spy story. You, the writer, must know everything about the story. Starting to write the novel without knowing the ins and outs, the who's who, is a path to failure. In the same way, as a storyteller, you should know everything concerning your campaign.
+Another common pitfall some storytellers make is to think that they can grow the story and learn about it at the same time the players do. This is a common mistake you can sort quickly. Imagine yourself as the writer of an intriguing spy story. You, the writer, must know everything about the story. Starting to write the novel without knowing the ins and outs, the who's who is a path to failure. In the same way, as a storyteller, you should know everything concerning your campaign.
 
 #### Know everything and everyone in your plot
 
@@ -914,7 +805,7 @@ Now that your master plot is ready, it is time to put it in context. This means 
 - When
 - How
 
-This means that, starting from the main plot, every time you meet a detail which is not clear enough about which you could answer one or the magic questions above, you should write a bit more. Consider also that the answers you will give may contain other details you should clarify. This becomes a '*fishbone*' set of answers which will help you describe your campaign in great details.
+This means that starting from the main plot, every time you meet a detail which is not clear enough about which you could answer one or the magic questions above, you should write a bit more. Consider also that the answers you will give may contain other details you should clarify. This becomes a '*fishbone*' set of answers which will help you describe your campaign in great details.
 
 Let's start analysing our master plot, stopping every time a detail can be clarified.
 
@@ -938,11 +829,11 @@ Obviously, the last part of the campaign is when Lord Enoch wins. The coronation
 
 > Lord Enoch coronation
 
-A man like him is sure to be willing to send a clear message to everyone who dare to oppose his power. As we said that Lady Elgolath is clearly against him, what about having her publicly executed for something wrong she has done?
+A man like him is sure to be willing to send a clear message to everyone who dares to oppose his power. As we said that Lady Elgolath is clearly against him, what about having her publicly executed for something wrong she has done?
 
 > The execution of Lady Elgolath
 
-Lady Elgolath has done something wrong, but seen that Lord Enoch is still not the Emperor, he must have been careful to pass things as very legal, so Lady Elgolath could have gone through a trial before being executed.
+Lady Elgolath has done something wrong, but seen that Lord Enoch is still not the Emperor, he must have been careful to pass things as very legal so Lady Elgolath could have gone through a trial before being executed.
 
 > The treason trial
 
@@ -962,7 +853,7 @@ And before that, Lord Enoch must have gained a large sum of money to support his
 
 > Breaking in the Imperial Coinage
 
-We have always considered the campaign from when Lord Enoch started pulling all the strings, but maybe before that he wanted to make sure that his name was high up in the list of the possible successors to the throne. Maybe a lavish party where politics were drawn.
+We have always considered the campaign from when Lord Enoch started pulling all the strings, but maybe before that, he wanted to make sure that his name was high up in the list of the possible successors to the throne. Maybe a lavish party where politics were drawn.
 
 > The Mid Summer Ball
 
@@ -970,11 +861,11 @@ We have always considered the campaign from when Lord Enoch started pulling all 
 
 #### Write in pencil
 
-One of the challenges I see in some campaigns, or adventures, is that they are written in stone. As the storyteller has invested time in creating their campaigns or adventures, they expect the player characters to follow them precisely. This is where the idea of "Railroading" comes in, and where campaigns and adventures stop being fun to play.
+One of the challenges I see in some campaigns or adventures, is that they are written in stone. As the storyteller has invested time in creating their campaigns or adventures, they expect the player characters to follow them precisely. This is where the idea of "Railroading" comes in, and where campaigns and adventures stop being fun to play.
 
 However you believe your campaigns or Adventures will be played, your player characters will find a way to do things you haven't considered, derailing your great plans. Remember, this is how it is supposed to be. Your players have the same ability to shape the story you have. They play their characters for specific reasons, and you cannot expect them to behave like characters in a book. The only place where it happens are books, and if you expect it, you should rather write a novel than be a storyteller.
 
-You should write everything in pencil, at least in your mind. This means, be ready to change your mind over and over again. This mental attitude will help you being a better storyteller.
+You should write everything in pencil, at least in your mind. This means, be ready to change your mind over and over again. This mental attitude will help you be a better storyteller.
 
 One of the most crucial aspects of plotting a campaign is to understand that everything you are writing now is just an idea. You still don't know your player characters, their backstories and their dreams. You have no idea how their future actions will impact the villain's plot. This is why your plot and its collection of adventures should still be just an idea. You will change your plot adventures ideas many times, and you should understand that this is the life of a good campaign. There is nothing worse than a game master who can't conceive that their players may not be interested in the order of Scenes.
 
@@ -982,7 +873,7 @@ Remember the golden rule of a good game master. You must embrace change for your
 
 ### Adventures
 
-While working on the campaign was something you could do without knowing the player characters, when you start working on the adventures, you need to have your PCs ready. The best way of writing adventures, is to know your PCs and design each adventure around them.
+While working on the campaign was something you could do without knowing the player characters when you start working on the adventures, you need to have your player characters ready. The best way of writing adventures is to know your player characters and design each adventure around them.
 
 Once you have your campaign master plot laid out, it is time to think about all the great adventures your player characters can live. How are their lives going to interact with your campaign, and how are they going to be an integral part of how the world you prepared is going to be shaped?
 
@@ -990,11 +881,11 @@ We think that the most important thing to understand is that being the Game Mast
 
 #### Type of Adventures in a Campaign
 
-Obviously, the first type of adventures we will discuss are the campaign's. We have a campaign with the master plot and a list of adventure ideas. The titles you wrote are the starting point for each of your campaign adventure.
+Obviously, the first type of adventures we will discuss is the campaign. We have a campaign with the master plot and a list of adventure ideas. The titles you wrote are the starting point for each of your campaign adventure.
 
 However, you need to understand is that, despite your campaign being the master plot shaping your characters' futures, the adventures linked to the campaign plot are not the only one existing. On the contrary, focussing exclusively on those would rob your players from a lot of fun. Imagine how incredibly strong are the adventures who dig into the characters' past and background. When you take the time to listen to your players and shape the future of their characters based on the back stories they wrote, you create a world they are going to love.
 
-Jinx strongly recommends spending time to create details backstories for each characters. This is done for two main reasons: the first is to help the players bond with their characters, the second is to give storytellers good hooks to create incredibly personal adventures.
+Jinx strongly recommends spending the time to create details backstories for each character. This is done for two main reasons: the first is to help the players bond with their characters, the second is to give storytellers good hooks to create incredibly personal adventures.
 
 #### The Story Circle
 
@@ -1002,9 +893,9 @@ Jinx is structured to help storytellers write homebrew adventures which are at t
 
 Please keep in mind that this method to create an adventure is based both on a structured and well-known storytelling technique, as well as an easy to use anatomy. It all starts with Dan Harmon's "Story Circle".  Dan Harmond simplified Joseph Campbell "Monomyth" also known as "The Hero's Journey". Dan Harmond divides every story in a circle identified by eight steps. This Story Circle can be applied to every story in every media. Hence it can be used to create amazing adventures whose story will relate to your players.
 
-The reason to use this method is to create stories that will glue your players to the chairs, asking for more. It is the same method scriptwriters use for your favourite films, and while you may not realise it yet, they all follow the same storytelling structure. Jinx has distilled all these information in a simple step-by-step methodology.
+The reason to use this method is to create stories that will glue your players to the chairs, asking for more. It is the same method scriptwriters use for your favourite films, and while you may not realise it yet, they all follow the same storytelling structure. Jinx has distilled all this information in a simple step-by-step methodology.
 
-However, defore describing every step, you should know a bit more about the Story Circle and how it works. You will understand why I try to divide my adventures into four sessions. If you divide the story circle horizontally, the top part is the start and the end of the story, while the bottom part identifies the characters' growth and change. The ordinary versus the special, life versus death, consciousness versus unconsciousness or order versus chaos. If you give the right rhythm to your adventure, this will be felt by your players, as their characters were in a great film. When the characters move from one semicircle to the other, they evolve.
+However, before describing every step, you should know a bit more about the Story Circle and how it works. You will understand why I try to divide my adventures into four sessions. If you divide the story circle horizontally, the top part is the start and the end of the story, while the bottom part identifies the characters' growth and change. The ordinary versus the special, life versus death, consciousness versus unconsciousness or order versus chaos. If you give the right rhythm to your adventure, this will be felt by your players, as their characters were in a great film. When the characters move from one semicircle to the other, they evolve.
 By dividing the story circle vertically as well, you identify four intersections and four spaces.  These are the main parts of our adventures. Every time one of the lines intersect the circle, you define a story point, additionally, between each point, you can identify another story point. With this method, you can identify a total of 8 story points. These points will navigate a hero through their story, piece by piece.
 
 Dan Harmond named each of the 8 points:
@@ -1025,7 +916,7 @@ But how do you apply Dan Harmond's study to your adventure? Or, to better put it
 
 #### Scenes
 
-In many years of storytelling, I have met as many styles of planning an adventure as there are storytellers out there. There isn't a right or a wrong way of doing it. I have decided to write down my planning style.  This is the one that allows me to plan a four hours session of play in details. I don't waste my time writing, yet it allows me to create a consistent story which make sense for my players.
+In many years of storytelling, I have met as many styles of planning an adventure as there are storytellers out there. There isn't a right or a wrong way of doing it. I have decided to write down my planning style.  This is the one that allows me to plan a four hours session of play in details. I don't waste my time writing, yet it allows me to create a consistent story which makes sense for my players.
 
 This way is simple: when I know to intrigue my player characters, I design a list of scenes which may allow the player characters to move from one point to another. I use as many scenes as I need, and each one of them should answer one simple question: why? Why does this scene exist? Is there a purpose for it? If a scene has more than one purpose, I tend to split them in two, but if a scene does not have a purpose, then I either remove it or go back to the drawing board!
 
@@ -1035,39 +926,39 @@ In my experience, you can divide Scenes into five main categories:
 
 ##### GM time
 
-From time to time, you need the space to present something to your players. These are Scenes where there is no interaction with the PCs, but they give you the time to give the PCs a frame of reference or the right amount of information.
+From time to time, you need the space to present something to your players. These are Scenes where there is no interaction with the player characters, but they give you the time to give the player characters a frame of reference or the right amount of information.
 
 *To make this type of Scenes work...* you need to keep them short. It is a recap, it gives you the possibility to set the tone. This does not mean you have to take the stage for half an hour and bore your players to death.
 
 ##### Planning and Recaps
 
-These are the Scenes in which the player characters discuss amongst themselves. They are extremely important for the players to cement the information they received. You have to remember that the players do not have all the information you have as a Game Master. You have to allow them time for pure roleplay and information analysis. The time for these type of Scenes is extremely variable and depends on your players. One party I had wanted nothing more than a constant, collective brainstorm, investing a huge amount of time in pure discussions. Another was very action-oriented, which meant these Scenes were very short. You need to know about your party!
+These are the Scenes in which the player characters discuss amongst themselves. They are extremely important for the players to cement the information they received. You have to remember that the players do not have all the information you have as a Game Master. You have to allow them time for pure roleplay and information analysis. The time for this type of Scenes is extremely variable and depends on your players. One party I had wanted nothing more than a constant, collective brainstorm, investing a huge amount of time in pure discussions. Another was very action-oriented, which meant these Scenes were very short. You need to know about your party!
 
-*To make this type of Scenes work...* you need to give the playing characters the time to talk. Give them the right settings, lower the music, make sure that the tone of the game shifts. One non-player character who is there to help them may be good if your players have trouble kickstarting the thought process.
+*To make this type of Scenes work...* you need to give the player characters the time to talk. Give them the right settings, lower the music, make sure that the tone of the game shifts. One non-player character who is there to help them may be good if your players have trouble kickstarting the thought process.
 
 ##### Exploration
 
-Exploring a new environment can be exciting and can give you time to reorganise the session time, change the adventure on the fly and give something to your player characters. This kind of Scenes' duration is entirely up to you. You can make the are to be explored dry of information, keeping the Scene short, or you can allow your player characters to dissect an entire Star Destroyer piece by piece. Use the exploration Scenes wisely though: make sure your PCs don't get bored and frustrated because they can't find anything.
+Exploring a new environment can be exciting and can give you time to reorganise the session time, change the adventure on the fly and give something to your player characters. This kind of Scenes' duration is entirely up to you. You can make the are to be explored dry of information, keeping the Scene short, or you can allow your player characters to dissect an entire Star Destroyer piece by piece. Use the exploration Scenes wisely though: make sure your player characters don't get bored and frustrated because they can't find anything.
 
-*To make this type of Scenes work...* you need to define locations very well, then place the ball in the playing characters court. Let them tell you what they want to do, and be reactive to them. To be able to be reactive and to provide them with enough information to keep the interest alive, but not too many to conclude the entire Scene in two seconds, you need to know your surroundings. What can they find in each location? Describe what they see and feel so that they are interested in going on exploring. A Dungeon design from the original D&D is the perfect example, just don't limit yourself to an underground cave.
+*To make this type of Scenes work...* you need to define locations very well, then place the ball in the player characters court. Let them tell you what they want to do, and be reactive to them. To be able to be reactive and to provide them with enough information to keep the interest alive, but not too many to conclude the entire Scene in two seconds, you need to know your surroundings. What can they find in each location? Describe what they see and feel so that they are interested in going on exploring. A Dungeon design from the original D&D is the perfect example, just don't limit yourself to an underground cave.
 
 ##### Action
 
-This type of Scene is about doing something. What I like about it is that they are predictable in terms of results and duration. You should know what's the goal of the action and how much time should it take for you to make the PCs achieve (or fail).
+This type of Scene is about doing something. What I like about it is that they are predictable in terms of results and duration. You should know what's the goal of the action and how much time should it take for you to make the player characters achieve (or fail).
 
-*To make this type of Scenes work...* you should know your location and you should try and consider what a playing character may be interested in doing. Give your playing characters a series of challenges, without resolving an entire scene with a simple roll. Build the tension and release it over time!
+*To make this type of Scenes work...* you should know your location and you should try and consider what a player character may be interested in doing. Give your player characters a series of challenges, without resolving an entire scene with a simple roll. Build the tension and release it over time!
 
 ##### Social Interaction
 
-My favourite encounters. You can dispense information, taunt your player character, make them fall in love or talk with their archnemesis. Whatever is in your NPCs arsenal comes through. This is because I am not a fighting-heavy game master, but your miles may vary. The key element for social interaction is the quality of your NPCs, their three-dimensionality. You are generally in charge of the timing of these situations. Like in any situation in which you are the person timing it, make sure not to stretch it too much or making it too dry. If you are an inexperienced game master, give yourself time.
+My favourite encounters. You can dispense information, taunt your player character, make them fall in love or talk with their archnemesis. Whatever is in your non-player characters arsenal comes through. This is because I am not a fighting-heavy game master, but your miles may vary. The key element for social interaction is the quality of your non-player characters, their three-dimensionality. You are generally in charge of the timing of these situations. Like in any situation in which you are the person timing it, make sure not to stretch it too much or making it too dry. If you are an inexperienced game master, give yourself time.
 
-*To make this type of Scenes work...* your non player characters have to be well designed. They have to be three dimensional, they must have character and things to say. Try to think about your non player characters before the Scene, so that you know how they behave and how they can react. You can find more information on how to create a great NPC later in the book.
+*To make this type of Scenes work...* your non-player characters have to be well designed. They have to be three dimensional, they must have character and things to say. Try to think about your non-player characters before the Scene, so that you know how they behave and how they can react. You can find more information on how to create a great non-player character later in the book.
 
 ##### Combat
 
-While I am not a fighting-heavy game master, I still believe that combat situations are great to keep the level of excitement elevated. There is nothing better than a spike of adrenaline to shake a soporiferous session. But please, remember that even your monsters are NPCs, give them a three-dimensional feel to it. This is why I despise random encounters: because they have no reason to exist apart from having a useless fight.
+While I am not a fighting-heavy game master, I still believe that combat situations are great to keep the level of excitement elevated. There is nothing better than a spike of adrenaline to shake a soporiferous session. But please, remember that even your monsters are non-player characters, give them a three-dimensional feel to it. This is why I despise random encounters: because they have no reason to exist apart from having a useless fight.
 
-*To make this type of Scenes work...* you must know how to fight! Your NPCs or monsters must have a plan, or if they don't, you must know they don't (but that should be a plan nonetheless). Remember the Assumption of Heroism and make sure the foes do what they can to play their part. One thing many storytellers seem to forget is that NPCs or monsters may not be interested in dying, and they may well think to flee if they see the worse come to worst!
+*To make this type of Scenes work...* you must know how to fight! Your non-player characters or monsters must have a plan, or if they don't, you must know they don't (but that should be a plan nonetheless). Remember the Assumption of Heroism and make sure the foes do what they can to play their part. One thing many storytellers seem to forget is that non-player characters or monsters may not be interested in dying, and they may well think to flee if they see the worse come to worst!
 
 ##### Location
 
@@ -1077,15 +968,15 @@ Yes, some scenes are just locations. The player characters should be able to exp
 
 #### The Anatomy of a Scene
 
-Before going to understand how an adventure is build, I want to point out how a scene is built. This because an adventure will use scenes, so it is good to understand how to build those. Without further ado, let's look into it and see how a single scene can be created.
+Before going to understand how an adventure is built, I want to point out how a scene is built. This because an adventure will use scenes, so it is good to understand how to build those. Without further ado, let's look into it and see how a single scene can be created.
 
-Apart from the type of the scene and its title, you will find that the rule of the five Ws apply to the scenes. Why, When, Where, Who, What and How. Answering these simple questions will give a great over view of each scene.
+Apart from the type of the scene and its title, you will find that the rule of the five Ws applies to the scenes. Why, When, Where, Who, What and How. Answering these simple questions will give a great overview of each scene.
 
-Before digging deeper in this, I would like to underline two things. The first is about how to write a scene, the second is about the scene's flexibility. The way a storyteller write a scene depends on their style. I like bullet points, they make my life simple when I write the scene and easily accessible when I play. I don't like to read from a document, so I don't add any particular text to read to my players. Having bullet points allow me a quick access of whatever should already be in my brain. As for the scene flexibility, you should remember that a scene may well be wiped out by the player characters actions in the previous scene. Remember, not because you invested time in it, your players should love it. Write in pencil and make sure you allow your mind to conceive the fact that the story is build with your players, not without.
+Before digging deeper into this, I would like to underline two things. The first is about how to write a scene, the second is about the scene's flexibility. The way a storyteller write a scene depends on their style. I like bullet points, they make my life simple when I write the scene and easily accessible when I play. I don't like to read from a document, so I don't add any particular text to read to my players. Having bullet points allow me quick access to whatever should already be in my brain. As for the scene flexibility, you should remember that a scene may well be wiped out by the player characters actions in the previous scene. Remember, not because you invested time in it, your players should love it. Write in pencil and make sure you allow your mind to conceive the fact that the story is built with your players, not without.
 
 ##### Title
 
-Hey, this may sound silly, but a one-liner to remind you what the scene is without reading for more than a second is invaluable. You can write it at the beginning, to help you dig deeper, or you can do it at the end, when you know exactly what's happening in the scene. That's up to you.
+Hey, this may sound silly, but a one-liner to remind you what the scene is without reading for more than a second is invaluable. You can write it at the beginning, to help you dig deeper, or you can do it at the end when you know exactly what's happening in the scene. That's up to you.
 
 > The death of Ilkinos
 
@@ -1097,27 +988,27 @@ Few pages back, I mentioned you can have many types of scenes. This single line 
 
 ##### Why
 
-This is the golden point for every scene, and the "*sine qua non*", the indispensable thing without which the scene is not a scene: its purpose for the player characters! What is the reason for the scene to exist? Why are you considering making your player characters live it? Even a simple combat should have a purpose!
+This is the golden point for every scene, and the "*sine qua non*", the indispensable thing without which the scene is not a scene: its purpose for the player characters! What is the reason for the scene to exist? Why are you considering making your player characters live it? Even simple combat should have a purpose!
 
-The purpose should be specific and clear to you. Something like "*the PCs should learn something about something else*" won't do any good. You, the storyteller, should always be in the know.
+The purpose should be specific and clear to you. Something like "*the player characters should learn something about something else*" won't do any good. You, the storyteller, should always be in the know.
 
 > The player characters should realise that Enoch is not the good character they thought
 
 ##### When
 
-Now, here I cheated a bit with the Five Ws. In the when, I write the playing time I set up for this scene. This is a number which helps me plan a session well. To write numbers that make sense, you need to understand your players well.
+Now, here I cheated a bit with the Five Ws. In the "when", I write the playing time I set up for this scene. This is a number which helps me plan a session well. To write numbers that make sense, you need to understand your players well.
 
 > 15'
 
 ##### Where
 
-The location is the place where the scene takes place. In some occasion the location **is** the scene. Give it flavour, give it character. How does it look and feel? If you want to draw a map, do it. Or if you, like me, are a "*theatre of the mind*" storyteller, just make it juicy in the way you tell it.
+The location is the place where the scene takes place. In some occasion, the location **is** the scene. Give it flavour, give it character. How does it look and feel? If you want to draw a map, do it. Or if you, like me, are a "*theatre of the mind*" storyteller, just make it juicy in the way you tell it.
 
 > Topmost tower in the Uldwich castle at sundown
 
 ##### Who
 
-Who is present in the scene apart the player characters? Here is where I put together a list of non player characters and eventually monsters. I just put their names, but before playing I will make sure I have more details for each of those I named.
+Who is present in the scene apart from the player characters? Here is where I put together a list of non-player characters and eventually monsters. I just put their names, but before playing I will make sure I have more details for each of those I named.
 
 > Lord Enoch
 >
@@ -1125,7 +1016,7 @@ Who is present in the scene apart the player characters? Here is where I put tog
 
 ##### What
 
-The "what" are the information or things the player character may learn or get from the scene. I say "may" because player characters are renown to have a mind of their own. From time to time they miss the elephant in the room, just because they are too focussed on what their agenda is.
+The "what" are the information or things the player character may learn or get from the scene. I say "may" because player characters are renown to have a mind of their own. From time to time they miss the elephant in the room, just because they are too focused on what their agenda is.
 
 > - Ilkinos dies
 > - Lord Enoch is a villain
@@ -1135,7 +1026,7 @@ The "what" are the information or things the player character may learn or get f
 
 ##### How
 
-Last, but not least, here I write a bulletpoints of everything I need to define the scene. Short, to the point, and without any writing skills required.
+Last, but not least, here I write a bullet points of everything I need to define the scene. Short, to the point, and without any writing skills required.
 
 Please try and keep in mind that the more natural you are in front of your players, the more they will enjoy the game. If you read from a piece of paper, you lose part of the magic you are creating. Writing a short list of elements, sometimes tags that allow you to describe something in an incredible way, is more than enough. Sometimes it is fine to write a direct discussion, as long as it is short.
 
@@ -1143,13 +1034,13 @@ Please try and keep in mind that the more natural you are in front of your playe
 > - Flags waving to the wind
 > - Ilkinos and Lord Enoch are discussing violently
 > - The player characters are hidden
-> - The player characters should realise the two non player characters are way above their league, if they get involved... good luck player characters
+> - The player characters should realise the two non-player characters are way above their league and if they get involved... good luck player characters
 > - Ilkinos tells Lord Enoch he knew it was him trying to kill the Duke
-> - Lord Enoch says "*Oh, you 'knew', of course you did! Do you like being smart? Top of the class, Ilkinos, as always. Top of the class and bottom of the social scale. I have you now here, and I will get to Ashanta later!*"
+> - Lord Enoch says "*Oh, you 'knew', of course, you did! Do you like being smart? Top of the class, Ilkinos, as always. Top of the class and bottom of the social scale. I have you now, here, and I will get to Ashanta later!*"
 > - Ilkinos says "*She is gone, Enoch, she is far beyond your reach, and the map to the flying citadel with her!*"
 > - Lord Enoch is a great fighter and kills Ilkinos
 > - Lord Enoch swiftly flee the scene without noticing the player characters
-> - The Sword of Tears is still there 
+> - The Sword of Tears is still there
 
 #### The Anatomy of an Adventure
 
@@ -1160,14 +1051,14 @@ Let's now go to a step-by-step point to create your own adventure!
 ##### Adventure Main Questions
 
 1. What is the goal of the adventure?
-2. Why do the PCs need to achieve this goal?
+2. Why do the player characters need to achieve this goal?
 3. How are they going to achieve it?
 
 ##### Turning Points
 
-1. What is the final realisation/turn of Scenes which can lead the PCs to achieve their goals? (point 7)
-2. How are the PCs achieve their goals? (point 8)
-3. What is the decision the PCs make that defines the moment they move from being a secondary actor to being in charge? (point 5)
+1. What is the final realisation/turn of Scenes which can lead the player characters to achieve their goals? (point 7)
+2. How are the player characters achieve their goals? (point 8)
+3. What is the decision the player characters make that defines the moment they move from being a secondary actor to being in charge? (point 5)
 4. What turn of Scenes makes them attempt a solution which will fail? (point 6)
 5. What is the change they accept to embark in the adventure? (point 3)
 6. What is the burning need they have to feel for the hook to work? (point 2)
@@ -1177,8 +1068,8 @@ Let's now go to a step-by-step point to create your own adventure!
 ##### Scenes
 
 1. What is the "normal life" and how do you do to make the player characters to feel a burning Need? (between points 1 and 2)
-2. How do you enhance the need, making the PCs say YES to your adventure? (between points 2 and 3)
-3. What is the first part of the adventure which makes them the PCs feel confident? (between points 3 and 4)
+2. How do you enhance the need, making the player characters say YES to your adventure? (between points 2 and 3)
+3. What is the first part of the adventure which makes them the player characters feel confident? (between points 3 and 4)
 4. What do the Player Characters go through to make them feel very low, reaching the point they decide to truly commit to an internal change that will give them power? (between points 4 and 5)
 5. What do the players do to prepare to win what they perceive to be the most important battle? (between points 5 and 6)
 6. What is that the player characters fails so spectacularly that they have to re-think their goals? (between points 6 and 7)
@@ -1197,16 +1088,16 @@ There is simple magic to create this aura of suspension in your adventures. You 
 
 While the Story Circle is an amazing tool to narrate a story, life as a storyteller has one difference: your players. They will live your stories and they will shape them, or at least your goal should be to allow them to shape them. A linear story will give you enough information to be a good storyteller, but to get one step forward, it is time to talk about locations.
 
-In the world you describe to your players, more often than not locations will play a very important role. Not only you can characterise your story through them, but they usually are the place where object, clues or non player characters reside. If you go back to the original role-playing game, Dungeons and Dragons, the idea was to design a dungeon. In every room you would place objects, traps or monsters, and that was the game.
+In the world you describe to your players, more often than not locations will play a very important role. Not only you can characterise your story through them, but they usually are the place where object, clues or non-player characters reside. If you go back to the original role-playing game, Dungeons and Dragons, the idea was to design a dungeon. In every room, you would place objects, traps or monsters, and that was the game.
 
-Writing your locations in details, including all the information about how they are relevant to your characters and to your story, allows you to bring a better three dimensionality to your world. Moreover, and this is maybe even more important, will transform your linear story in a free-floating one without the need to change your adventure. What if your player characters decide to go in the Inn before exploring the castle? What if they decide to avoid the first village, but they go directly in the woods? Including all the information about your locations in the adventure will allow you to shift even further from railroading.
+Writing your locations in details, including all the information about how they are relevant to your characters and to your story, allows you to bring a better three-dimensionality to your world. Moreover, and this is maybe even more important, will transform your linear story in a free-floating one without the need to change your adventure. What if your player characters decide to go in the Inn before exploring the castle? What if they decide to avoid the first village, but they go directly in the woods? Including all the information about your locations in the adventure will allow you to shift even further from railroading.
 
-The best option you have while writing your adventure, is to make note of all the locations your player characters can come in touch with during a session. After having written your adventure, you should list all the locations and add the information about what the player characters can find who they can meet in them. Of course, some encounters can only happen linearly, so stay flexible!
+The best option you have while writing your adventure is to make note of all the locations your player characters can come in touch with during a session. After having written your adventure, you should list all the locations and add the information about what the player characters can find who they can meet in them. Of course, some encounters can only happen linearly, so stay flexible!
 
 
 #### Think linearly, expand logically, improvise organically and re-write constantly
 
-One common comment I get when I tell how I structure an adventure, is that I write linearly. While this is absolutely true, the misconception is that a linear structure leads to a railroad adventure. This is not true if you stick to four main pillars:
+One common comment I get when I tell how I structure an adventure is that I write linearly. While this is absolutely true, the misconception is that a linear structure leads to a railroad adventure. This is not true if you stick to four main pillars:
 
 1. **Think Linearly**. Your adventure should be written in a linear way. You should plan a structure that goes from point to point.
 2. **Expand Logically**. Once you have a linear structure of an adventure, you need to start looking at all the moments in which the player characters' interaction may change the direction of an adventure.
@@ -1227,18 +1118,18 @@ Also, knowing your players well, and realising what they appreciate the most, ma
 
 Writing a lot of text is simple, but the art of summarising things is one of the most challenging things. However, I have always disliked storytellers who read during the game. I have always thought that every encounter can be summarised in a few bullet points, which are easy to digest during the game.
 
-The end result should therefore be a very short, readable text.
+The end result should, therefore, be a very short, readable text.
 
 > **1.01 - The Curious Innkeeper**
 >
-> - When the playing characters reach the Inn, they will feel the innkeeper is keeping an eye on them
+> - When the player characters reach the Inn, they will feel the innkeeper is keeping an eye on them
 > - The Innkeeper will desperately try to gather information from the characters
-> - Try to make sure the playing characters feels like they are spied upon.
-> - Keep this Scene free of other NPCs and let the player start guessing *why* the innkeeper is so interested in them: **there is nothing better than some good old paranoia**
+> - Try to make sure the player characters feel like they are spied upon.
+> - Keep this Scene free of other non-player characters and let the player start guessing *why* the innkeeper is so interested in them: **there is nothing better than some good old paranoia**
 
-This is what you should have in front of you during the game. However, the process of creating an adventure can go through some serious writing. This is absolutely fine, because it will give you the background information which will help you running the game smoothly!
+This is what you should have in front of you during the game. However, the process of creating an adventure can go through some serious writing. This is absolutely fine because it will give you the background information which will help you run the game smoothly!
 
-### Non Player Characters
+### Non-Player Characters
 
 ### Locations
 
@@ -1264,7 +1155,7 @@ This is what you should have in front of you during the game. However, the proce
 
 ### Adventure Creation
 
-### Non Player Character Creation
+### Non-Player Character Creation
 
 ### Location Creation
 
