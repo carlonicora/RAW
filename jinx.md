@@ -285,21 +285,13 @@ Below you will find a list of abilities available in Jinx. They are divided by t
 
 ##### Body Abilities
 
-###### Acrobatics
+###### Athletics
 
 The ability to display physical flexibility in multiple situations.
 
 Talent|Required level
 ---|---:
 @TODO|50
-
-###### Climb
-
-The ability to climb vertical surfaces, mitigating any difficulties that may arise.
-
-Talent|Required level
----|---:
-Carry another character|50
 
 ###### Combat: Dodge
 
@@ -342,22 +334,6 @@ Two attacks per round|75
 ###### Craft
 
 The ability to design and create the specified object.
-
-Talent|Required level
----|---:
-@todo|50
-
-###### Ride
-
-The ability to better ride a creature - horse or otherwise.
-
-Talent|Required level
----|---:
-Ride flying creatures|50
-
-###### Swim
-
-The ability to swim.
 
 Talent|Required level
 ---|---:
@@ -423,35 +399,11 @@ Potions and remedies potency 20|40
 Potions and remedies potency 40|60
 Potions and remedies potency 50|80
 
-###### Runes
-
-The ability to understand the carvings and writings of a magical/runic nature.
-
-Talent|Required level
----|---:
-@todo|50
-
-###### Traps
-
-The ability could benefit by focusing more on the understanding/creation/ disarming / improvisation of traps.
-
-Talent|Required level
----|---:
-@todo|50
-
 ##### Spirit Abilities
 
 ###### Con artistry
 
 The ability to pick locks, sleight of hands and thievery in general
-
-Talent|Required level
----|---:
-@todo|50
-
-###### Cooking
-
-This skill covers the practicum, theory, and artistic expressive ability in Gastronomy, Mixology, Patisserie, and Boulangerie.
 
 Talent|Required level
 ---|---:
@@ -467,6 +419,7 @@ Talent|Required level
 
 ###### Hunt/Survival
 
+Includes Stalk Hide Traps
 @TODO
 
 Talent|Required level
