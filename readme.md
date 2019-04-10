@@ -1,6 +1,4 @@
-# Introduction to Jinx RPG
-
-Jinx is a Role Playing Game. It has been designed to be based on simple rules.
+# Jinx Role Playing Game
 
 1. [Introduction](introduction.md)
 2. [Character Creation](character-creation.md)
