@@ -1,3 +1,13 @@
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Introduction](#introduction)
+	- [The goals of Jinx](#the-goals-of-jinx)
+	- [What is a Role-Playing Game](#what-is-a-role-playing-game)
+	- [Settings](#settings)
+	- [An example of play](#an-example-of-play)
+
+<!-- /TOC -->
+
 # Introduction
 
 When I started writing Jinx, I did not think I would have written an entire book. I was looking for some simple mechanics which would allow me to focus more on storytelling than others. I liked the vast availability of D&D, but there were some pet peeves which kept me away from it, namely levels and classes. Alas, I had always been one of those storytellers who preferred characters without labels attached to them. I was more in line with mechanics a-la Call of Cthulhu, but Fantasy has always been a love of mine.
@@ -26,8 +36,6 @@ The final goal of Jinx is to help shape great storytellers, allowing them to foc
 @TODO
 
 ## Settings
-
-This game is based on a fantasy world like the ones in Tolkien's **The Lord of the Ring**,
 
 @TODO
 
