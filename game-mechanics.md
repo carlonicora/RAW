@@ -1,46 +1,30 @@
 # Game Mechanics
 
-Jinx is based on simple game mechanics which revolve around a series of abilities each character has. The abilities define the characters' skillset and allow them to grow as complex entities. The abilities are based on the fact that we all have some basic traits, and that the more we perform an action, the more skilled we become at it.
+Atlantis is based on simple game mechanics which revolve around a series of abilities each character has. The abilities define the characters' skillset and allow them to grow as complex entities. The abilities are based on the fact that we all have some basic traits, and that the more we perform an action, the more skilled we become at it.
 
-In Jinx, every ability is scored in values that range from 0 to 100. The higher the score, the better the character is at that particular ability.
+In Atlantis, every ability is scored in values that range from 0 to 100. The higher the score, the better the character is at that particular ability.
 
-Jinx keeps into account a random opportunity of failure and success in the form of a die which can be rolled and added to the total ability. This signifies the chance and the fortunate or unfortunate conditions. The luck variance can add up to 20 points, which in extreme cases can expand the variance from removing 20 points to adding 40 points to an action.
+Atlantis keeps into account a random opportunity of failure and success in the form of a dice which can be rolled and added to the total value of an ability. This signifies the chance and the fortunate or unfortunate conditions. The luck variance can add up to 20 points, which in extreme cases can expand the variance from removing 20 points to adding 40 points to an action.
 
-The goal is to create a realistic approach to how a real person is, with unique skillsets each character has and abilities which grows organically, making the characters progress.
+The goal is to create a realistic approach to how a real person is, with unique skillsets each character has abilities which grows organically, making the characters progress.
 
-## Performing Actions
+## Open ended rolls
 
-Every time a character needs to perform an action which is not trivial or impossible, they will have to check if they succeed. There are two types of actions: challenged (*stealth VS awareness*) and unchallenged (*jumping over a fence*).
-
-In both cases, the rules refer to an ability, but the challenge can be done on a trait.
-
-### Open ended rolls
-
-Every d20 roll is open-ended. Every time a 1 is rolled, the player should re-roll the dice and subtract the result. Every time a natural 20 is rolled, the player should re-roll the dice and add the result.
+In Atlantis, every d20 roll is open-ended. Every time a 1 is rolled, the player should re-roll the dice and subtract the result from their ability. Every time a natural 20 is rolled, the player should re-roll the dice and add the result of both dice.
 
 The open-ended roll applies only to the first roll, and not on the re-rolls.
 
-### Challenged actions
+## Performing Actions
 
-When the action of a character can be challenged by counteraction of another character, then the result of the action is defined by a simple comparison between the action plus 1d20 of the first character and the counteraction plus 1d20 of the second character.
+Every time a character needs to perform an action which is neither trivial nor impossible, they will have to check if they succeed.
 
-The **level of success or failure** is the difference between the two action results.
+An action value is the sum of the ability and 1d20.
 
-`success = (ability + 1d20) - (ability + 1d20)`
-
-### Unchallenged actions
-
-Unchallenged actions are those actions which are not opposed by another character. The storyteller should define a threshold that the character should overcome. This threshold defines (in a percentage value) the complexity of the action.
-
-The action result is calculated by adding the ability or trait of the action plus 1d20.
-
-The **level of success or failure** is the difference between the threshold and the action result.
-
-`success = (ability + 1d20) - threshold`
+`result = ability + 1d20`
 
 ### Threshold
 
-Jinx is based on a percentile complexity level. Every time an action is performed, the total result identifies the degree of success on a scale between 0 and 100. It is therefore simple to identify threshold values the storyteller should use to challenge a character's action.
+Atlantis is based on a percentile complexity level. Every time an action is performed, the total result identifies the degree of success on a scale between 0 and 100. It is therefore simple to identify threshold values the storyteller should use to challenge a character's action.
 
 Threshold|Difficulty level
 ---:|---
@@ -48,15 +32,40 @@ Threshold|Difficulty level
 25|Normal challenge, with a bit of effort you can do it
 50|Difficult, you need to know your ability in order to succeed
 75|Exceptional, only those who master the ability can do it
-100+|Inhuman, the few that make it are the top of the top
 
-The threshold is set by the game master and indicates the level of success the action should reach in order to be successful.
+The threshold is set by the game master and indicates the ability result required in order to succeed.
+
+### Type of Actions
+
+There are two types of actions:
+- **Challenged** actions (*stealth VS awareness*)
+- **Unchallenged** actions (*jumping over a fence*).
+
+#### Challenged actions
+
+When the action of a character can be challenged by the counteraction of another character, then both character should check their ability result and compare the two. The higher wins.
+
+The **level of success or failure** is the difference between the two action results.
+
+`success = result 1 - result 2`
+
+#### Unchallenged actions
+
+Unchallenged actions are those actions which are not opposed by another character. The storyteller should define a threshold that the character should overcome. This threshold defines (in a percentage value) the complexity of the action.
+
+The **level of success or failure** is the difference between the threshold and the action result.
+
+`success = (ability + 1d20) - threshold`
+
+## Learning new abilities
+
+Every time a character wants to perform an ability they are not skilled in, they can use the trait on which the ability is based. **Athletics**, for example, is based on the trait **Body**. When a character tries to perform an **Athletics** check for the first time, they will roll the dice using the trait. If the character succeeds, they have the possibility to learn the ability as any other ability, as described in the character progression chapter.
 
 ## Combat
 
 Similarly to every action, the result of an attack depends if the attack is challenged (*punching VS dodging*) or unchallenged (*shooting another character*).
 
-In Jinx, fighting is dangerous. The game itself is designed to make combat a serious action with dire consequences. By no means we want to avoid combat situations, on the contrary, we believe they balance a well thought-through campaign. Yet, Jinx is a role-playing game which focuses on storytelling and abilities. Combat is no more important than any other skill.
+In Atlantis, fighting is dangerous. The game itself is designed to make combat a serious action with dire consequences. By no means we want to avoid combat situations, on the contrary, we believe they balance a well thought-through campaign. Yet, Atlantis is a role-playing game which focuses on storytelling and abilities. Combat is no more important than any other skill.
 
 ### Challenged Attacks
 
@@ -102,12 +111,6 @@ Huge|+10
 
 Remember that a positive modifier makes it easier for the character to hit.
 
-the speed of target|modifier
----|---:
-Still or Walking|0
-Trotting|-5
-Running|-10
-
 To balance the game in terms of challenging the hand to hand combat, the melee combat and the ranged combat, the following modifiers should be applied to ranged combat. Please keep in mind that every ranged weapon has a maximum range, over which the attack fails automatically.
 
 Distance to target|modifier
@@ -131,12 +134,11 @@ Every weapon has a fixed amount of damages it inflicts. The damage receives a mo
 
 success|damage modifier
 ---|---:
-1-10|1/2
-11-20|1
-21-30|1.5
-31-40|2
-41-50|2.5
-51+|3
+1-10|1
+11-25|2
+26-50|3
+51-75|4
+76+|5
 
 ### Ablative armours
 Jinx uses the idea of ablative armours, which are protections that absorb the damages in lieu of the character wearing it. The armours have a fixed amount of protection, which is lost every time damage is absorbed.
@@ -159,11 +161,11 @@ The table below indicates how the amount of psychophysical damages affects the c
 
 damages|action modifier
 ---|---:
-0-20|0
-21-25|-5
-26-30|-10
-31-35|-15
-36+|-20
+0-10|0
+11-25|-5
+25-50|-10
+51-75|-15
+76+|-20
 
 ### Unconsciousness
 
