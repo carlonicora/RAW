@@ -1,6 +1,17 @@
 # Character creation
 
-@TODO
+Characters are not just a few stats that may determine the outcome of an action. Characters are complex beings which have a history behind them, a psychological nature and only then some numbers. As a player, you should bring to life a three dimensional character, no matter if you are attracted by brute force characters or thinkers.
+
+To me, the character creation is not a solo-effort. It should be a group effort in which the storyteller and the player come together. This way, the storyteller can have a great insight into the player characters, which will make their life easier while plotting adventures.
+
+To create a character, you should follow these steps:
+
+1. Define your character's demographic information
+2. Pick your character psychological traits
+3. Put some numbers behind Traits and Abilities
+4. Write your character's backstory
+
+These four steps will be enough to have a great character with whom to have fun!
 
 ## Demographic
 
@@ -10,7 +21,7 @@
 
 @TODO
 
-## Traits, Abilities and Talents
+## Traits and Abilities
 
 ### Traits
 
@@ -32,13 +43,7 @@ At the beginning of the game, each character possesses five abilities of their c
 
 The list of available abilities is found below.
 
-### Talents
-
-Some abilities, when mastered over 50 points, offers some unique talents. Differently, from traits and abilities, talents do not have any value, they are just capabilities that expand the abilities themselves. For example, a character whose melee ability of 50 or more can choose to master a double attack.
-
-The list of talents is available with a list of attributes.
-
-## Life Points
+### Life Points
 Every player character has 40 life points plus the value of their **Body**. When lost, life points can be recovered by sleeping or meditating (1 every 6 hours) or through medical treatment.
 
 `life points = 40 + Body`
@@ -77,78 +82,11 @@ Every character starts the game with at least 3 ability. Writing how these skill
 
 Below you will find a list of abilities available in Jinx. They are divided by their trait and describe any available talent.
 
-### Body Abilities
-
-Ability|Description
----|---
-Athletics|The ability to display physical flexibility in multiple situations
-Combat: Dodge|The ability to successfully evade enemy attacks
-Combat: Hand to Hand|The ability to successfully engage opponents while unarmed
-Combat: Melee|The ability to successfully engage opponents while armed with close-range weaponry
-Combat: Missile|The ability to successfully engage opponents while armed with long-range attacking implements
-Craft|The ability to design and create the specified object
-
-### Mind Abilities
-
-Ability|Description
----|---
-Investigate|The ability to gather information regarding a specific topic and to make accurate deductions based off of available information
-Languages|The ability that governs communication skills and the translation of foreign tongues and written texts
-History|
-Medicine|
-Mana|The ability to manipulate magic
-Perception|The ability to better detect minor and/or distant physical phenomena that would normally escape one's view
-Potions|The ability to understand the intricacies of creating and utilising herbs to create poisons and remedies
-
-### Spirit Abilities
-
-Ability|Description
----|---
-Empathy|The ability to emotionally understand and share the feelings of others
-Hunt/Survival|Includes Stalk Hide Traps
-Persuasion/Charm|The ability to convince others that they should act in a way that benefits you, through non-violent means
-Willpower|The ability to act in spite of anything that seeks to obstruct that action or to resist external dominance
-
-## List of Talents
-
-Below you will find a list of talents available in Jinx. They are divided by their abilities.
-
-### Body Talents
-
-Ability|Talent|Required level
----|---|---:
-Combat:Dodge|One dodge doesn't impact the number of actions in a round|50
-Combat:Dodge|Two dodge doesn't impact the number of actions in a round|75
-Combat: Hand to Hand|Two penalised attacks per round|50
-Combat: Hand to Hand|Two attacks per round|75
-Combat: Hand to Hand|Three attacks per round|95
-Combat: Melee|Two penalised attacks/weapons per round|50
-Combat: Melee|Two attacks/weapons per round|75
-Combat: Melee|Three attacks per round|95
-Combat: Missile|Two penalised attacks per round|50
-Combat: Missile|Two attacks per round|75
-
-### Mind Abilities
-
-Ability|Talent|Required level
----|---|---:
-Languages|Proficient in 2 Languages|40
-Languages|Can be used to "fast talk/convince"|50
-Languages|Proficient in 3 Languages|60
-Languages|Proficient in 4 Languages|70
-Languages|Proficient in 5 Languages|80
-Languages|Proficient in 6 Languages|90
-Mana|Ability to create spells of difficulty 25|50
-Mana|Ability to create spells of difficulty 60|70
-Mana|Ability to create spells of difficulty 90|95
-Potions|Potions and remedies potency 5|20
-Potions|Potions and remedies potency 20|40
-Potions|Potions and remedies potency 40|60
-Potions|Potions and remedies potency 50|80
-
-### Spirit Abilities
-
-Ability|Talent|Required level
----|---|---:
-Hunt/Survival|Disappear in the shadows|50
-Persuasion/Charm|Can be used to seduce|50
+Body Abilities|Mind Abilities|Spirit Abilities
+---|---|---
+Athletics|Investigate|Empathy
+Combat: Dodge|Languages|Survival
+Combat: Hand to Hand|History|Persuasion
+Combat: Melee|Medicine|Willpower
+Combat: Missile|Perception|
+Craft|Potions|
