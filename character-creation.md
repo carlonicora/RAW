@@ -15,7 +15,7 @@ These four steps will be enough to have a great character with whom to have fun!
 
 ## Demographic
 
-@TODO
+The character's demographics are all those information relative to the physical and historical part 
 
 ## Psychographic
 

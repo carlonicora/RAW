@@ -5,7 +5,7 @@
 
 ## 2. Characters and Game Mechanics
 2.1. [Character Creation](character-creation.md)
-2.2. [Abilities and Traits]()
+2.2. [Abilities and Traits](abilities.md)
 2.2. [Character Progression](character-progression.md)
 2.3. [Game Mechanics](game-mechanics.md)
 
@@ -25,10 +25,10 @@
 ## Writing plan
 
 - ~~Game mechanics~~
+- Introduction
 - Character creation
 - Abilities and traits
 - Character progression
-- Introduction
 - Storytelling
 - Non player characters
 - Locations
