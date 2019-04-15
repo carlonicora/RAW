@@ -105,13 +105,13 @@ Before digging deeper into this, I would like to underline two things. The first
 
 Hey, this may sound silly, but a one-liner to remind you what the scene is without reading for more than a second is invaluable. You can write it at the beginning, to help you dig deeper, or you can do it at the end when you know exactly what's happening in the scene. That's up to you.
 
-> The death of Ilkinos
+@TODO EXAMPLE
 
 ### Type
 
 Few pages back, I mentioned you can have many types of scenes. This single line just tells me what to expect.
 
-> Exploration
+@TODO EXAMPLE
 
 ### Why
 
@@ -119,37 +119,31 @@ This is the golden point for every scene, and the "*sine qua non*", the indispen
 
 The purpose should be specific and clear to you. Something like "*the player characters should learn something about something else*" won't do any good. You, the storyteller, should always be in the know.
 
-> The player characters should realise that Enoch is not the good character they thought
+@TODO EXAMPLE
 
 ### When
 
 Now, here I cheated a bit with the Five Ws. In the "when", I write the playing time I set up for this scene. This is a number which helps me plan a session well. To write numbers that make sense, you need to understand your players well.
 
-> 15'
+@TODO EXAMPLE
 
 ### Where
 
 The location is the place where the scene takes place. In some occasion, the location **is** the scene. Give it flavour, give it character. How does it look and feel? If you want to draw a map, do it. Or if you, like me, are a "*theatre of the mind*" storyteller, just make it juicy in the way you tell it.
 
-> Topmost tower in the Uldwich castle at sundown
+@TODO EXAMPLE
 
 ### Who
 
 Who is present in the scene apart from the player characters? Here is where I put together a list of non-player characters and eventually monsters. I just put their names, but before playing I will make sure I have more details for each of those I named.
 
-> Lord Enoch
->
-> Ilkinos
+@TODO EXAMPLE
 
 ### What
 
 The "what" are the information or things the player character may learn or get from the scene. I say "may" because player characters are renown to have a mind of their own. From time to time they miss the elephant in the room, just because they are too focused on what their agenda is.
 
-> - Ilkinos dies
-> - Lord Enoch is a villain
-> - *Ashanta* is the keeper of the map the player characters need
-> - Ilkinos possessed the renown Sword of Tears
-
+@TODO EXAMPLE
 
 ### How
 
@@ -157,17 +151,7 @@ Last, but not least, here I write a bullet points of everything I need to define
 
 Please try and keep in mind that the more natural you are in front of your players, the more they will enjoy the game. If you read from a piece of paper, you lose part of the magic you are creating. Writing a short list of elements, sometimes tags that allow you to describe something in an incredible way, is more than enough. Sometimes it is fine to write a direct discussion, as long as it is short.
 
-> - Sunset. Describe it beautifully
-> - Flags waving to the wind
-> - Ilkinos and Lord Enoch are discussing violently
-> - The player characters are hidden
-> - The player characters should realise the two non-player characters are way above their league and if they get involved... good luck player characters
-> - Ilkinos tells Lord Enoch he knew it was him trying to kill the Duke
-> - Lord Enoch says "*Oh, you 'knew', of course, you did! Do you like being smart? Top of the class, Ilkinos, as always. Top of the class and bottom of the social scale. I have you now, here, and I will get to Ashanta later!*"
-> - Ilkinos says "*She is gone, Enoch, she is far beyond your reach, and the map to the flying citadel with her!*"
-> - Lord Enoch is a great fighter and kills Ilkinos
-> - Lord Enoch swiftly flee the scene without noticing the player characters
-> - The Sword of Tears is still there
+@TODO EXAMPLE
 
 ## The Anatomy of an Adventure
 
@@ -247,11 +231,6 @@ Writing a lot of text is simple, but the art of summarising things is one of the
 
 The end result should, therefore, be a very short, readable text.
 
-> **1.01 - The Curious Innkeeper**
->
-> - When the player characters reach the Inn, they will feel the innkeeper is keeping an eye on them
-> - The Innkeeper will desperately try to gather information from the characters
-> - Try to make sure the player characters feel like they are spied upon.
-> - Keep this Scene free of other non-player characters and let the player start guessing *why* the innkeeper is so interested in them: **there is nothing better than some good old paranoia**
+@TODO
 
 This is what you should have in front of you during the game. However, the process of creating an adventure can go through some serious writing. This is absolutely fine because it will give you the background information which will help you run the game smoothly!

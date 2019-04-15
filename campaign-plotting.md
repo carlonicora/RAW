@@ -16,7 +16,7 @@ Put your thinking cap on, forget any player and start planning what your world w
 
 The master plot is a simple sentence that identifies, without describing any details, the main villain and its goal.
 
-> Lord Enoch wants to gain the throne of the Empire of Wardwore by either buying the support of the high council or killing those who oppose him.
+@TODO EXAMPLE
 
 Don't expect your master plot to tell you more than what's necessary. Your first plot does not have to be interesting. A master plot is just the baseline of what the world will go through.
 
@@ -40,7 +40,7 @@ Let's start analysing our master plot, stopping every time a detail can be clari
 
 @TODO
 
-`Lord Enoch` (Ok, who is he? Where does he live? What does he stand for? How has he gained power?) `wants to gain the throne of the Empire of Wardwore` (wait, what is the Empire of Wardwore? How is it ruled? Who is the current Emperor? Where is it in the world? Who are the main figures in it?) `by either buying` (How do the money he has come from? How much money does he have? Where does he keep them? When did he gain them?) `the support of the high council` (What is the High Council? How does it work? Who is in charge of it? Who is in it? How does the Emperor treat the High Council? When was it formed?) `or killing those who oppose him` (Who want to oppose him? Why do they want to fight him? How many there are? How is he going to kill them?)
+@TODO EXAMPLE
 
 The questions we asked in this example are only a minimal part of those we should ask. You need to ask as many questions as possible, and you also have to start asking the same questions when you get your first answers. Let's say that one of the members of the High Council who is going to oppose Lord Enoch is Lady Elgolath. You need to start asking the same questions about her.
 
@@ -52,41 +52,7 @@ A campaign, for what you have written so far, is just a master plot with a lot o
 
 Remember, what you need to write are just a set of titles and some notes to make you remember what the title is about!
 
-Let's make things simple and bring back Lord Enoch, always remembering to start from the end.
-
-Obviously, the last part of the campaign is when Lord Enoch wins. The coronation is the obvious finale should everything go as he wishes! This is the last moment in which someone willing to oppose him can stop the madness of such a man becoming Emperor.
-
-> Lord Enoch coronation
-
-A man like him is sure to be willing to send a clear message to everyone who dares to oppose his power. As we said that Lady Elgolath is clearly against him, what about having her publicly executed for something wrong she has done?
-
-> The execution of Lady Elgolath
-
-Lady Elgolath has done something wrong, but seen that Lord Enoch is still not the Emperor, he must have been careful to pass things as very legal so Lady Elgolath could have gone through a trial before being executed.
-
-> The treason trial
-
-What if Lady Elgolath was betrayed by an old friend who was bought by Lord Enoch? This can be an interesting twist of Scenes.
-
-> Betraying the high council
-
-Let's say that to gain power, Lord Enoch had to eliminate two adversaries? One is Lady Elgolath, maybe the other is called Lord Mutwen. Hey, let's say that he "was" called Lord Mutwen.
-
-> Murder on the hill
-
-Before starting to eliminate those who are against him, Lord Enoch must have hired an assassin.
-
-> Hiring the assassin
-
-And before that, Lord Enoch must have gained a large sum of money to support his work.
-
-> Breaking in the Imperial Coinage
-
-We have always considered the campaign from when Lord Enoch started pulling all the strings, but maybe before that, he wanted to make sure that his name was high up in the list of the possible successors to the throne. Maybe a lavish party where politics were drawn.
-
-> The Mid Summer Ball
-
-
+@TODO EXAMPLE
 
 ## Write in pencil
 

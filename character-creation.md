@@ -15,7 +15,7 @@ These four steps will be enough to have a great character with whom to have fun!
 
 ## Demographic
 
-The character's demographics are all those information relative to the physical and historical part 
+The character's demographics are all those information relative to the physical and historical part
 
 ## Psychographic
 
@@ -62,21 +62,19 @@ To write a character backstory that is central to your character record sheet, y
 
 When writing your backstory, you should keep well in mind your character's race, gender and general demographic information. This should be the base of the story you are going to tell about your character.
 
-> *Okado* was born in a small village in the east. Her mother was the daughter of a renowned bard, who was singing the praise of the Elven lands. In one of these trips *Alia* fell in love with a human who was hired to protect his father during their journey. The love was, unfortunately, short-lived, and when *Okado* was born, her mixed race was seen as a sign of dirt from her grandfather. He could not understand how an elf as beautiful as *Alia* could have accepted to produce such a lesser spawn.
->
->*Okado* did not have the time to grow and speak for herself, because his grandfather gave an ultimatum to her daughter: leave her daughter or lose her parents and status. *Alia* had never been a strong woman, and valued her race more than her daughter.
+@TODO EXAMPLE
 
 ### Bring in your psychographic information
 
 Jinx leverages the OCEAN personality definition. It is a very simple way to characterise a person, or a player character in this case, with five simple values. These values, as described in the [psychography](#psychography) part above, identify one characteristic of your character's personality. You should write a small episode linked to each of the detailed traits.
 
-> *Okado* has always been very interested in trying new things, in exploring the unknown. When she was just but a child, she accepted another accolite's bet and jumped on a horse. She was but 6 years old but found the experience exhilarating. The clerics that looked after her didn't and punished both for having risked the well being of the horse, not to mention her own neck. However, since that moment, Okado felt great respect of the mighty beasts, and despite not having one herself, she will always be attracted to their beauty.
+@TODO EXAMPLE
 
 ### How were their abilities learned
 
 Every character starts the game with at least 3 ability. Writing how these skills were learned is a fantastic way to give a context to your character. Tell a story about how your character developed.
 
-> *Okado* was raised in a clerical monastery dedicated to *Anshalla* the Goddess of War. The clerics brought her in when she was less than a year old, and she grew in a regimented environment which valued the ability to survive more than love. Everyone in the monastery had do their part to bring food on the table, and *Okado* soon became *Ithildir* assistant. The old warrior was a solitary woman and preferred the wilderness to the chitchat of the monastery. She brought *Okado* with her during her excursion and trained her in the art of surviving and hunting for food.
+@TODO EXAMPLE
 
 ## List of Abilities
 
