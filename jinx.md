@@ -1,12 +1,14 @@
 # Jinx
 
-Jinx is a set of minimalist mechanics to run a Role Playing Game. The game is an ability-based tabletop roleplaying game. This initial set of rules is designed to support games set up in the current world. Yet, it is important to understand that Jinx is, first and foremost, a set of mechanics to help telling stories, and can be easily adapted to support other settings. To do this, you just need to change the list of abilities.
+Jinx is a set of minimalist mechanics to run a Role Playing Game. The game is an ability-based tabletop role-playing game. We designed this initial set of rules to support games set up in the current world. Yet, it is crucial to understand that Jinx is a set of mechanics. Its goal is to help tell stories, and you can adapt it to support other settings. To do this, you need to change the list of abilities.
 
-Jinx is a minimal ruleset which will help you run your plotted campaigns. It is a framework which is aimed to help Storytellers to resolve actions and to help characters grow. What you are reading is not a full-fledged role playing game, but you can adapt it to every setting you like.
+Jinx is a minimal ruleset which will help you run your plotted campaigns. It is a framework which aims to help Storytellers to resolve actions and to help characters grow. What you are reading is not a full-fledged role-playing game, but you can adapt it to every setting you like.
+
+<div class="page-break"></div>
 
 ## Game Mechanics
 
-The game mechanics are based on abilities. The focus is given to which actions the player characters are able to perform and with which degree of success. An action is resolved by comparing a specific threshold to the ability level summed to a roll of a dice.
+The game mechanics are based on abilities. They place the focus on which actions the player characters can perform. They also define its degree of success. They set the action resolution comparing an ability result to a threshold. The ability result is a character's ability level plus a roll of a dice.
 
 Every ability value in Jinx, as well as the thresholds, varies between 0 and 100.
 
@@ -61,6 +63,8 @@ In addition to a list of abilities, Jinx uses the idea of traits. Each character
 
 Combat is no different than any other action in Jinx. Someone expert in melee can attack or parry if attacked. There is no initiative or rounds; players declare their actions and the actions are carried out in the order in which they are declared. If a single character wants to do multiple actions in comparison with other
 
+<div class="page-break"></div>
+
 ## Character Creation
 
 There are two element of a character creation: boring numbers and exciting stories. The mechanics of the games help define a character through a series of stats which identifies each character's ability. Yet, the most important part in the creation of a character is their backstory and their personality.
@@ -113,6 +117,8 @@ Remaining Life Points|Actions Penalty
 
 The initial 60 points define a character as a beginner. This is the default starting point for each character; however, it is at the Storyteller discretion to alter this value. Offering more points to the players will generate stronger characters. A character with 120 points to distribute is relatively powerful, while one with 150 or more is extremely powerful. One element to keep into consideration is the limit of 20 points per ability, which cease to be relevant if the Storyteller decides to awards more point for the characters creation.
 
+<div class="page-break"></div>
+
 ## Character Progression
 
 Jinx consider characters' progression as a progression in their abilities. Characters' traits and life points remains the same for the entire life of a character. Characters become better at doing what they do, therefore they are allowed to grow after each played session.
@@ -136,6 +142,8 @@ Life experience points and bonus points don't need to be expended all at the sam
 ### Learning new abilities
 
 Player characters learn new abilities just by trying and use them when unskilled. In such case, the player will try and succeed in an action by using the trait value instead of the ability value with a penalty of 5. If the character succeeds in the action, at the end of the session they will be allowed to level up the ability as every other ability, rolling the 1d100 against the trait instead of the ability.
+
+<div class="page-break"></div>
 
 ## Ability list
 
