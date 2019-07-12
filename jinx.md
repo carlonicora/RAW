@@ -94,6 +94,10 @@ Many times players have trouble bonding with their characters, because of the co
 * Agreeableness _(friendly/compassionate vs. challenging/detached)_
 * Neuroticism _(sensitive/nervous vs. secure/confident)_
 
+### Character motivations
+
+One of the elements that help players to bond with their characters and give them three dimensional its is the definition of a motivation. In the grand scheme of life, what is the character's goal? The idea of an underlying motivation helps the player to manage the character better. It helps in the narrative and gives storytellers hooks to use to make the game more fun.
+
 ### Life Points and Death
 
 As in every roleplaying games, the rules surrounding death include elements as life points and when a character dies. Jinx is no different, every character has 40 life points + their body value.
