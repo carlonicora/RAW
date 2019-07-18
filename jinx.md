@@ -4,6 +4,8 @@ Jinx is a set of minimalist mechanics to run a Role Playing Game. The game is an
 
 Jinx is a minimal ruleset which will help you run your plotted campaigns. It is a framework which aims to help Storytellers to resolve actions and to help characters grow. What you are reading is not a full-fledged role-playing game, but you can adapt it to every setting you like.
 
+The first part of the book is dedicated to the pure game mechanics. In a couple of pages you, either player or storyteller, will know how to resolve actions. With the technicality out of the door, it is time to know how to build characters. Once that is done, the book will tell you how characters advance and grow. The last part of theirs role-playing game will be dedicated to the storyteller, helping them understand how to build Epic campaigns their players will love to be part of.
+
 <div class="page-break"></div>
 
 ## Game Mechanics
@@ -13,6 +15,12 @@ The game mechanics are based on abilities. They place the focus on which actions
 Every ability value in Jinx, as well as the thresholds, varies between 0 and 100.
 
 The mechanics define two types of actions: challenged and unchallenged.
+
+### Diced or Diceless Gaming
+
+In jinx, every action is resolved through the roll of 1d20. The result is added to the value of the ability taken into consideration to generate the action result. However, jinx opens itself to be a diceless mechanic. The player characters can avoid rolling the dice and substitute the result with a value of 15 by roleplaying the action. In simple terms, if the player describes their character's action in theatrical details, they can use a value of 15 instead of using the dice. A theatrical description can be converted to a 5 points bonus to the dice roll as well.
+
+Please note that it is the Storyteller's discretion to award the 15 points, offer a higher or lower value of ask for a dice roll.
 
 ### Unchallenged Actions
 
@@ -185,3 +193,36 @@ It is also important to notice that Jinx is a minimalist game, which means that 
 * **Persuasion**
 * **Psychology**
 * **Willpower**
+
+<div class="page-break"></div>
+
+## Storytelling
+
+A game is only as good as the story that is told, and to tell great story, you need to know how to build campaigns and adventures. In this book, you won't find any random encounter generator, because when you learn how to plot an adventure, you will never need one anymore.
+
+In this chapter, you will learn the basis of the three main elements of a game: campaigns, adventures and scenes. You will learn how to plot and run each and everyone of them.
+
+### Plotting Campaigns
+
+### Writing Adventures
+
+### Setting up Scenes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
