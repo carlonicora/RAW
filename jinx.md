@@ -139,6 +139,7 @@ Each time a character successfully uses an ability, then they can try and level 
 
 It is both the storyteller's and the players' responsibility to keep track of which abilities have been successfully used in each session.
 
+
 ### Life Experience and Bonus points
 
 Each session, the storyteller should award 3 points to each character to signify an increased life experience. Any particularly good part played by a character should also be rewarded with bonus points. These points can be used at the end of each session to level up the player characters' abilities.
@@ -150,6 +151,10 @@ Each time a player character can level up an ability, they will have to roll 1d1
 If players have life experience points or bonus points, they can either use them to roll on an ability they already have, or to increase the degree of success of a previous roll. The application of bonus points can move a degree of failure to a degree of success. No ability can be raised by more than 5 points in a single session.
 
 Life experience points and bonus points don't need to be expended all at the same time, but can be kept to be used at a later time.
+
+### Increased degree of success
+
+If a player character has succeeded in an ability check more than once in the same sessions, they have a bonus to the degree of success during their ability level up.
 
 ### Learning new abilities
 
