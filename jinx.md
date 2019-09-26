@@ -1,8 +1,8 @@
-# Jinx
+# RAW
 
-Jinx is a set of minimalist mechanics to run a Role Playing Game. The game is an ability-based tabletop role-playing game. We designed this initial set of rules to support games set up in the current world. Yet, it is crucial to understand that Jinx is a set of mechanics. Its goal is to help tell stories, and you can adapt it to support other settings. To do this, you need to change the list of abilities.
+RAW is a set of minimalist mechanics to run a Role Playing Game. The game is an ability-based tabletop role-playing game. We designed this initial set of rules to support games set up in the current world. Yet, it is crucial to understand that RAW is a set of mechanics. Its goal is to help tell stories, and you can adapt it to support other settings. To do this, you need to change the list of abilities.
 
-Jinx is a minimal ruleset which will help you run your plotted campaigns. It is a framework which aims to help Storytellers to resolve actions and to help characters grow. What you are reading is not a full-fledged role-playing game, but you can adapt it to every setting you like.
+RAW is a minimal ruleset which will help you run your plotted campaigns. It is a framework which aims to help Storytellers to resolve actions and to help characters grow. What you are reading is not a full-fledged role-playing game, but you can adapt it to every setting you like.
 
 The first part of the book is dedicated to the pure game mechanics. In a couple of pages you, either player or storyteller, will know how to resolve actions. With the technicality out of the door, it is time to know how to build characters. Once that is done, the book will tell you how characters advance and grow. The last part of theirs role-playing game will be dedicated to the storyteller, helping them understand how to build Epic campaigns their players will love to be part of.
 
@@ -12,13 +12,13 @@ The first part of the book is dedicated to the pure game mechanics. In a couple 
 
 The game mechanics are based on abilities. They place the focus on which actions the player characters can perform. They also define its degree of success. They set the action resolution comparing an ability result to a threshold. The ability result is a character's ability level plus a roll of a dice.
 
-Every ability value in Jinx, as well as the thresholds, varies between 0 and 100.
+Every ability value in RAW, as well as the thresholds, varies between 0 and 100.
 
 The mechanics define two types of actions: challenged and unchallenged.
 
 ### Diced or Diceless Gaming
 
-In jinx, every action is resolved through the roll of 1d20. The result is added to the value of the ability taken into consideration to generate the action result. However, jinx opens itself to be a diceless mechanic. The player characters can avoid rolling the dice and substitute the result with a value of 15 by roleplaying the action. In simple terms, if the player describes their character's action in theatrical details, they can use a value of 15 instead of using the dice. A theatrical description can be converted to a 5 points bonus to the dice roll as well.
+In RAW, every action is resolved through the roll of 1d20. The result is added to the value of the ability taken into consideration to generate the action result. However, RAW opens itself to be a diceless mechanic. The player characters can avoid rolling the dice and substitute the result with a value of 15 by roleplaying the action. In simple terms, if the player describes their character's action in theatrical details, they can use a value of 15 instead of using the dice. A theatrical description can be converted to a 5 points bonus to the dice roll as well.
 
 Please note that it is the Storyteller's discretion to award the 15 points, offer a higher or lower value of ask for a dice roll.
 
@@ -35,7 +35,7 @@ In a challenged action, instead of comparing the action result to a threshold, w
 
 ### Thresholds
 
-In Jinx, a generic thresholds level should be considered as such:
+In RAW, a generic thresholds level should be considered as such:
 
 Difficulty|Threshold
 ---|---:
@@ -47,7 +47,7 @@ Extreme|85+
 
 ### Degree of success
 
-Succeeding in an action is rarely a yes/no result. In Jinx, the result of an action identifies the degree of success or failure. The degree of success is a value that ranges from 1 to 5, where 1 is a minimal success (or failure) while a 5 is a spectacular one. Every 20 points of difference between the threshold and the action result, the degree of success is raised by 1 point.
+Succeeding in an action is rarely a yes/no result. In RAW, the result of an action identifies the degree of success or failure. The degree of success is a value that ranges from 1 to 5, where 1 is a minimal success (or failure) while a 5 is a spectacular one. Every 20 points of difference between the threshold and the action result, the degree of success is raised by 1 point.
 
 Difference|Degree of Success
 ---|---:
@@ -65,11 +65,11 @@ Every time a natural 1 or a natural 20 are rolled, the roll is considered critic
 
 ### Untrained actions
 
-In addition to a list of abilities, Jinx uses the idea of traits. Each character is defined by three traits: body, mind and spirit. These traits determine the starting point of each ability. If a character is not trained in a specific ability, instead of using their ability value, they will use their trait value and they will have the possibility to become proficient in that ability.
+In addition to a list of abilities, RAW uses the idea of traits. Each character is defined by three traits: body, mind and spirit. These traits determine the starting point of each ability. If a character is not trained in a specific ability, instead of using their ability value, they will use their trait value and they will have the possibility to become proficient in that ability.
 
 ### A note on combat
 
-Combat is no different than any other action in Jinx. Someone expert in melee can attack or parry if attacked. There is no initiative or rounds; players declare their actions and the actions are carried out in the order in which they are declared. If a single character wants to do multiple actions in comparison with other
+Combat is no different than any other action in RAW. Someone expert in melee can attack or parry if attacked. There is no initiative or rounds; players declare their actions and the actions are carried out in the order in which they are declared. If a single character wants to do multiple actions in comparison with other
 
 <div class="page-break"></div>
 
@@ -87,24 +87,15 @@ The foundation of a character are their traits. Each character has 30 points to 
 
 ### Abilities
 
-In Jinx, abilities are the cornerstone of the action resolution. Each ability belongs to one of the three traits. Each character starts their journey with a total of 60 points to distribute amongst their abilities. The starting value of each ability is the value of the trait the ability belongs to. A character can distribute the points in how many abilities they feel like; however, the player cannot assign more than 20 points to a single ability.
+In RAW, abilities are the cornerstone of the action resolution. Each ability belongs to one of the three traits. Each character starts their journey with a total of 60 points to distribute amongst their abilities. The starting value of each ability is the value of the trait the ability belongs to. A character can distribute the points in how many abilities they feel like; however, the player cannot assign more than 20 points to a single ability.
 
 Deciding how to distribute points is an art more than a science. Putting a few points in many abilities may generate a jack of all trades which is the master of none. On the other side picking only three abilities maxed out to 20 points each will generate strong weaknesses in the character. As a rule of thumb, picking 6 abilities and distributing the points amongst those generates a rounded, balanced character with strength and weaknesses alike.
 
 ### Backstory
 
-Role playing game is much more than numbers. While Jinx focuses on game mechanics, it also recognises the importance of having well rounded characters. A character can thrive only when its player understand the story and the motives for the character to exists. These can be identified by telling how the character came to be. A simple way to write a backstory is to start from their traits and abilities. By using those as blueprint to identify each character's past, it is easy to write a consistent backstory.
+Role playing game is much more than numbers. While RAW focuses on game mechanics, it also recognises the importance of having well rounded characters. A character can thrive only when its player understand the story and the motives for the character to exists. These can be identified by telling how the character came to be. A simple way to write a backstory is to start from their traits and abilities. By using those as blueprint to identify each character's past, it is easy to write a consistent backstory.
 
 Please note we stand for storytelling, and storytellers should rely on characters' backstory to create personal, intense adventures. While this is not easily measurable as a simple stat, we highly recommend to focus on this. Not only it will give storytellers ways of making campaigns more interesting for the players; it will help players get in character much faster and with more intensity.
-
-### Character psychology
-
-Many times players have trouble bonding with their characters, because of the complexity of the separation between player and character. To simplify players' lives and provide storytellers with a simple way of understanding a character, Jinx strongly suggests each player to run a personality test as if in their character's shoes. The simplest way of identifying a character psychology is through a "five big personalities" test (https://www.truity.com/test/big-five-personality-test). This test produces a very simple outcome called OCEAN Model (https://en.wikipedia.org/wiki/Big_Five_personality_traits) that defines five element of a personality:
-* Openness to experience _(inventive/curious vs. consistent/cautious)_
-* Conscientiousness _(efficient/organized vs. easy-going/careless)_
-* Extraversion _(outgoing/energetic vs. solitary/reserved)_
-* Agreeableness _(friendly/compassionate vs. challenging/detached)_
-* Neuroticism _(sensitive/nervous vs. secure/confident)_
 
 ### Character motivations
 
@@ -112,7 +103,7 @@ One of the elements that help players to bond with their characters and give the
 
 ### Life Points and Death
 
-As in every roleplaying games, the rules surrounding death include elements as life points and when a character dies. Jinx is no different, every character has 40 life points + their body value.
+As in every roleplaying games, the rules surrounding death include elements as life points and when a character dies. RAW is no different, every character has 40 life points + their body value.
 
 When a character loses all their life points due to damages, they die. An injured character can recover their life points either by resting, at the rate of 1 point per hour of rest, or with the help of medical abilities.
 
@@ -133,7 +124,7 @@ The initial 60 points define a character as a beginner. This is the default star
 
 ## Character Progression
 
-Jinx consider characters' progression as a progression in their abilities. Characters' traits and life points remains the same for the entire life of a character. Characters become better at doing what they do, therefore they are allowed to grow after each played session.
+RAW consider characters' progression as a progression in their abilities. Characters' traits and life points remains the same for the entire life of a character. Characters become better at doing what they do, therefore they are allowed to grow after each played session.
 
 Each time a character successfully uses an ability, then they can try and level it up at the end of each session. At storytellers' discretion, the ability can be levelled up even without an open roll, when a character performs an action which does not necessarily require a roll.
 
@@ -164,9 +155,9 @@ Player characters learn new abilities just by trying and use them when unskilled
 
 ## Ability list
 
-Jinx is a core mechanics, which means it has no direct link to any specific settings. To create a baseline and help storytellers and players alike with examples of abilities, Jinx focuses on a contemporary game, where characters live in a 2019 world.
+RAW is a core mechanics, which means it has no direct link to any specific settings. To create a baseline and help storytellers and players alike with examples of abilities, RAW focuses on a contemporary game, where characters live in a 2019 world.
 
-It is also important to notice that Jinx is a minimalist game, which means that it tries to group similar skills under one ability.
+It is also important to notice that RAW is a minimalist game, which means that it tries to group similar skills under one ability.
 
 ### Body abilities
 
@@ -198,36 +189,3 @@ It is also important to notice that Jinx is a minimalist game, which means that 
 * **Persuasion**
 * **Psychology**
 * **Willpower**
-
-<div class="page-break"></div>
-
-## Storytelling
-
-A game is only as good as the story that is told, and to tell great story, you need to know how to build campaigns and adventures. In this book, you won't find any random encounter generator, because when you learn how to plot an adventure, you will never need one anymore.
-
-In this chapter, you will learn the basis of the three main elements of a game: campaigns, adventures and scenes. You will learn how to plot and run each and everyone of them.
-
-### Plotting Campaigns
-
-### Writing Adventures
-
-### Setting up Scenes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
