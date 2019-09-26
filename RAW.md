@@ -1,4 +1,4 @@
-# RAW
+# RAW Roleplaying Game
 
 RAW is a set of minimalist mechanics to run a Role Playing Game. The game is an ability-based tabletop role-playing game. We designed this initial set of rules to support games set up in the current world. Yet, it is crucial to understand that RAW is a set of mechanics. Its goal is to help tell stories, and you can adapt it to support other settings. To do this, you need to change the list of abilities.
 
