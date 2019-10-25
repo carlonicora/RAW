@@ -40,16 +40,7 @@ This means that starting from the main plot, every time you meet a detail which 
 
 By starting from a single master plot and by exploring all the details will begin creating your world in minute details. This is what you want because by spending a few hours (or a few days) on refining the initial plot, you will detail your world so much so that moving forward and starting to plan how your player characters will interact with it will be simple.
 
-> ---
-> **Example**
->
-> ***Martin Hume** is a young politician within the **Conservative Party**. His career started when he was still at university, where he excelled in his debating class and where he met his mentor, **Professor Franklin Holbert**. Martin wants to become the younger Prime Minister in history.
-> 
-> ---
-> 
-> 
->
-> ---
+[An example of how to evolve the infomration](campaigns/fishbone.md)
 
 ## How to make a campaign come to life
 
