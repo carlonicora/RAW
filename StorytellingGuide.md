@@ -470,8 +470,9 @@ Once you have your [ABT](#abt) and [Story Circle](#story-circle) [session](#sess
 
 The number of scenes you should write per-session depends entirely on your tabletop role playing game group.
 
-So, how is a scene built? Well, in its shortest form, a scene has two attributes: a trigger and a required action. Additionally, the scene can contain a goal, some notes and different [building blocks](#the-building-blocks-of-your-world) of the [world building](#world-building).
+So, how is a scene built? Well, in its shortest form, a scene has three attributes:  a title, a trigger and a required action. Additionally, the scene can contain a goal, some notes and different [building blocks](#the-building-blocks-of-your-world) of the [world building](#world-building).
 
+- **Title**: for ease of reference I title every scene, referring to the stage of the [Story Circle Session Plot](#session). This title is written so that I should understand what I am talking about immediately.
 - **Trigger**: the trigger tells how a scene comes to life, or more simply how and when it starts. This is important as it helps you, the Storyteller, to present it in the best possible way.
 - **Required Action**: this is by far **the most important thing you can write down for each scene** and it is the description of what the player characters are supposed to do. Don't underestimate this part, as it is equally challenging to consider and easy to oversee. Without it, the scene becomes a boring set of information you impose on the players (sometimes is needed, but it is much more fun if the player characters must do something to gain those information). Generally I like to start the required action with a verb (*investigate*, *convince*, *fight*, *discuss*, *decide*, *unlock*, ...) because it forces me to put myself in the player characters' shoes.
 - **Notes**: sometimes a scene can have complex interactions. I use the notes to summarise everything the player characters need to live or understand in a bullet list. Remember that reading while being the Storyteller is not easy, so make sure everything is easily consumable during the session.
@@ -480,7 +481,38 @@ So, how is a scene built? Well, in its shortest form, a scene has two attributes
 You may notice that I don't write a description or a goal for each scene. I find those information redundant. As long as I have clear how to trigger the scene and what the player characters have to do, the rest is either obvious (*the goals for example*) or can be improvised (*the descriptions as example*).
 
 ```
+Example of a scenes (from multiple parts in the Story Circle Session Plot)
 
+(She realises that the place is deep into the Dark Side of the Force, that
+seems to be stemming out from the presence itself.)
+- The Dark Side is strong in this place (Take)
+- Trigger: While Kith-shan is talking to the spirit of Exar-Kun, she starts
+feeling cold
+- Action: Kith-shan should reach her surrounding through the Force, and see
+the world through it, realising that the Dark Side seems to be coming from the
+tomb itself.
+
+(Kith-shan realises the presence has much more to do with the Siths than with
+the Jedi, and this is perceived by Exar-Kun, who tries to enslave her.)
+- In the enemy's nest (Return)
+- Trigger: Exar-Kun will realise Kith-shan has perceived the Dark Side
+emanating from the tomb, and wants to make sure she pities her.
+- Action: realise that the Dark Side comes from the spirit, not just from the tomb
+- Notes:
+- Exar-Kun will look at the tomb, trying to pity Kith-shan: "*I have been
+forced to live in a place strong in the Dark Side. I won't deny my faith was
+tested, but I am one with the Light Side of the Force, and the Force is one
+with me.*"
+
+(Kith-shan realises the presence has much more to do with the Siths than with
+the Jedi, and this is perceived by Exar-Kun, who tries to enslave her.)
+- I want your body (Return)
+- Trigger: Exar-Kun will reach for Kith-shan, trying to possess her body, she
+will feel a cold like she never felt before.
+- Action: Reach through the Force and repell Exar-Kun
+- Notes:
+- Exar-Kun is sloppy here, and he will go for speed more than precision.
+It will be simple for Kith-shan to repel him.
 ```
 
 ## World Building
