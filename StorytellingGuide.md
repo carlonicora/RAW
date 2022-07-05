@@ -30,15 +30,9 @@ A role playing game is a collaborative effort to enjoy the time we have.
 
 In this guide I will give you examples of how I write my stories. The examples will follow the story of *Kith-shan*, an ex Jedi Padawan who survived Order 66, and it is now going around the Empire-dominated galaxy trying to survive and find his place.
 
-```
-Example
-
-You survived Order 66, but that came at a cost. All your friends were
-slaughtered, and your master perished in order to save your life.
-This was 5 years ago, 5 long years in which you have lost your path,
-in which you have forgotten what it means to be a Jedi, so busy trying
-to hide yourself and silence your inner dialogs and demons.
-```
+> *Example*
+>
+> You survived Order 66, but that came at a cost. All your friends were slaughtered, and your master perished in order to save your life. This was 5 years ago, 5 long years in which you have lost your path, in which you have forgotten what it means to be a Jedi, so busy trying to hide yourself and silence your inner dialogs and demons.
 
 ## Writing structures
 
@@ -55,31 +49,23 @@ The ABT story structure is a way of telling a story in four simple parts:
 - (**B**ut) a challenge
 - (**T**herefore) a resolution
 
-```
-I need something
-AND I try to get it
-BUT there is an unexpected issue in the process
-THEREFORE I need to change the way I am to fulfil my need
-```
+> I need something
+> AND I try to get it
+> BUT there is an unexpected issue in the process
+> THEREFORE I need to change the way I am to fulfil my need
 
 This wave of need/try/fail/succeed is the perfect structure to keep high the interest in your players.
 
-```
-Example of an ABT Adventure Plot
+> Example of an ABT Adventure Plot
+>
+> After arriving on Tatooine in search for a Jedi Master who is rumoured to hide in the desolate planet, Kith-shan sees her contact being killed in front of her eyes.
+>
+> **AND** decides to investigate the reasons behind the murder
+>
+> **BUT** when she finds the Tusken Raider who killed her, she realises her connection with the Force has weakened
+>
+> **THEREFORE** she fights the Tusken Raider without the Force and learns that the rumours are true: there is a Force User in the Dune Sea of Tatooine.
 
-After arriving on Tatooine in search for a Jedi Master who is
-rumoured to hide in the desolate planet, Kith-shan sees her contact
-being killed in front of her eyes.
-
-- AND decides to investigate the reasons behind the murder
-
-- BUT when she finds the Tusken Raider who killed her, she realises
-her connection with the Force has weakened
-
-- THEREFORE she fights the Tusken Raider without the Force and learns
-that the rumours are true: there is a Force User in the Dune Sea of
-Tatooine.
-```
 
 In the short example above, you can see that there is tension. The Jedi Padawan needs something (talking to an old contact, finding a master, understanding why her contact was killed) and goes through some hurdles to get to something tangible. But she fails in the middle, there is a moment of despair when she can't use the Force as she was used to, but she resorts to changing her life, and is rewarded with the thing she dreams the most: finding a Jedi Master.
 
@@ -109,42 +95,16 @@ The eight steps are grouped in four different stages:
 
 As you can see the groups of the story circle are practically the same as the four steps of the [ABT](#abt) method. This is why I use both: I start with the [ABT](#abt) and then I detail it with the [Story Circle](#story-circle).
 
-
-```
-Example of a Story Circle Adventure Plot
-
-- You: Kith-shan arrives on Tatooine looking or a Jedi Master who is
-rumoured to be on the planet.
-
-- Need: She must speak to her contact, but she witness her murdered by
-a Tusken Raider and gets the impression the Raider was waiting for her to
-arrive before killing her contact. She feels that her only hope of
-finding the Jedi Master is running away.
-
-- Go: Kith-shan starts running behind the Raider and dodges a few
-groups of Stormtroopers
-
-- Search: She manage to see that the Tusken Raider is moving towards a
-specific part of the Dune Sea and recovers something they dropped by
-mistake: parts of a lightsaber.
-
-- Find: Kith-shan finds the Tusken Raiders' camp and realises that they
-have Jedi relics, but realises her connection with the Force is much
-weaker than she thought.
-
-- Take: She identifies the killer, but fails to acquire any additional
-knowledge about the rumoured Jedi Master. At the lowest point, tired
-and dehydrated, she receives a vision of her old Master, who tells her
-that patience and perseverance wins over every hurdle.
-
-- Return: Kith-shan, sees the killer moving away from the camp, and
-manages to fight and defeat him.
-
-- Change: She finds a holo message in the Raider's pocket of a shadowy
-figure that tells them Kith-shan was coming on Tatooine, ordering them
-to kill her and make her disappear in the Dune Sea before investigating
-the rumours of a Jedi in a specific part of the Dune Sea.
-```
+> Example of a Story Circle Adventure Plot
+> - **You**: Kith-shan arrives on Tatooine looking or a Jedi Master who is
+rumoured to be on the planet. and if I write something long?
+> - **Need**: She must speak to her contact, but she witness her murdered by a Tusken Raider and gets the impression the Raider was waiting for her to arrive before killing her contact. She feels that her only hope of finding the Jedi Master is running away.
+> - **Go**: Kith-shan starts running behind the Raider and dodges a few groups of Stormtroopers
+> - **Search**: She manage to see that the Tusken Raider is moving towards a specific part of the Dune Sea and recovers something they dropped by mistake: parts of a lightsaber.
+> - **Find**: Kith-shan finds the Tusken Raiders' camp and realises that they have Jedi relics, but realises her connection with the Force is much weaker than she thought.
+> - **Take**: She identifies the killer, but fails to acquire any additional knowledge about the rumoured Jedi Master. At the lowest point, tired and dehydrated, she receives a vision of her old Master, who tells her that patience and perseverance wins over every hurdle.
+> - **Return**: Kith-shan, sees the killer moving away from the camp, and manages to fight and defeat him.
+> - **Change**: She finds a holo message in the Raider's pocket of a shadowy figure that tells them Kith-shan was coming on Tatooine, ordering them to kill her and make her disappear in the Dune Sea before investigating the rumours of a Jedi in a specific part of the Dune Sea.
 
 As you can see, the Story Circle allows me to go much more in the adventure's details. Yet, when I write it, I always start from its simplified version: the [ABT](#abt) writing structure.
 
