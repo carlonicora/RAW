@@ -30,7 +30,7 @@ A role playing game is a collaborative effort to enjoy the time we have.
 
 In this guide I will give you examples of how I write my stories. The examples will follow the story of *Kith-shan*, an ex Jedi Padawan who survived Order 66, and it is now going around the Empire-dominated galaxy trying to survive and find his place.
 
-> *Example*
+> **Example**
 >
 > You survived Order 66, but that came at a cost. All your friends were slaughtered, and your master perished in order to save your life. This was 5 years ago, 5 long years in which you have lost your path, in which you have forgotten what it means to be a Jedi, so busy trying to hide yourself and silence your inner dialogs and demons.
 
@@ -50,13 +50,16 @@ The ABT story structure is a way of telling a story in four simple parts:
 - (**T**herefore) a resolution
 
 > I need something
-> AND I try to get it
-> BUT there is an unexpected issue in the process
-> THEREFORE I need to change the way I am to fulfil my need
+>
+> **AND** I try to get it
+>
+> **BUT** there is an unexpected issue in the process
+>
+> **THEREFORE** I need to change the way I am to fulfil my need
 
 This wave of need/try/fail/succeed is the perfect structure to keep high the interest in your players.
 
-> Example of an ABT Adventure Plot
+> **Example of an ABT Adventure Plot**
 >
 > After arriving on Tatooine in search for a Jedi Master who is rumoured to hide in the desolate planet, Kith-shan sees her contact being killed in front of her eyes.
 >
@@ -95,7 +98,7 @@ The eight steps are grouped in four different stages:
 
 As you can see the groups of the story circle are practically the same as the four steps of the [ABT](#abt) method. This is why I use both: I start with the [ABT](#abt) and then I detail it with the [Story Circle](#story-circle).
 
-> Example of a Story Circle Adventure Plot
+> **Example of a Story Circle Adventure Plot**
 > - **You**: Kith-shan arrives on Tatooine looking or a Jedi Master who is
 rumoured to be on the planet. and if I write something long?
 > - **Need**: She must speak to her contact, but she witness her murdered by a Tusken Raider and gets the impression the Raider was waiting for her to arrive before killing her contact. She feels that her only hope of finding the Jedi Master is running away.
@@ -124,48 +127,33 @@ To make this work, you must know your players and their characters well. Their m
 
 Consider the two examples below.
 
-```
-Example of Adventure Hook
-
-You reached Mos Eisley, and in the cantina you notice that everyone
-casts suspicious looks at you. One of the bartenders gets close and
-says:
-"I am sorry, but we had lots of troubles with foreigners, you know...
-lots of people gets mugged."
-He eyes your lightsabers
-"People are scared here, but seeing your kind, would you be interested
-in going to the dune sea and look for a Tusken Raider who is causing
-all these troubles? We can pay for it."
-```
+> **Example of Adventure Hook**
+>
+> You reached Mos Eisley, and in the cantina you notice that everyone casts suspicious looks at you. One of the bartenders gets close and says:
+>
+> "*I am sorry, but we had lots of troubles with foreigners, you know... lots of people gets mugged.*"
+>
+> He eyes your lightsabers
+>
+> "*People are scared here, but seeing your kind, would you be interested in going to the dune sea and look for a Tusken Raider who is causing all these troubles? We can pay for it.*"
 
 It's *blah*. Probably the player characters had other things in their mind, and they can easily refuse, destroying your adventure hook.
 
-```
-Example of Need
-
-As you get into the cantina, you look around. There's an old
-acquaintance of yours, one of those lovely scoundrels whom you had the
-pleasure (and displeasure as well) to deal with in the past. As soon as
-you move your first steps, you notice she looks frightened, nervously
-eyeing a Tusken Rider sitting at her side.
-
-At a moment notice the Raider, after having seen you, takes their
-blaster our and shoots her, creating a massive panic. The Raider seemed
-to look at you as if they knew you, as if this was planned and this was
-a message for you. As soon as the crowd disperses, most of whom just
-decided to drop on the ground, you see the Raider getting out from the
-back door, leaving the corpse of your friend to the ground.
-
-"Run, they will come back for us", you hear people screaming
-
-"It's 'them'", other are whispering, looking at you, clearly out of
-context in the shoddy cantina.
-
-"We don't want your 'kind'" the bartender says, while looking at you.
-
-"Imperials are coming!" shouts someone trying to find a place where to
-become invisible to the Stormtroopers on their way to the cantina.
-```
+> **Example of a Need**
+>
+> As you get into the cantina, you look around. There's an old acquaintance of yours, one of those lovely scoundrels whom you had the pleasure (and displeasure as well) to deal with in the past. As soon as you move your first steps, you notice she looks frightened, nervously eyeing a Tusken Rider sitting at her side.
+>
+>At a moment notice the Raider, after having seen you, takes their blaster our and shoots her, creating a massive panic. The Raider seemed to look at you as if they knew you, as if this was planned and this was a message for you. As soon as the crowd disperses, most of whom just decided to drop on the ground, you see the Raider getting out from the back door, leaving the corpse of your friend to the ground.
+>
+> "*Run, they will come back for us*", you hear people screaming
+>
+> "*It's 'them'*", other are whispering, looking at you, clearly out of context in the shoddy cantina.
+>
+> "*We don't want your 'kind'*" the bartender says, while looking at you.
+>
+> "*Imperials are coming!*" shouts someone trying to find a place where to become invisible to the Stormtroopers on their way to the cantina.
+>
+> **What do you do?**
 
 A person you knew was murdered in front of your eyes, and you don't know much about it. Considering you are a Jedi Padawan, it's highly likely you won't just turn around and leave. I don't even need to offer you a reward to run behind the Tusken Raider, I gave you a solid reason for you to do it. You need to stop them and understand why the Tusken Raider seemed to be waiting for you before killing your contact.
 
@@ -222,14 +210,15 @@ The second is the [Story Circle campaign plot](#story-circle-campaign-plot), whi
 It is important to spend as much time as needed on making sure the [ABT](#abt) campaign plot and the [world building](#world-building) is an extensive overview of what the player characters may encounter. The [world building](#world-building) exercise should come after having written the [ABT](#abt) campaign plot and should expand the stories around the main non-player characters.
 
 
-```
-Example of an ABT campaign plot
-
-The spirit of Exar-Kun has awakened on Yavin 4, willing to reconquer the galaxy
-AND he hunts to possess a body powerful enough to support him
-BUT the Emperor feels his presence and sends Darth Vader to eliminate him
-THEREFORE Exar-Kun must accept some allies to overpower the Siths and rule the galaxy
-```
+> **Example of an ABT campaign plot**
+>
+> The spirit of Exar-Kun has awakened on Yavin 4, willing to reconquer the galaxy
+>
+> **AND** he hunts to possess a body powerful enough to support him
+>
+> **BUT** the Emperor feels his presence and sends Darth Vader to eliminate him
+>
+> **THEREFORE** Exar-Kun must accept some allies to overpower the Siths and rule the galaxy
 
 As you can see in the example above, there is absolutely no mention of the player characters or how they are going to interact with the campaign plot. In here, I have decided to use examples from the Star Wars Canon and Legend lore, but you can use anything that pops in your mind, as long as it follows a non-player character story arc.
 
@@ -252,42 +241,24 @@ The [Story Circle](#story-circle) campaign plot should intertwine with the [ABT 
 
 Always remember to link the [ABT non-player character-focussed campaign plot](#abt-campaign-plot) with the long form [Story Circle](#story-circle) player character-focussed one.
 
-```
-Example of Story Circle campaign plot
-
-- You: The band of rebels
-The player characters come together and realise they all have something in common: they
-are all Force Users.
-
-- Need: The power is nothing without control
-The player characters face the first trouble and they realise they must find someone
-who can train them in the ways of the Force.
-
-- Go: The hunt for a master
-The player characters start looking for a Jedi Master which can help them learn, and they
-discover rumours of one on Tatooine, but finding them proves challenging.
-
-- Search: The path of the Force
-The player characters have found a Jedi Master, and need to improve their skills. They
-end up on Yavin 4, where they are tempted by a still-weak spirit of Exar-Kun.
-
-- Find: The secret weapon of the Empire
-The player characters go to Ilum to acquire the Kyber crystals for their lightsaber,
-but find that the Empire is collecting Kyber crystal for a super weapon.
-
-- Take: Exar-Kun
-The player character should come in contact with Exar-Kun, who will possess their
-Jedi Master's body.
-
-- Return: Between the hammer and the anvil
-The player characters will find themselves between Exar-Kun and the Empire, but they
-will be skilled enough to be able to play a part in the upcoming finale.
-
-- Change: The lesser of two evils or no evils?
-The player characters will come to the conclusion of the campaign. They are no longer
-Force sensitive, they are Jedi, and they can change the face of the Galaxy in the big
-showdown.
-```
+> **Example of Story Circle campaign plot**
+>
+> - **You**: "*The band of rebels*".
+> The player characters come together and realise they all have something in common: they are all Force Users.
+> - **Need**: "*The power is nothing without control*"
+> The player characters face the first trouble and they realise they must find someone who can train them in the ways of the Force.
+> - **Go**: "*The hunt for a master*"
+> The player characters start looking for a Jedi Master which can help them learn, and they discover rumours of one on Tatooine, but finding them proves challenging.
+> - **Search**: "*The path of the Force*"
+> The player characters have found a Jedi Master, and need to improve their skills. They end up on Yavin 4, where they are tempted by a still-weak spirit of Exar-Kun.
+> - **Find**: "*The secret weapon of the Empire*"
+> The player characters go to Ilum to acquire the Kyber crystals for their lightsaber,but find that the Empire is collecting Kyber crystal for a super weapon.
+> - **Take**: "*Exar-Kun*"
+> The player character should come in contact with Exar-Kun, who will possess their Jedi Master's body.
+> - **Return**: "*Between the hammer and the anvil*"
+> The player characters will find themselves between Exar-Kun and the Empire, but they will be skilled enough to be able to play a part in the upcoming finale.
+> - **Change**: "*The lesser of two evils or no evils?*"
+> The player characters will come to the conclusion of the campaign. They are no longer Force sensitive, they are Jedi, and they can change the face of the Galaxy in the big showdown.
 
 What you are writing here is not the [Adventure](#adventure) plot. You don't need to add too many details to the adventure ideas. You should only focus on the [Story Circle](#story-circle) plot of the campaign. Every other details, especially those regarding the later adventures, should remain just a guideline.
 
@@ -320,25 +291,15 @@ The plot for the adventures is a simple [ABT](#abt) plot.
 
 To simplify my job, I copy the short adventure description I have written in my [Story Circle campaign plot](#story-circle-campaign-plot).
 
-```
-Example of an ABT Adventure Plot (Adventure 4 in the Campaign plot)
-
-(Adventure idea: The player characters have found a Jedi Master, and need to
-improve their skills. They end up on Yavin 4, where they are tempted by a
-still-weak spirit of Exar-Kun.)
-
-After having found a Jedi Master, Kith-shan realises that Tatooine is not a
+> **Example of an ABT Adventure Plot (Adventure 4 in the Campaign plot)**
+>
+> *(Adventure idea: The player characters have found a Jedi Master, and need to improve their skills. They end up on Yavin 4, where they are tempted by a still-weak spirit of Exar-Kun.)*
+>
+> - After having found a Jedi Master, Kith-shan realises that Tatooine is not a
 safe place where to live and be trained
-
-- AND finds out about a moon around the giant Yavin 4 with old abandoned temples
-that are perfect for being trained
-
-- BUT when they start training on Yavin 4, they start perceiving the Dark Side
-of the force to be very strong, and a presence that is trying to tempt them to
-the dark side
-
-- THEREFORE they have to fight back the evil spirit and remain in the Light Side
-```
+> - **AND** finds out about a moon around the giant Yavin 4 with old abandoned temples that are perfect for being trained
+> - **BUT** when they start training on Yavin 4, they start perceiving the Dark Side of the force to be very strong, and a presence that is trying to tempt them to the dark side
+> - **THEREFORE** they have to fight back the evil spirit and remain in the Light Side
 
 The more you move from writing a [campaigns](#campaign) plot down to [adventures](#adventure), [sessions](#session) and [scenes](#scene), the more you will add details. The overarching plot of the campaign starts becoming more and more detailed and comes to detailed life the more you go one level lower. You have to make sure that before you start writing a plot, you check where that specific plot lives, so you can reuse as many already written ideas.
 
@@ -354,72 +315,35 @@ Remember: all this writing and plotting can easily be thrown out of the window i
 
 As for the [adventures](#adventure) there is a right moment to plot a session, and it is when the previous session is played. There are so many moving parts in a tabletop role playing game, that the change in one small detail have the power to change the entire universe. Be ready to embrace the changes your players do to your plot, and use them to enhance your ideas. They will soon start joking that you take their ideas and use them, so they will be careful in saying anything, but secretly every player loves when the storyteller takes their ideas and plunge them in the game.
 
-```
-Example of an ABT Session plot (Session 3 -BUT- in the Adventure Plot)
-
-(BUT when they start training on Yavin 4, they start perceiving the Dark Side
-of the force to be very strong, and a presence that is trying to tempt them to
-the dark side)
-
-Kith-shan is intensely training under the supervision of his Master and needs
-to reach the top of the temple to prove her ability in the Force
-
-- AND she trains and runs blindfolded through the temple until she reaches some
-sealed doors she can only open through the Force
-
-- BUT in the throne room, she feels a presence (Exar-Kun) who appears as a ghost
-and talks to her. It tells her to be the spirit of a long-deceased Jedi, asking
-to be helped to find its resting place in the galaxy
-
-- THEREFORE she needs to decide how to treat the presence while she will be
-tempted to help the presence to find its resting place in the galaxy.
-```
+> **Example of an ABT Session plot (Session 3 -BUT- in the Adventure Plot)**
+>
+> *(Session Idea: BUT when they start training on Yavin 4, they start perceiving the Dark Side of the force to be very strong, and a presence that is trying to tempt them to the dark side)*
+> - Kith-shan is intensely training under the supervision of his Master and needs to reach the top of the temple to prove her ability in the Force
+> - **AND** she trains and runs blindfolded through the temple until she reaches some sealed doors she can only open through the Force
+> - **BUT** in the throne room, she feels a presence (Exar-Kun) who appears as a ghost and talks to her. It tells her to be the spirit of a long-deceased Jedi, asking to be helped to find its resting place in the galaxy
+> - **THEREFORE** she needs to decide how to treat the presence while she will be tempted to help the presence to find its resting place in the galaxy.
 
 In this [ABT](#abt) session plot, which should be played in a single session of 3/4 hours, the Storyteller should be able to start filling the player characters' time with lots of things to do, choices to make and secrets to investigate and discover. This is the reason why the [ABT](#abt) writing structure alone is not enough to detail what the player characters will face (granted you have time to write more, which I normally do).
 
 To help comes the use of the [Story Circle](#story-circle) writing structure, which stems from the [ABT](#abt) session plot you have just written.
 
-```
-Example of a Story Circle Session plot (Session 3 -BUT- in the Adventure Plot)
-
-(Kith-shan is intensely training under the supervision of his Master)
-
-- You: Kith-shan is at the base of the old temple and preparing for the daily
-training with her Master.
-
-- Need: Her Master tells her she should run through the temple blindfolded,
-allowing only the Force and her other senses to show her the way to the throne
-room, which is on the top of the temple itself.
-
-(AND she trains and runs blindfolded through the temple until she reaches some
-
-sealed doors she can only open through the Force)
-
-- Go: Kith-shan starts concentrating and after some time she is ready to run
-blindfolded through the maze or room and stairs in the temple.
-
-- Search: She finally arrives at the top of the temple, where a single huge room
-rest peacefully behind sealed doors she needs to open with the Force.
-
-(BUT in the throne room, she feels a presence (Exar-Kun) who appears as a ghost
-and talks to her. It tells her to be the spirit of a long-deceased Jedi, asking
-to be helped to find its resting place in the galaxy)
-
-- Find: once in the throne room, Kith-shan encounters the ghost of Exar-Kun, who
-tries to seduce her in helping him to find its resting place.
-
-- Take: She realises that the place is deep into the Dark Side of the Force, that
-seems to be stemming out from the presence itself.
-
-(THEREFORE she needs to decide how to treat the presence while she will be
-tempted to help the presence to find its resting place in the galaxy)
-
-- Return: Kith-shan realises the presence has much more to do with the Siths
-than with the Jedi, and this is perceived by Exar-Kun, who tries to enslave her.
-
-- Change: She can decide how to manage the spirit of Exar-Kun and run back to
-her Master to tell him what's hidden in the throne room,
-```
+> **Example of a Story Circle Session plot (Session 3 -BUT- in the Adventure Plot)**
+>
+> *(Kith-shan is intensely training under the supervision of his Master)*
+> - **You**: Kith-shan is at the base of the old temple and preparing for the daily training with her Master.
+> - **Need**: Her Master tells her she should run through the temple blindfolded, allowing only the Force and her other senses to show her the way to the throne room, which is on the top of the temple itself.
+>
+> *(AND she trains and runs blindfolded through the temple until she reaches some sealed doors she can only open through the Force)*
+> - **Go**: Kith-shan starts concentrating and after some time she is ready to run blindfolded through the maze or room and stairs in the temple.
+> - **Search**: She finally arrives at the top of the temple, where a single huge room rest peacefully behind sealed doors she needs to open with the Force.
+>
+> *(BUT in the throne room, she feels a presence (Exar-Kun) who appears as a ghost and talks to her. It tells her to be the spirit of a long-deceased Jedi, asking to be helped to find its resting place in the galaxy)*
+> - **Find**: once in the throne room, Kith-shan encounters the ghost of Exar-Kun, who tries to seduce her in helping him to find its resting place.
+> - **Take**: She realises that the place is deep into the Dark Side of the Force, that seems to be stemming out from the presence itself.
+>
+> *(THEREFORE she needs to decide how to treat the presence while she will be tempted to help the presence to find its resting place in the galaxy)*
+> - **Return**: Kith-shan realises the presence has much more to do with the Siths than with the Jedi, and this is perceived by Exar-Kun, who tries to enslave her.
+> - **Change**: She can decide how to manage the spirit of Exar-Kun and run back to her Master to tell him what's hidden in the throne room.
 
 This longer form adds many more details to the session. It is now much easier to start plotting scenes and giving more definition to the world. In some occasions this is more than enough to run a session; however, the devil is in the details, and more often than not, Storytellers fail to consider what the player characters should **do**.
 
@@ -441,40 +365,26 @@ So, how is a scene built? Well, in its shortest form, a scene has three attribut
 
 You may notice that I don't write a description or a goal for each scene. I find those information redundant. As long as I have clear how to trigger the scene and what the player characters have to do, the rest is either obvious (*the goals for example*) or can be improvised (*the descriptions as example*).
 
-```
-Example of a scenes (from multiple parts in the Story Circle Session Plot)
-
-(She realises that the place is deep into the Dark Side of the Force, that
-seems to be stemming out from the presence itself.)
-- The Dark Side is strong in this place (Take)
-- Trigger: While Kith-shan is talking to the spirit of Exar-Kun, she starts
-feeling cold
-- Action: Kith-shan should reach her surrounding through the Force, and see
-the world through it, realising that the Dark Side seems to be coming from the
-tomb itself.
-
-(Kith-shan realises the presence has much more to do with the Siths than with
-the Jedi, and this is perceived by Exar-Kun, who tries to enslave her.)
-- In the enemy's nest (Return)
-- Trigger: Exar-Kun will realise Kith-shan has perceived the Dark Side
-emanating from the tomb, and wants to make sure she pities her.
-- Action: realise that the Dark Side comes from the spirit, not just from the tomb
-- Notes:
-- Exar-Kun will look at the tomb, trying to pity Kith-shan: "*I have been
-forced to live in a place strong in the Dark Side. I won't deny my faith was
-tested, but I am one with the Light Side of the Force, and the Force is one
-with me.*"
-
-(Kith-shan realises the presence has much more to do with the Siths than with
-the Jedi, and this is perceived by Exar-Kun, who tries to enslave her.)
-- I want your body (Return)
-- Trigger: Exar-Kun will reach for Kith-shan, trying to possess her body, she
-will feel a cold like she never felt before.
-- Action: Reach through the Force and repell Exar-Kun
-- Notes:
-- Exar-Kun is sloppy here, and he will go for speed more than precision.
-It will be simple for Kith-shan to repel him.
-```
+> **Example of a scenes (from multiple parts in the Story Circle Session Plot)**
+>
+> *(She realises that the place is deep into the Dark Side of the Force, that seems to be stemming out from the presence itself.)*
+> - **The Dark Side is strong in this place (*Take*)**
+>  - **Trigger**: While Kith-shan is talking to the spirit of Exar-Kun, she starts feeling cold
+>  - **Action**: Kith-shan should reach her surrounding through the Force, and see the world through it, realising that the Dark Side seems to be coming from the tomb itself.
+>
+> *(Kith-shan realises the presence has much more to do with the Siths than with the Jedi, and this is perceived by Exar-Kun, who tries to enslave her.)*
+> - **In the enemy's nest (*Return*)**
+>  - **Trigger**: Exar-Kun will realise Kith-shan has perceived the Dark Side emanating from the tomb, and wants to make sure she pities her.
+>  - **Action**: realise that the Dark Side comes from the spirit, not just from the tomb
+>  - **Notes**:
+>    - Exar-Kun will look at the tomb, trying to pity Kith-shan: "*I have been forced to live in a place strong in the Dark Side. I won't deny my faith was tested, but I am one with the Light Side of the Force, and the Force is one with me.*"
+>
+> *(Kith-shan realises the presence has much more to do with the Siths than with the Jedi, and this is perceived by Exar-Kun, who tries to enslave her.)*
+> - **I want your body (*Return*)**
+>  - **Trigger**: Exar-Kun will reach for Kith-shan, trying to possess her body, she will feel a cold like she never felt before.
+>  - **Action**: Reach through the Force and repell Exar-Kun
+>  - **Notes**:
+>    - Exar-Kun is sloppy here, and he will go for speed more than precision. It will be simple for Kith-shan to repel him.
 
 ## World Building
 
