@@ -117,7 +117,8 @@ Example of a Story Circle Adventure Plot
 rumoured to be on the planet.
 
 - Need: She must speak to her contact, but she witness her murdered by
-a Tusken Raider and gets the impression the Raider was waiting for her to arrive before killing her contact. She feels that her only hope of
+a Tusken Raider and gets the impression the Raider was waiting for her to
+arrive before killing her contact. She feels that her only hope of
 finding the Jedi Master is running away.
 
 - Go: Kith-shan starts running behind the Raider and dodges a few
