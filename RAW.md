@@ -163,29 +163,29 @@ It is also important to notice that RAW is a minimalist game, which means that i
 
 * **Athletics**
 * **Combat-Firearms**
+* **Combat-HandToHand**
 * **Combat-Melee**
 * **Intimidate**
-* **Piloting**
+* **Piloting/Drive**
 * **Mechanics/Repair**
-* **Survival**  
 
 ### Mind abilities
 
-* **Computer**
+* **Cryptography**
 * **Fast Talk**
-* **History**
 * **Language**
-* **Law**
+* **Library**
 * **Medicine**
 * **Perception**
-* **Science**
+* **Technology**
 
 ### Spirit abilities
 
-* **Acting**
-* **Cooking**
+* **Craft**
 * **Empathy**
 * **Leadership**
+* **Occult**
 * **Persuasion**
-* **Psychology**
+* **Stealth**
+* **Survival**
 * **Willpower**
