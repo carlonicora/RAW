@@ -388,9 +388,15 @@ You may notice that I don't write a description or a goal for each scene. I find
 
 ## World Building
 
+World building is the process of creating a set of information around the world your player characters will live in. It does not necessarily means you have to start drawing maps and lores, but it might if you are creating a brand new world.
+
+In line with the simplicity used so far, world building is about writing building blocks that will help you managing a consistent game, with a list of information always available. It will also help your players, as you will be able to conjure up details quickly and consistently, which will enhance their enjoyment.
+
 ### The world your player characters live in
 
 #### Creating the world
+
+The creation of your world is a creative process which is very similar to
 
 #### An Ever-changing world
 

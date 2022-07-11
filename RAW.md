@@ -51,11 +51,11 @@ Succeeding in an action is rarely a yes/no result. In RAW, the result of an acti
 
 Difference|Degree of Success
 ---|---:
-0-19|1
-20-39|2
-40-59|3
-60-79|4
-80+|5
+0-24|1
+25-49|2
+50-74|3
+75-99|4
+100+|5
 
 The degree of success is the multiplier for any weapon damage.
 
