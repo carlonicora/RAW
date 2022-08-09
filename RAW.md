@@ -51,11 +51,11 @@ Succeeding in an action is rarely a yes/no result. In RAW, the result of an acti
 
 Difference|Degree of Success
 ---|---:
-0-19|1
-20-39|2
-40-59|3
-60-79|4
-80+|5
+0-24|1
+25-49|2
+50-74|3
+75-99|4
+100+|5
 
 The degree of success is the multiplier for any weapon damage.
 
@@ -163,29 +163,29 @@ It is also important to notice that RAW is a minimalist game, which means that i
 
 * **Athletics**
 * **Combat-Firearms**
+* **Combat-HandToHand**
 * **Combat-Melee**
 * **Intimidate**
-* **Piloting**
+* **Piloting/Drive**
 * **Mechanics/Repair**
-* **Survival**  
 
 ### Mind abilities
 
-* **Computer**
+* **Cryptography**
 * **Fast Talk**
-* **History**
 * **Language**
-* **Law**
+* **Library**
 * **Medicine**
 * **Perception**
-* **Science**
+* **Technology**
 
 ### Spirit abilities
 
-* **Acting**
-* **Cooking**
+* **Craft**
 * **Empathy**
 * **Leadership**
+* **Occult**
 * **Persuasion**
-* **Psychology**
+* **Stealth**
+* **Survival**
 * **Willpower**
