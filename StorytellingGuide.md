@@ -295,8 +295,7 @@ To simplify my job, I copy the short adventure description I have written in my 
 >
 > *(Adventure idea: The player characters have found a Jedi Master, and need to improve their skills. They end up on Yavin 4, where they are tempted by a still-weak spirit of Exar-Kun.)*
 >
-> - After having found a Jedi Master, Kith-shan realises that Tatooine is not a
-safe place where to live and be trained
+> - After having found a Jedi Master, Kith-shan realises that Tatooine is not a safe place where to live and be trained
 > - **AND** finds out about a moon around the giant Yavin 4 with old abandoned temples that are perfect for being trained
 > - **BUT** when they start training on Yavin 4, they start perceiving the Dark Side of the force to be very strong, and a presence that is trying to tempt them to the dark side
 > - **THEREFORE** they have to fight back the evil spirit and remain in the Light Side
@@ -304,6 +303,49 @@ safe place where to live and be trained
 The more you move from writing a [campaigns](#campaign) plot down to [adventures](#adventure), [sessions](#session) and [scenes](#scene), the more you will add details. The overarching plot of the campaign starts becoming more and more detailed and comes to detailed life the more you go one level lower. You have to make sure that before you start writing a plot, you check where that specific plot lives, so you can reuse as many already written ideas.
 
 You will also notice that using an [ABT](#abt) writing structure in the [adventures](#adventure) plot will help you writing the sessions. Four [sessions](#session) per adventure means that every [session](#session) will refer to a sentence in your [ABT](#abt) adventure plot.
+
+#### Pitfalls of a simple Adventure Structure
+
+Writing an adventure with the [ABT](#abt) writing structure has one major drawback: the simplicity with which you can write its plot means that it's easy to make it excessively simple, devoiding the adventure from real interest. This happens when the [ABT](#abt) plot makes sense, but does not have enough depth. When writing the [ABT](#abt) plot for an adventure, you should focus on answering a few questions:
+
+- What do the player characters need?
+- When they reach what they think they need
+ - What's the price they pay?
+ - What do they discover that pushes them to change?
+- After they changed, what is their true purpose?
+
+You should ask yourself these questions every time after reading your [ABT](#abt) plot for an adventure. I often oversimplify the Adventure plot, thinking I will fix it later. Alas, if your adventure plot is weak, then it will be much harder to correct it with the [Session Plots](#session), and the overall quality of each single session won't be enough to mask a lack of cohesion in the story.
+
+Do yourself a favour, and every time you write your plots, especially when you write the [ABT](#abt) Adventure plot, stop and consider what you wrote and answer the questions. More often than not, asking these questions will make you understand 
+
+> **Example of a weak Adventure Plot**
+> 
+> *(Adventure idea: The player characters have found a Jedi Master, and need to improve their skills. They end up on Yavin 4, where they are tempted by a still-weak spirit of Exar-Kun.)*
+> 
+> - The player characters go to Yavin 4
+> - **AND** they train
+> - **BUT** they talk to the Jedi Master
+> - **THEREFORE** they realise there is a Dark Jedi on Yavin 4
+
+There are many mistakes in the plot above. One of the most important ones is that the entire plot revolves on few encounters. Not enough meat on the fire to produce some serious sessions, but let's disect this plot and understand where we failed.
+
+> The player characters go to Yavin 4
+
+This is not a good opening statement for an [ABT](#abt) plot. It does not place the player characters in front of a need. You just catapult them in another place, which highly likely will take a single [Scene](#scene), not an entire session. It also skips the most important part of an Adventure: the **need**. If your players won't feel the need to do something, they will try and do something else.
+
+> - **AND** they train
+
+This part of the [ABT](#abt) plot should see the struggles of the player characters trying to fulfil their needs. Instead, it is just a footnote without any details. Do you expect your player characters to train for an entire session? I am not saying you can't expect them to do it if you introduced a need that is strong enough. Yet, you are doing yourself a disservice here: you are not helping yourself to write the second [session](#session) of the adventure, and you will spend much more time later to fix this.
+
+> - **BUT** they talk to the Jedi Master
+
+Here we see again the idea for a session reduced to a single [scene](#scene). If you have three to four hours of session, do you think that the player characters will spend all their time in a single coversation? What's the price they have to pay for fulfilling their non-existing need? Is it spending four hours of session in a single conversation with their Master the pain? Because I can't see anything else.
+
+> - **THEREFORE** they realise there is a Dark Jedi on Yavin 4
+
+How? Who? What? When? You just prepared yourself for a failure here. In three weeks' time, when you will have to write your fourth session of your adventure, you won't know where to start. You shoud elevate the player characters in the last stint of the [ABT](#abt) plot. On the contrary, you fall flat.
+
+The only advantage in writing an adventure plot like this one is that you won't have to write the plot for the [sessions](#session), as your players will highly likely refuse to follow it.
 
 ### Session
 
@@ -346,6 +388,12 @@ To help comes the use of the [Story Circle](#story-circle) writing structure, wh
 > - **Change**: She can decide how to manage the spirit of Exar-Kun and run back to her Master to tell him what's hidden in the throne room.
 
 This longer form adds many more details to the session. It is now much easier to start plotting scenes and giving more definition to the world. In some occasions this is more than enough to run a session; however, the devil is in the details, and more often than not, Storytellers fail to consider what the player characters should **do**.
+
+#### Separate the Adventure plot and its first Session plot
+
+Because I write an [adventure](#adventure) plot only after the previous adventure is finished, and a [session](#session) when the previous session is finished, you will find yourself with two plots to write after an [adventure](#adventure) is completed. I found that writing a session is easier, as it is less abstract than an adventure one, and this creates an issue: I tend to spend less time in writing the [adventure](#adventure) plot than its first [session](#session). This creates a problem: your [adventure](#adventure) plot will risk to be weaker, as you will try and focus on writing an amazing session.
+
+Remember that every type of plot has its place and its importance. Failing to write a good [adventure](#adventure) plot will come biting you back when the player characters won't feel committed to the adventure.
 
 ### Scene
 
