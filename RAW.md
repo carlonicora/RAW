@@ -76,6 +76,18 @@ For example, if a character in a sword melee wants to attack two opponent and pa
 - second attack: -20
 - second parry: -40
 
+## Hero Points
+
+Each character has a pool of points called "Hero Points", which are points that can change the tide of a contest or a fight, just because our characters are heroes. The pool can contain up to 100 points and these can be used as bonus during a roll.
+
+Let's say your character wants to crack the clues, and you get a total of 57. Two successes! But with just 3 more points you can get three successes, making it easier to solve the puzzle. Or what if your character is trying to deal a final blow to the dragon. Your attack score is 75, and theirs parry is 87? You know you can kill the dragon now. Spending 12 her points you hit, but spending 32 you may deal more damage, finally getting rid of the creature forever.
+
+### Hero Point Replenishment
+
+The Hero Points might have a chance to be replenished at the beginning of every session. Similar to how you can 
+
+### Inspiration
+
 ## Character Creation
 
 There are two element of a character creation: boring numbers and exciting stories. The mechanics of the games help define a character through a series of stats which identifies each character's ability. Yet, the most important part in the creation of a character is their backstory and their personality.
