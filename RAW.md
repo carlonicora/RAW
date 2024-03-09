@@ -154,10 +154,11 @@ Everyone can propose an inspiration award, and the Game Master should encourage 
 
 Every time a player receives an inspiration token, their hero points pool is increased by 3 hero points.
 
-The Game Masters should use the inspiration as tool to create more cohesiveness to the party, creating a way for players to support each other in creating
+The Game Masters should use the inspiration as tool to create more cohesiveness to the party, creating a way for players to support each other in creating a better game.
 
 ### Donations
 
+Players can also decide to donate some of their hero points to another character, for a spectacular success. In order to do so, the Game Masters should ask the donor to explain why they are doing it and how this identifies visually. Maybe the character is helping another, or when the sword is ready to strike, it's that hope that is shared. The Game Master should make the donation of Hero Points a true moment of party unity.
 
 ## Ability list
 
