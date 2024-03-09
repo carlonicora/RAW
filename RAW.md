@@ -160,6 +160,10 @@ The Game Masters should use the inspiration as tool to create more cohesiveness 
 
 Players can also decide to donate some of their hero points to another character, for a spectacular success. In order to do so, the Game Masters should ask the donor to explain why they are doing it and how this identifies visually. Maybe the character is helping another, or when the sword is ready to strike, it's that hope that is shared. The Game Master should make the donation of Hero Points a true moment of party unity.
 
+### New Characters
+
+Each new character should start with 50 hero points.
+
 ## Ability list
 
 ### Athletics
