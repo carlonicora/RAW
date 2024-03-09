@@ -140,13 +140,21 @@ Each character has a pool of points called "Hero Points", which are points that 
 
 Let's say your character wants to crack the clues, and you get a total of 57. Two successes! But with just 3 more points you can get three successes, making it easier to solve the puzzle. Or what if your character is trying to deal a final blow to the dragon. Your attack score is 75, and theirs parry is 87? You know you can kill the dragon now. Spending 12 her points you hit, but spending 32 you may deal more damage, finally getting rid of the creature forever.
 
+The idea behind the hero points is to provide the players more agency in the narrative structure. The players should identify moments in the game where succeeding in something is important to them, and having hero points allow it.
+
 ### Hero Point Replenishment
 
 The Hero Points might have a chance to be replenished at the beginning of every session. Similar to how you can increase your abilities with bonus points, every session you can try and replenish your pool of hero points by rolling a d100 and adding the successes to the pool.
 
 ### Inspiration
 
-Another important source of hero points replenishment is inspirations. Inspirations are tokens that are awarded to players for doing something amazing. Intense roleplay scenes, fantastic characterisation, heroic actions
+Another important source of hero points replenishment is inspirations. Inspirations are tokens that are awarded to players for doing something amazing. Intense roleplay scenes, fantastic characterisation, heroic actions... everything that makes the game better.
+
+Everyone can propose an inspiration award, and the Game Master should encourage players to reward each other; however, while everyone should propose an inspiration award, only the Game Master is allowed to award it.
+
+Every time a player receives an inspiration token, their hero points pool is increased by 3 hero points.
+
+The Game Masters should use the inspiration as tool to create more cohesiveness to the party, creating a way for players to support each other in creating
 
 ### Donations
 
