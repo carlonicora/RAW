@@ -58,17 +58,13 @@ The degree of success is the multiplier for any weapon damage.
 
 ### Critical Roll
 
-Every time a natural 1 or a natural 20 are rolled, the roll is considered critical. A natural 1 will remove 20 points from the character ability value. A natural 20 will add 40 points to it.
+Every time a natural 1 or a natural 20 are rolled, the roll is considered critical. A natural 1 will remove 20 points from the character ability value. A natural 20 will add 20 points to it.
 
 | Ability Score | Roll | Total | Successes |
 | ------------- | ---- | ----- | --------- |
 | 35            | 10   | 45    | 2         |
 | 35            | 1    | 15    | 0         |
 | 35            | 20   | 75    | 3         |
-
-### Untrained actions
-
-In addition to a list of abilities, RAW uses the idea of traits. Each character is defined by three traits: body, mind and spirit. These traits determine the starting point of each ability. If a character is not trained in a specific ability, instead of using their ability value, they will use their trait value and they will have the possibility to become proficient in that ability.
 
 ### Combat
 
@@ -86,13 +82,13 @@ There are two element of a character creation: boring numbers and exciting stori
 
 ### Abilities
 
-In RAW, abilities are the cornerstone of the action resolution. Each ability belongs to one of the three traits. Each character starts their journey with a total of 100 points to distribute amongst their abilities. The starting value of each ability is the value of the trait the ability belongs to. A character can distribute the points in how many abilities they feel like.
+In RAW, abilities are the cornerstone of the action resolution. Each character starts their journey with a total of 100 points to distribute amongst their abilities. A character can distribute the points in how many abilities they feel like.
 
 Deciding how to distribute points is an art more than a science. Putting a few points in many abilities may generate a jack of all trades which is the master of none. On the other side picking only a handful of abilities with high values in each will generate strong character with lots of  weaknesses.
 
 ### Backstory
 
-Role playing game is much more than numbers. While RAW focuses on game mechanics, it also recognises the importance of having well rounded characters. A character can thrive only when their player understands the story and the motives for the character to exists. These can be identified by telling how the character came to be. A simple way to write a backstory is to start from their traits and abilities. By using those as blueprint to identify each character's past, it is easy to write a consistent backstory.
+Role playing game is much more than numbers. While RAW focuses on game mechanics, it also recognises the importance of having well rounded characters. A character can thrive only when their player understands the story and the motives for the character to exists. These can be identified by telling how the character came to be. A simple way to write a backstory is to start from their abilities. By using those as blueprint to identify each character's past, it is easy to write a consistent backstory.
 
 Please note we stand for storytelling, and Game Masters should rely on characters' backstory to create personal, intense adventures. While this is not easily measurable as a simple stat, we highly recommend to focus on this. Not only it will give Game Masters ways of making campaigns more interesting for the players; it will help players get in character much faster and with more intensity.
 
