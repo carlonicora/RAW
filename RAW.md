@@ -117,7 +117,7 @@ RAW consider characters' progression as a progression in their abilities, where 
 
 The progression is extremely simple, and reflects the minimal approach used throughout these rules. Every session played, a character should receive 3 bonus points to try and update their abilities or learn new ones.
 
-As RAW fosters fewer ability rolls, keeping track of each used ability can be misleading. Also, characters are more likely to progress in abilities which are most often used, generating a party whose characters are specialised in the same way. Character progression in RAW is the epitome of the "Rule of Cool": let players shape their characters how they love: everyone is going to have so much fun!
+Players decide whichever ability to increase they like, without limiting them to those previously used. Character progression in RAW is the epitome of the "Rule of Cool": let players shape their characters how they love: everyone is going to have so much fun!
 
 ### Levelling up abilities
 
