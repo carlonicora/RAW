@@ -66,12 +66,18 @@ Every time a natural 1 or a natural 20 are rolled, the roll is considered critic
 
 ### Combat
 
+Divide in Melee VS Ranged!
+
 Combat in RAW is dangerous and deadly. Combat is divided in two parts: attack and defence. The first is resolved by the player similarly to a normal unchallenged action. To hit, a character needs to get one or more successes, no matter the opponent. The amount of successes determines the amount of damages dealt, as the degree of success is the multiplier of the weapon base damage. A skilled fighter can inflict critical damages with a single hit.
 
 Once the attack phase is complete, damages can be reduced by the defending player in two ways: their ability in combat and their armour. The passive melee ability and the weapon wielded determine the number of damages a character can avoid thanks to a parry, and it is calculated by multiplying the number of base successes of the ability only for half the base damage of the weapon wielded.
 
-> Erik (melee ability of 43) attacks the dragon with a large sword (base damage 8). He rolls a 19, which gives him a total of 62, 3 successes. Erik deliver 24 points of damages to the Dragon (8x3); however the Dragon has a natural armour that can absorb 15 points of damage for each attack and has a melee ability of 55 (2 successes). He defends with his claws (base damage 10). He shaves off 35 points of damage (15 from the armour and 2 * )
+> Elrik (melee ability of 43) attacks the dragon with a large sword (base damage 8). He rolls a 19, which gives him a total of 62, 3 successes. Erik deliver 24 points of damages to the Dragon (8x3); however the Dragon has a natural armour that can absorb 15 points of damage for each attack and has a melee ability of 55 (2 successes). He defends with his claws (base damage 10). It shaves off 25 points of damage (15 from the armour and 2 * 10/2 from its melee).
+> Elrik sword clashes against the dragon's scaly skin, sending sparks flying around and inflicting the dragon a mere 1 point of damage. Elrik knows he is in trouble.
 
+But a fight can also be very balances
+
+> Tanis is fighting a hobgoblin. The half-elf wears no armour and the hobgoblin wears an old leather that absorbs 2 damages per hit. Tanis (melee 42) attacks (dice roll 10) the hobgoblin, delivering 16 damages (attack 52 - 2 successes with a sword with base damage of 8). The hobgoblin sports a short sword (base damage 6) and can parry just 5 points of damages (2 for the leather armour and 3 for the weapon defence, halving the   )
 ## Character Creation
 
 There are two element of a character creation: boring numbers and exciting stories. The mechanics of the games help define a character through a series of stats which identifies each character's ability. Yet, the most important part in the creation of a character is their backstory and their personality.
