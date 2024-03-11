@@ -54,8 +54,6 @@ Succeeding in an action is rarely a yes/no result. In RAW, the result of an acti
 | 80-99      |                 5 |
 | 100+       |                 6 |
 
-The degree of success is the multiplier for any weapon damage.
-
 ### Critical Roll
 
 Every time a natural 1 or a natural 20 are rolled, the roll is considered critical. A natural 1 will remove 20 points from the character ability value. A natural 20 will add 20 points to it.
@@ -68,13 +66,10 @@ Every time a natural 1 or a natural 20 are rolled, the roll is considered critic
 
 ### Combat
 
-Combat is no different than any other action in RAW. Someone expert in melee can attack or parry if attacked. There is no initiative or rounds; players declare their actions and the actions are carried out in the order in which they are declared. If a single character wants to do multiple actions in comparison with other characters, excluding the first attack and the first parry/dodge, they will get a negative bonus of 20 for each additional action.
+Combat in RAW is dangerous and deadly. Combat is divided in two parts: attack and defence. The first is resolved by the player similarly to a normal unchallenged action. To hit, a character needs to get one or more successes, no matter the opponent. The amount of successes determines the amount of damages dealt, as the degree of success is the multiplier of the weapon base damage. A skilled fighter can inflict critical damages with a single hit.
 
-For example, if a character in a sword melee wants to attack two opponent and parry both their attacks, he will roll their abilities with this bonuses:
-- first attack: no negative bonus
-- first parry: no negative bonus
-- second attack: -20
-- second parry: -40
+Once the attack phase is complete, damages can be reduced by the defe
+
 
 ## Character Creation
 
