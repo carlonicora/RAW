@@ -77,7 +77,7 @@ Once the attack phase is complete, damages can be reduced by the defending playe
 
 But a fight can also be very balances
 
-> Tanis is fighting a hobgoblin. The half-elf wears no armour and the hobgoblin wears an old leather that absorbs 2 damages per hit. Tanis (melee 42) attacks (dice roll 10) the hobgoblin, delivering 16 damages (attack 52 - 2 successes with a sword with base damage of 8). The hobgoblin sports a short sword (base damage 6) and can parry just 5 points of damages (2 for the leather armour and 3 for the weapon defence, halving the   )
+> Tanis is fighting a hobgoblin. The half-elf wears no armour and the hobgoblin wears an old leather that absorbs 2 damages per hit. Tanis (melee 42) attacks (dice roll 10) the hobgoblin, delivering 16 damages (attack 52 - 2 successes with a sword with base damage of 8). The hobgoblin sports a short sword (base damage 6) and can parry just 5 points of damages (2 for the leather armour and 3 for the weapon defence, halving the base damage of 6 and multiplying for the 1 success of its 35 melee value). The hobgoblin takes 11 damage from a large slash.
 ## Character Creation
 
 There are two element of a character creation: boring numbers and exciting stories. The mechanics of the games help define a character through a series of stats which identifies each character's ability. Yet, the most important part in the creation of a character is their backstory and their personality.
