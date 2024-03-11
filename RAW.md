@@ -68,8 +68,9 @@ Every time a natural 1 or a natural 20 are rolled, the roll is considered critic
 
 Combat in RAW is dangerous and deadly. Combat is divided in two parts: attack and defence. The first is resolved by the player similarly to a normal unchallenged action. To hit, a character needs to get one or more successes, no matter the opponent. The amount of successes determines the amount of damages dealt, as the degree of success is the multiplier of the weapon base damage. A skilled fighter can inflict critical damages with a single hit.
 
-Once the attack phase is complete, damages can be reduced by the defe
+Once the attack phase is complete, damages can be reduced by the defending player in two ways: their ability in combat and their armour. The passive melee ability and the weapon wielded determine the number of damages a character can avoid thanks to a parry, and it is calculated by multiplying the number of base successes of the ability only for half the base damage of the weapon wielded.
 
+> Erik (melee ability of 43) attacks the dragon with a large sword (base damage 8). He rolls a 19, which gives him a total of 62, 3 successes. Erik deliver 24 points of damages to the Dragon (8x3); however the Dragon has a natural armour that can absorb 15 points of damage for each attack and has a melee ability of 55 (2 successes). He defends with his claws (base damage 10). He shaves off 35 points of damage (15 from the armour and 2 * )
 
 ## Character Creation
 
