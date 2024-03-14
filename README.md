@@ -39,3 +39,11 @@ Each character is granted 100 points to distribute among the following abilities
 | **Willpower**           | Mental fortitude and discipline                   |
 
 Choosing how to distribute these points is crucial. A broad approach makes a character adaptable, while a focused one creates a specialist. This decision sets the stage for your character’s role and how they will navigate the challenges of a campaign.
+
+### Step 2: Passive Abilities
+
+In RAW, abilities also have a passive aspect. For every 20 points in an ability, you get 1 passive point. This shows automatic skills, like defense or mental resistance. For example, if you're good in melee, you're also better at avoiding harm. If you have strong willpower, it's harder for others to read your mind. Knowing your passive points helps you understand what your character can do naturally, without trying.
+
+Understanding these passive abilities is crucial for players, as they define how characters inherently react and protect themselves in the game world, even without active efforts from the player.
+
+|Ability Value|Passive
