@@ -7,3 +7,6 @@ RAW makes it easier to start playing TTRPGs. Unlike games like 5e with many rule
 The system works for any setting, from fantasy to futuristic. Abilities adapt to the context; for example, "technology" might mean different things in different worlds. RAW is all about keeping things broad and flexible to enhance the story, rather than getting caught up in complex rules.
 
 ## Character Creation
+
+In this chapter, we'll dive into creating a character for RAW, a process that sets the stage for your adventures. Unlike other TTRPGs, RAW doesn’t confine characters to specific archetypes or classes. Instead, the abilities you choose carve out your character's identity and capabilities. By selecting abilities that resonate with your vision, you shape who your character is and how they interact with the world. Let's start this journey of crafting a unique character tailored to your story in the world of RAW.
+
