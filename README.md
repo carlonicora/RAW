@@ -99,12 +99,13 @@ In RAW, game mechanics are centred around abilities, dictating both the potentia
 ### Understanding Thresholds and Number of Successes
 - **Thresholds** represent the number of successes needed to perform an action successfully. These are predefined by the Game Master based on the action's difficulty.
 - **Number of Successes:** The total of an ability score plus a dice roll determines the number of successes a character achieves. Every 20 points equal one success, so the total is divided by 20 to determine the total successes.
+- **Failure**: Any result less than 20 is considered a failure.
 
 For instance, if a character has an ability score of 40 and rolls a 15, their total is 55. Divided by 20, this total gives 2 successes. If the action's threshold was 2 successes, the character would meet the required threshold to succeed in the action.
 
 | Total Value (Ability + Roll) | Threshold Type  | Number of Successes |
 | ---------------------------- | --------------- | ------------------- |
-| 0-19                         | Failure         | 0                   |
+| *0-19*                       | *Failure*       | *0*                 |
 | 20-39                        | Simple          | 1                   |
 | 40-59                        | Moderate        | 2                   |
 | 60-79                        | Difficult       | 3                   |
