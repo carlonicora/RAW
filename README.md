@@ -55,9 +55,7 @@ Understanding these passive abilities is crucial for players, as they define how
 | 100+          | 5               |
 
 ### Step 3: Life Points
-Life points in RAW measure your character's physical and mental health. To find your life points, add 20 to the sum of your passive willpower and passive athletics values. This total shows how tough and resilient your character is.
-
-Life points track the wellbeing of your character. If they drop to 0, your character dies. Falling below 10 life points means your character is seriously hurt. Challenges become harder, adding a 20-point penalty to all your rolls. This penalty reflects the struggle of pushing through pain and injury.
+Your character's life points is the sum of your passive willpower, passive athletics values and 20. This total shows how tough and resilient your character is.
 
 ### Step 4: Character Story
 Playing RPGs is about more than just numbers. While RAW focuses on mechanics, it also values the creation of well-rounded characters. A character comes alive through their backstory, shaped by the player’s understanding of their motives and origins.
@@ -93,6 +91,13 @@ In RAW, abilities are the foundation of your character's skills and determine th
 - **Willpower**: Represents mental strength and discipline, crucial for resisting magical enchantment in a fantasy setting or withstanding psychological manipulation in a corporate warfare scenario.
 
 Understanding and choosing the right abilities for your character will greatly influence their role in the game and how they interact with the world around them. Each setting offers unique challenges and opportunities for these abilities to shine.
+
+
+## Life Points
+Life points track the physical and mental wellbeing of your character. If they drop to 0, your character dies. Falling below 10 life points means your character is seriously hurt. Challenges become harder (adding a 20-point penalty to all your rolls) and recovering needs special attention as it reflects the struggle of pushing through a major pain and injury.
+
+### Recovering life points the natural way
+Characters naturally recover 1 life points per day; however, if a character's life has fallen below 10, the maximum amount of life will equal to 9. This indicates a state of physical or mental pain that requires 
 
 ## Action Resolution
 In RAW, game mechanics are centred around abilities, dictating both the potential actions of characters and their success levels. Action resolution involves comparing the total from an ability score and a d20 roll against a set number of required successes, which form the threshold for the action.
