@@ -126,7 +126,6 @@ In unopposed actions, such as shooting or driving, the character's total (abilit
 For opposed actions, one character’s number of successes is pitted against another’s passive ability or active resistance. The initiator of the action must achieve more successes than the defender to succeed in their action.
 
 ### Critical Rolls
-
 Critical rolls occur on natural rolls of 1 or 20. A roll of 1 might signify a critical failure, possibly reducing the number of successes, while a roll of 20 signifies a critical success, which could increase the number of successes achieved.
 
 This revised system streamlines the action resolution process, making it clear that success is quantified by achievable increments of 20 points, which directly translate to the number of successes needed to overcome challenges.
