@@ -169,12 +169,4 @@ The success of unchallenged actions depends on whether the total exceeds the thr
 Opposed actions involve direct confrontation between characters, where the initiator's success depends on overcoming the opponent's passive ability. The character initiating the action rolls a d20 and adds it to their relevant ability score. To succeed, the initiator's total successes must exceed the passive ability score of the opponent.
 
 #### Critical Rolls
-A roll of 1 or 20 is critical, significantly affecting the action’s outcome. A natural 1 reduces the effective ability score by 20 for that action, while a natural 20 increases it by 20, potentially altering the degree of success.
-
-|Ability Score|Roll|Total|Successes|
-|---|---|---|---|
-|35|10|45|2|
-|35|1|15|0|
-|35|20|75|3|
-
-Understanding these mechanics is crucial for players and GMs alike to navigate the challenges and adventures within the RAW system effectively.
+A roll of 1 or 20 is critical, significantly affecting the action’s outcome. A natural 1 denotes a failure to the action, while a natural 20 increases it by 20, potentially altering the degree of success.
