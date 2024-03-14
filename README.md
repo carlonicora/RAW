@@ -95,6 +95,12 @@ Understanding and choosing the right abilities for your character will greatly i
 ## Life Points
 Life points track the physical and mental wellbeing of your character. If they drop to 0, your character dies. Falling below 10 life points means your character is seriously hurt. Challenges become harder (adding a 20-point penalty to all your rolls) and recovering needs special attention as it reflects the struggle of pushing through a major pain and injury.
 
+### Natural Recovery
+Characters in RAW naturally recover one life point per day, reflecting the body's innate ability to heal over time. However, if life points have dropped below 10, indicating severe injury or trauma, natural recovery can only restore a character's life points up to a maximum of 9. This rule ensures that serious injuries require more than just time to heal, emphasising the need for medical intervention or significant rest to fully recover.
+
+### Medical Treatment
+For faster or more complete recovery, especially after life points have fallen below 10, medical treatment becomes essential. Characters with the Medicine ability can perform medical treatments to aid recovery, with each successful medicine check restoring an amount of life points equal to the number of successes achieved. These checks can be attempted each hour, allowing for the possibility of rapid recuperation with effective medical care. 
+
 ### Recovering life points the natural way
 Characters naturally recover 1 life points per day; however, if a character's life has fallen below 10, the maximum amount of life will equal to 9. This indicates a state of physical or mental pain that requires x 
 
