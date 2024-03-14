@@ -153,27 +153,22 @@ Degrees of success
 | 100+       | 6                 |
 
 
-The system categorises actions into three types: automatic, unchallenged, and challenged, each with distinct resolution methods.
+The system categorises actions into three types: automatic, unopposed, and opposed, each with distinct resolution methods.
 
 ### Automatic Actions
 Not every action requires a dice roll. Automatic actions are routine or straightforward tasks that a character can accomplish without rolling, provided their ability score surpasses the relevant threshold. This approach ensures dice rolls are reserved for significant moments, enhancing their impact on the narrative. For example, a character with a 40 in an ability can automatically succeed in trivial tasks related to that ability without rolling.
 
-### Unchallenged Actions
+### Unopposed Actions
 These actions occur without direct opposition, such as shooting a target, investigating a scene, or driving a vehicle. The Game Master sets a threshold based on the task's difficulty. The player then rolls a d20, adding this to their ability score to determine the action's outcome.
 
 `action result = ability + 1d20`
 
 The success of unchallenged actions depends on whether the total exceeds the threshold set by the GM.
 
-#### Challenged Actions
-Challenged actions involve direct opposition, where one character’s action competes against another’s ability. Examples include melee combat or a battle of persuasion against willpower. In these instances, the action result of each participant is calculated, and these results are compared to determine the outcome.
+#### Opposed Actions
+Opposed actions involve direct confrontation between characters, where the initiator's success depends on overcoming the opponent's passive ability. The character initiating the action rolls a d20 and adds it to their relevant ability score. To succeed, the initiator's total successes must exceed the passive ability score of the opponent.
 
-
-#### Degree of Success
-
-In RAW, the margin by which an action result surpasses or falls short of the threshold indicates the degree of success or failure:
-#### Critical Roll
-
+#### Critical Rolls
 A roll of 1 or 20 is critical, significantly affecting the action’s outcome. A natural 1 reduces the effective ability score by 20 for that action, while a natural 20 increases it by 20, potentially altering the degree of success.
 
 |Ability Score|Roll|Total|Successes|
