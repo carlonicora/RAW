@@ -1,3 +1,5 @@
+# RAW Role Playing Game Mechanics
+
 RAW is a tabletop role-playing game designed with simplicity at its core. It simplifies traditional TTRPG mechanics by using a broad-strokes approach to abilities. Unlike games with extensive lists of skills, RAW condenses them into a few versatile abilities. This design lets players act decisively without getting bogged down in rules. For instance, a character skilled in melee can excel in both sword fighting and unarmed combat using the same ability score. This streamlined system keeps the focus on action and narrative progression.
 
 This simplicity promotes a story-driven experience, where the game master uses common sense and creativity to lead the game.
@@ -16,7 +18,7 @@ Let's start this journey of crafting a unique character tailored to your story i
 ### Step 1: Allocating Ability Points
 Character creation begins with the allocation of ability points, forming the foundation of your character’s strengths and weaknesses.
 
-Each character is granted 100 points to distribute among the following abilities:
+Each player is granted 100 points to distribute among the following abilities:
 
 | Ability                 | Short Description                                    |
 | ----------------------- | ---------------------------------------------------- |
