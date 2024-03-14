@@ -145,14 +145,14 @@ Each character is typically allowed one attack per round. However, they can perf
 
 Mechanically a counter-attack works as a normal attack, but it is performed after the opponent completes their attack.
 
-The number of counter-attacks a player character can make is limited by their passive melee score. The first counter-attack incurs a -20 penalty to the attack roll, with each subsequent counter-attack increasing the penalty by an additional -20. This system reflects the growing difficulty of defending against multiple assaults and keeps the combat fair and tactical.
+The number of counter-attacks a player character can make is limited by their passive melee score minus one (the first is used for the player character's attack). The first counter-attack incurs a -20 penalty to the attack roll, with each subsequent counter-attack increasing the penalty by an additional -20. This system reflects the growing difficulty of defending against multiple assaults and keeps the combat fair and tactical.
 
 When facing multiple adversaries, a character cannot initiate multiple attacks in their turn but can react with counter-attacks to incoming attacks from different opponents, with the penalties ensuring that these reactions are balanced against the opportunity to strike back.
 
 ```
-Alia, our hero, has been cornered by three thugs: Jack, Mick and Shack. She has a melee score of 38. When the fight starts, Alia attacks Jack, hitting him and then being attacked back.
+Alia, our hero, has been cornered by three thugs: Jack, Mick and Shack. She has a melee score of 42. When the fight starts, Alia attacks Jack, hitting him and then being attacked back.
 It is then Mick's turn to attack Alia, after which she can counter-attack him.
-Last, but not least, she is attacked by Shack. Unfortunately Alia's passive melee is only 1, so she cannot counter-attack Shack.
+Last, but not least, she is attacked by Shack. Unfortunately Alia's passive melee is only 2, so she can counte attack only once.
 ```
 
 ### Weapon Damage Ratings
