@@ -192,3 +192,20 @@ Armour in RAW provides a static amount of damage reduction, from 1 to 3. Wearing
 | Chain mail  | 2                | 2                           |
 | Plate       | 3                | 3                           |
 Armour can become damaged if an attacker rolls a natural 20, reducing its damage reduction by 1 until repaired.
+
+## Character Progression and Levelling Up
+In RAW, character progression is tied directly to the improvement of abilities, reflecting a character's growing expertise and experience. Unlike some RPGs, life points remain constant, emphasising that progression occurs through skill enhancement rather than physical changes.
+
+### Growth Over Time
+Characters enhance their abilities over time, becoming more proficient in their chosen skills. After each session, players are awarded 3 bonus points. These points can be used to improve existing abilities or to learn new ones, offering flexibility and encouraging creativity in character development.
+
+### Levelling Up Abilities
+Players have two options for levelling up abilities with their bonus points:
+
+**Roll for Improvement:** This method offers the chance for rapid advancement. Players roll a d100, aiming to score higher than their current ability value. Successes in the roll, calculated as every 20 points, increase the ability accordingly. A natural 100 on the roll doubles the number of successes, potentially leading to significant leaps in ability.
+
+This approach is more unpredictable but can result in substantial gains, especially for lower-scored abilities.
+
+**Guaranteed Increment:** For characters with higher ability scores, a more reliable method is to exchange one bonus point for a one-point increase in an ability. This method ensures steady growth and is particularly useful for enhancing already strong skills.
+
+Character progression in RAW adheres to the "Rule of Cool," granting players the freedom to shape their characters in exciting ways and ensuring enjoyment for everyone involved. This approach to levelling up fosters a game environment where character growth is both meaningful and rewarding.
