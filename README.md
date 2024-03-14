@@ -122,26 +122,33 @@ Represents mental strength and discipline, crucial for resisting magical enchant
 Understanding and choosing the right abilities for your character will greatly influence their role in the game and how they interact with the world around them. Each setting offers unique challenges and opportunities for these abilities to shine.
 
 ## Action Resolution
-In RAW, game mechanics are centered around abilities, dictating both the potential actions of characters and their success levels. Action resolution involves comparing the total from an ability score and a d20 roll against a set number of required successes, which form the threshold for the action.
+In RAW, game mechanics are centred around abilities, dictating both the potential actions of characters and their success levels. Action resolution involves comparing the total from an ability score and a d20 roll against a set number of required successes, which form the threshold for the action.
 ### Understanding Thresholds and Number of Successes
 - **Thresholds** represent the number of successes needed to perform an action successfully. These are predefined by the Game Master based on the action's difficulty.
 - **Number of Successes:** The total of an ability score plus a dice roll determines the number of successes a character achieves. Every 20 points equal one success, so the total is divided by 20 to determine the total successes.
 
 For instance, if a character has an ability score of 40 and rolls a 15, their total is 55. Divided by 20, this total gives 2 successes. If the action's threshold was 2 successes, the character would meet the required threshold to succeed in the action.
 
+|Total Value (Ability + Roll)|Threshold Type|Number of Successes|
+|---|---|---|
+|0-19|Trivial|0|
+|20-39|Simple|1|
+|40-59|Moderate|2|
+|60-79|Difficult|3|
+|80-99|Challenging|4|
+|100-119|Extreme|5|
+|120+|Near Impossible|6|
+
 ### Action Types
 Actions in RAW are divided into automatic, unopposed, and opposed categories, each with specific resolution methods.
 
 #### Automatic Actions
-
 Automatic actions don't require a roll. If a character's ability score alone meets the threshold of successes needed, the action is considered automatically successful. This rule saves dice rolling for more pivotal moments within the game's narrative.
 
 #### Unopposed Actions
-
 In unopposed actions, such as shooting or driving, the character's total (ability score plus dice roll) is compared against the threshold of successes. The GM sets this threshold based on how difficult the task should be.
 
 #### Opposed Actions
-
 For opposed actions, one character’s number of successes is pitted against another’s passive ability or active resistance. The initiator of the action must achieve more successes than the defender to succeed in their action.
 
 ### Critical Rolls
