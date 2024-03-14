@@ -76,50 +76,21 @@ Incorporating this information into your character's backstory is crucial for th
 ## Abilities
 In RAW, abilities are the foundation of your character's skills and determine their effectiveness in various situations. Each ability represents a broad range of related actions and competencies. Below is a detailed explanation of each ability and how it can be applied in different settings like fantasy, cyberpunk, or space opera.
 
-### Athletics
-This covers your character's physical activities such as running, jumping, and climbing. In a fantasy setting, it might mean scaling a castle wall, while in a cyberpunk world, it could involve sprinting through neon-lit streets to evade security drones.
-
-### Art and Craft
-Reflects creativity and the ability to make or design things. Whether painting a masterpiece in a medieval world or creating a holographic sculpture in a futuristic society, this ability is key.
-
-### Drive/Pilot
-Indicates proficiency with vehicles, whether it's driving a horse-drawn carriage, piloting a starship through an asteroid field, or manoeuvring a hover-bike in a high-tech city.
-
-### Education
-Represents knowledge and academic learning. This ability could be used to decipher ancient texts in a fantasy library or to understand complex quantum algorithms in a cyberpunk reality.
-
-### Empathy/Psychology
-Involves understanding and influencing emotions and behaviour. It's as useful in negotiating with a tribal leader in a fantasy game as it is in profiling a cybercriminal in a futuristic setting.
-
-### Intimidate/Persuade
-Encompasses both coercion and convincing others. This might mean threatening a city guard to gain information or persuading a corporation executive to fund an expedition in space.
-
-### Investigation
-The skill in gathering and analysing information, crucial for solving mysteries in a gothic horror campaign or uncovering corporate espionage in a cyberpunk thriller.
-
-### Medicine
-Knowledge of healing, applicable in treating plague victims in a medieval world or performing cybernetic surgery in a sci-fi universe.
-
-### Melee Combat
-Shows proficiency in close-quarters combat, whether swinging a sword in a fantasy battle or engaging in a cyber-enhanced fistfight in a dystopian metropolis.
-
-### Occult/Magic
-Understanding mystical forces, relevant in casting spells in a fantasy realm or manipulating arcane energies in an alternative reality.
-
-### Perception
-The ability to notice subtle details, important for spotting an ambush in a dark fantasy forest or detecting a hidden surveillance device in a futuristic office.
-
-### Ranged Combat
-Skill in using ranged weapons, from firing a longbow in a medieval siege to operating a plasma rifle during a space station assault.
-
-### Stealth/Survival
-Proficiency in avoiding detection and enduring harsh conditions, essential for moving unseen through enemy territory or surviving in a post-apocalyptic wasteland.
-
-### Technology
-Expertise in modern and futuristic tools and technology, from repairing a steam engine in a steampunk city to hacking a security network in a cyberpunk world.
-
-### Willpower
-Represents mental strength and discipline, crucial for resisting magical enchantment in a fantasy setting or withstanding psychological manipulation in a corporate warfare scenario.
+- **Athletics**: This covers your character's physical activities such as running, jumping, and climbing. In a fantasy setting, it might mean scaling a castle wall, while in a cyberpunk world, it could involve sprinting through neon-lit streets to evade security drones.
+- **Art and Craft**: Reflects creativity and the ability to make or design things. Whether painting a masterpiece in a medieval world or creating a holographic sculpture in a futuristic society, this ability is key.
+- **Drive/Pilot**: Indicates proficiency with vehicles, whether it's driving a horse-drawn carriage, piloting a starship through an asteroid field, or manoeuvring a hover-bike in a high-tech city.
+- **Education**: Represents knowledge and academic learning. This ability could be used to decipher ancient texts in a fantasy library or to understand complex quantum algorithms in a cyberpunk reality.
+- **Empathy/Psychology**: Involves understanding and influencing emotions and behaviour. It's as useful in negotiating with a tribal leader in a fantasy game as it is in profiling a cybercriminal in a futuristic setting.
+- **Intimidate/Persuade**: Encompasses both coercion and convincing others. This might mean threatening a city guard to gain information or persuading a corporation executive to fund an expedition in space.
+- **Investigation**: The skill in gathering and analysing information, crucial for solving mysteries in a gothic horror campaign or uncovering corporate espionage in a cyberpunk thriller.
+- **Medicine**: Knowledge of healing, applicable in treating plague victims in a medieval world or performing cybernetic surgery in a sci-fi universe.
+- **Melee Combat**: Shows proficiency in close-quarters combat, whether swinging a sword in a fantasy battle or engaging in a cyber-enhanced fistfight in a dystopian metropolis.
+- **Occult/Magic**: Understanding mystical forces, relevant in casting spells in a fantasy realm or manipulating arcane energies in an alternative reality.
+- **Perception**: The ability to notice subtle details, important for spotting an ambush in a dark fantasy forest or detecting a hidden surveillance device in a futuristic office.
+- **Ranged Combat**: Skill in using ranged weapons, from firing a longbow in a medieval siege to operating a plasma rifle during a space station assault.
+- **Stealth/Survival**: Proficiency in avoiding detection and enduring harsh conditions, essential for moving unseen through enemy territory or surviving in a post-apocalyptic wasteland.
+- **Technology**: Expertise in modern and futuristic tools and technology, from repairing a steam engine in a steampunk city to hacking a security network in a cyberpunk world.
+- **Willpower**: Represents mental strength and discipline, crucial for resisting magical enchantment in a fantasy setting or withstanding psychological manipulation in a corporate warfare scenario.
 
 Understanding and choosing the right abilities for your character will greatly influence their role in the game and how they interact with the world around them. Each setting offers unique challenges and opportunities for these abilities to shine.
 
