@@ -122,51 +122,30 @@ Represents mental strength and discipline, crucial for resisting magical enchant
 Understanding and choosing the right abilities for your character will greatly influence their role in the game and how they interact with the world around them. Each setting offers unique challenges and opportunities for these abilities to shine.
 
 ## Action Resolution
-In RAW, the mechanics revolve around abilities, which not only determine the actions players can perform but also their success level. Actions are resolved by comparing the result of an ability check to a predetermined threshold. The ability check consists of a character’s ability score plus a roll of a d20.
+In RAW, game mechanics are centered around abilities, dictating both the potential actions of characters and their success levels. Action resolution involves comparing the total from an ability score and a d20 roll against a set number of required successes, which form the threshold for the action.
+### Understanding Thresholds and Number of Successes
+- **Thresholds** represent the number of successes needed to perform an action successfully. These are predefined by the Game Master based on the action's difficulty.
+- **Number of Successes:** The total of an ability score plus a dice roll determines the number of successes a character achieves. Every 20 points equal one success, so the total is divided by 20 to determine the total successes.
 
-In RAW, the concept of thresholds and degrees of success are interconnected, forming the backbone of action resolution. The threshold is a benchmark number that an action result must meet or exceed to succeed. Here's how they relate:
+For instance, if a character has an ability score of 40 and rolls a 15, their total is 55. Divided by 20, this total gives 2 successes. If the action's threshold was 2 successes, the character would meet the required threshold to succeed in the action.
 
-- **Thresholds** define the difficulty level of an action, ranging from trivial to extreme. These levels are not arbitrary; they are set on a scale from 20 to 100, reflecting the challenge posed by the task at hand.
-- **Degrees of Success** expand on this by quantifying how well an action was performed. The degree of success is determined by the difference between the action result (ability score plus dice roll) and the threshold. This difference is then translated into a success level, ranging from 1 to 6, where 1 represents a minimal success and 6 a spectacular success.
+### Action Types
+Actions in RAW are divided into automatic, unopposed, and opposed categories, each with specific resolution methods.
 
-For example, if a task has a difficulty threshold of 40 (simple), and a character’s action result is 60, the difference is 20. According to the degrees of success table, this difference falls within the 20-39 range, equating to a degree of success of 2. This system ensures that the outcome of actions is not just a binary success or failure but reflects the nuanced performance of the character in the context of the challenge they face.
+#### Automatic Actions
 
-Thresholds
+Automatic actions don't require a roll. If a character's ability score alone meets the threshold of successes needed, the action is considered automatically successful. This rule saves dice rolling for more pivotal moments within the game's narrative.
 
-| Difficulty  | Threshold |
-| ----------- | --------- |
-| Trivial     | 20        |
-| Simple      | 40        |
-| Difficult   | 60        |
-| Challenging | 80        |
-| Extreme     | 100       |
+#### Unopposed Actions
 
-Degrees of success
-
-| Difference | Degree of Success |
-| ---------- | ----------------- |
-| 0-19       | 1                 |
-| 20-39      | 2                 |
-| 40-59      | 3                 |
-| 60-79      | 4                 |
-| 80-99      | 5                 |
-| 100+       | 6                 |
-
-
-The system categorises actions into three types: automatic, unopposed, and opposed, each with distinct resolution methods.
-
-### Automatic Actions
-Not every action requires a dice roll. Automatic actions are routine or straightforward tasks that a character can accomplish without rolling, provided their ability score surpasses the relevant threshold. This approach ensures dice rolls are reserved for significant moments, enhancing their impact on the narrative. For example, a character with a 40 in an ability can automatically succeed in trivial tasks related to that ability without rolling.
-
-### Unopposed Actions
-These actions occur without direct opposition, such as shooting a target, investigating a scene, or driving a vehicle. The Game Master sets a threshold based on the task's difficulty. The player then rolls a d20, adding this to their ability score to determine the action's outcome.
-
-`action result = ability + 1d20`
-
-The success of unchallenged actions depends on whether the total exceeds the threshold set by the GM.
+In unopposed actions, such as shooting or driving, the character's total (ability score plus dice roll) is compared against the threshold of successes. The GM sets this threshold based on how difficult the task should be.
 
 #### Opposed Actions
-Opposed actions involve direct confrontation between characters, where the initiator's success depends on overcoming the opponent's passive ability. The character initiating the action rolls a d20 and adds it to their relevant ability score. To succeed, the initiator's total successes must exceed the passive ability score of the opponent.
 
-#### Critical Rolls
-A roll of 1 or 20 is critical, significantly affecting the action’s outcome. A natural 1 denotes a failure to the action, while a natural 20 increases it by 20, potentially altering the degree of success.
+For opposed actions, one character’s number of successes is pitted against another’s passive ability or active resistance. The initiator of the action must achieve more successes than the defender to succeed in their action.
+
+### Critical Rolls
+
+Critical rolls occur on natural rolls of 1 or 20. A roll of 1 might signify a critical failure, possibly reducing the number of successes, while a roll of 20 signifies a critical success, which could increase the number of successes achieved.
+
+This revised system streamlines the action resolution process, making it clear that success is quantified by achievable increments of 20 points, which directly translate to the number of successes needed to overcome challenges.
