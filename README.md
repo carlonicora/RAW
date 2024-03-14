@@ -18,7 +18,7 @@ Let's start this journey of crafting a unique character tailored to your story i
 ### Step 1: Allocating Ability Points
 Character creation begins with the allocation of ability points, forming the foundation of your character’s strengths and weaknesses.
 
-Each player is granted 100 points to distribute among the following abilities:
+Each player is granted 120 points to distribute among the following abilities:
 
 | Ability                 | Short Description                                    |
 | ----------------------- | ---------------------------------------------------- |

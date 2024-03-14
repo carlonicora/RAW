@@ -2,7 +2,7 @@
 
 # Character Creation
 
-1. **Distribute Ability Points:** Allocate 100 points across the abilities (Athletics,Art and Craft,Drive/Pilot,Education,Empathy/Psychology,Intimidate/Persuade,Investigation,Medicine,Melee Combat,Occult/Magic,Perception,Ranged Combat,Stealth/Survival,TechnologyWillpower)
+1. **Distribute Ability Points:** Allocate 120 points across the abilities (Athletics,Art and Craft,Drive/Pilot,Education,Empathy/Psychology,Intimidate/Persuade,Investigation,Medicine,Melee Combat,Occult/Magic,Perception,Ranged Combat,Stealth/Survival,TechnologyWillpower)
 2. **Calculate Passive Abilities:** Every 20 points in an ability grants 1 passive point, for automatic skills like defence.
 3. **Determine Life Points:** Total of 20 plus passive willpower and athletics scores, indicating health and endurance.
 4. **Develop Character Story:** Create a backstory, including past influences, goals, and personality traits.
