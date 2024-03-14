@@ -161,6 +161,34 @@ This revised system streamlines the action resolution process, making it clear t
 Combat in RAW is straightforward and tactical, focusing on the skill of the combatant rather than relying on random damage rolls. There is no initiative system; player characters act first, followed by non-player characters. The Game Master ensures that each player has the opportunity to act before any player character takes their second turn, maintaining fairness and engagement.
 
 ### Initiating an Attack and Calculating Damage
-In combat, a player initiates an attack by rolling for either a Melee or Ranged attack. To determine if the attack hits, add the ability score to the dice roll. A hit occurs when this total results in at least one success, meaning the combined score reaches the necessary threshold to overcome the opponent's defenses. The number of successes reflects the attacker's proficiency and skill in executing the attack.
+In combat, a player initiates an attack by rolling for either a Melee or Ranged attack. To determine if the attack hits, add the ability score to the dice roll. A hit occurs when this total results in at least one success, meaning the combined score reaches the necessary threshold to overcome the opponent's defences. The number of successes reflects the attacker's proficiency and skill in executing the attack.
 
 Once a hit is confirmed, damage calculation comes into play. Instead of relying on random dice rolls for damage, RAW uses a fixed system where the weapon’s damage rating (1 to 5) is multiplied by the number of successes from the attack roll. This method highlights the importance of skill in combat, allowing a more proficient fighter to inflict greater damage by leveraging their expertise with their weapon.
+### Defending Against Attacks
+When defending, a character's passive melee ability (for melee attacks) or passive athletics (for ranged attacks), along with their armour rating, determines how much damage they can negate. The defender subtracts the sum of their passive ability and armour rating from the incoming damage.
+
+### Multiple Opponents
+In combat, a character is typically allowed one attack per round. However, when facing several adversaries, they can launch attacks against different opponents, with the number of possible attacks capped by their passive melee score (with a minimum of one attack allowed). After the first attack, each subsequent attack within the same round incurs a cumulative penalty of -20 to the attack roll. This rule reflects the increasing difficulty of managing multiple threats simultaneously and ensures that combat remains balanced and strategic.
+
+### Weapon Damage Ratings
+In RAW, weapons are assigned a damage rating that reflects their potential for harm, rather than being categorised. This rating directly influences the damage dealt in combat, with higher-rated weapons inflicting more damage. Here’s an expanded list of common weapons along with their damage ratings:
+
+|Damage Rating|Examples|
+|---|---|
+|1|Kicks, fists, slings, thrown rocks|
+|2|Dagger, club, staff, light crossbow|
+|3|Short sword, spear, hand axe, heavy crossbow|
+|4|Long sword, battle axe, mace, war hammer|
+|5|Greatsword, halberd, flail, longbow|
+
+This streamlined approach allows for quick assessment of a weapon’s impact in combat, focusing on the potential damage output rather than its category or type.
+
+### Armour
+Armour in RAW provides a static amount of damage reduction, from 1 to 3. Wearing armour makes it more difficult to perform athletic actions, with a penalty to successes equal to the armour's damage reduction.
+
+| Armour Type | Damage Reduction | Malus to Athletic Successes |
+| ----------- | ---------------- | --------------------------- |
+| Leather     | 1                | 1                           |
+| Chain mail  | 2                | 2                           |
+| Plate       | 3                | 3                           |
+Armour can become damaged if an attacker rolls a natural 20, reducing its damage reduction by 1 until repaired.
