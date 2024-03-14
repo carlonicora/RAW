@@ -92,7 +92,6 @@ In RAW, abilities are the foundation of your character's skills and determine th
 
 Understanding and choosing the right abilities for your character will greatly influence their role in the game and how they interact with the world around them. Each setting offers unique challenges and opportunities for these abilities to shine.
 
-
 ## Life Points
 Life points track the physical and mental wellbeing of your character. If they drop to 0, your character dies. Falling below 10 life points means your character is seriously hurt. Challenges become harder (adding a 20-point penalty to all your rolls) and recovering needs special attention as it reflects the struggle of pushing through a major pain and injury.
 
