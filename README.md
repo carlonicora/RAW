@@ -42,8 +42,21 @@ Choosing how to distribute these points is crucial. A broad approach makes a cha
 
 ### Step 2: Passive Abilities
 
-In RAW, abilities also have a passive aspect. For every 20 points in an ability, you get 1 passive point. This shows automatic skills, like defense or mental resistance. For example, if you're good in melee, you're also better at avoiding harm. If you have strong willpower, it's harder for others to read your mind. Knowing your passive points helps you understand what your character can do naturally, without trying.
+In RAW, abilities also have a passive aspect. For every 20 points in an ability, you get 1 passive point. This shows automatic skills, like defence or mental resistance. For example, if you're good in melee, you're also better at avoiding harm. If you have strong willpower, it's harder for others to read your mind. Knowing your passive points helps you understand what your character can do naturally, without trying.
 
 Understanding these passive abilities is crucial for players, as they define how characters inherently react and protect themselves in the game world, even without active efforts from the player.
 
-|Ability Value|Passive
+| Ability Value | Passive Ability |
+| ------------- | --------------- |
+| 0-19          | 0               |
+| 20-39         | 1               |
+| 40-59         | 2               |
+| 60-79         | 3               |
+| 80-99         | 4               |
+| 100+          | 5               |
+
+### Step 3: Life Points
+
+Life points in RAW measure your character's physical and mental health. To find your life points, add 20 to the sum of your passive willpower and passive athletics values. This total shows how tough and resilient your character is.
+
+Life points track the wellbeing of your character. If they drop to 0, your character dies. Falling below 10 life points means your character is seriously hurt. Challenges become harder, adding a 20-point penalty to all your rolls. This penalty reflects the struggle of pushing through pain and injury.
