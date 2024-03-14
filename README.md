@@ -60,3 +60,16 @@ Understanding these passive abilities is crucial for players, as they define how
 Life points in RAW measure your character's physical and mental health. To find your life points, add 20 to the sum of your passive willpower and passive athletics values. This total shows how tough and resilient your character is.
 
 Life points track the wellbeing of your character. If they drop to 0, your character dies. Falling below 10 life points means your character is seriously hurt. Challenges become harder, adding a 20-point penalty to all your rolls. This penalty reflects the struggle of pushing through pain and injury.
+
+### Step 4: Character Story
+
+Playing RPGs is about more than just numbers. While RAW focuses on mechanics, it also values the creation of well-rounded characters. A character comes alive through their backstory, shaped by the player’s understanding of their motives and origins.
+
+To develop a rich and believable character in RAW, following these steps provides a solid starting point. Each phase of the narrative construction adds layers to your character, offering depth and relatability. Let's explore these steps to effectively define your character:
+
+- **Backstory:** Initiating with the backstory sets the foundation, giving insight into the character's origins and how past events have shaped their personality and abilities.
+- **Notable Characters in Your Past:** Recognising key individuals in your character’s life helps to flesh out their social and emotional landscape, showing how relationships have influenced their development.
+- **Where Were You 5 Years Ago and What Happened:** This snapshot in time reveals a crucial chapter in your character’s life, highlighting transformative experiences that have led to their current situation.
+- **Want and Need:** Understanding your character’s aspirations and necessities provides motivation and direction, driving their actions within the game’s narrative.
+- **Who Have You Wronged:** Reflecting on past conflicts or transgressions adds complexity to your character, offering opportunities for growth and redemption.
+
