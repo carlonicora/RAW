@@ -159,11 +159,12 @@ This streamlined approach allows for quick assessment of a weapon’s impact in 
 ### Armour
 Armour in RAW provides a static amount of damage reduction, from 1 to 3. Wearing armour makes it more difficult to perform athletic actions, with a penalty to successes equal to the armour's damage reduction.
 
-| Armour Type | Damage Reduction | Malus to Athletic Successes |
-| ----------- | ---------------- | --------------------------- |
-| Leather     | 1                | 1                           |
-| Chain mail  | 2                | 2                           |
-| Plate       | 3                | 3                           |
+| Armour Type | Damage Reduction |
+| ----------- | ---------------- |
+| Leather     | 1                |
+| Chain mail  | 2                |
+| Plate       | 3                |
+
 Armour can become damaged if an attacker rolls a natural 20, reducing its damage reduction by 1 until repaired.
 
 ## Character Progression and Levelling Up
