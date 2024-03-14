@@ -141,7 +141,7 @@ Once a hit is confirmed, damage calculation comes into play. Instead of relying 
 ### Defending Against Attacks
 When defending, a character's passive melee ability (for melee attacks) or passive athletics (for ranged attacks), along with their armour rating, determines how much damage they can negate. The defender subtracts the sum of their passive ability and armour rating from the incoming damage.
 
-### Multiple Opponents
+### Counter Attacks
 In combat, a character is typically allowed one attack per round. However, when facing several adversaries, they can launch attacks against different opponents, with the number of possible attacks capped by their passive melee score (with a minimum of one attack allowed). After the first attack, each subsequent attack within the same round incurs a cumulative penalty of -20 to the attack roll. This rule reflects the increasing difficulty of managing multiple threats simultaneously and ensures that combat remains balanced and strategic.
 
 ### Weapon Damage Ratings
