@@ -120,3 +120,66 @@ Expertise in modern and futuristic tools and technology, from repairing a steam 
 Represents mental strength and discipline, crucial for resisting magical enchantment in a fantasy setting or withstanding psychological manipulation in a corporate warfare scenario.
 
 Understanding and choosing the right abilities for your character will greatly influence their role in the game and how they interact with the world around them. Each setting offers unique challenges and opportunities for these abilities to shine.
+
+## Action Resolution
+In RAW, the mechanics revolve around abilities, which not only determine the actions players can perform but also their success level. Actions are resolved by comparing the result of an ability check to a predetermined threshold. The ability check consists of a character’s ability score plus a roll of a d20.
+
+In RAW, the concept of thresholds and degrees of success are interconnected, forming the backbone of action resolution. The threshold is a benchmark number that an action result must meet or exceed to succeed. Here's how they relate:
+
+- **Thresholds** define the difficulty level of an action, ranging from trivial to extreme. These levels are not arbitrary; they are set on a scale from 20 to 100, reflecting the challenge posed by the task at hand.
+- **Degrees of Success** expand on this by quantifying how well an action was performed. The degree of success is determined by the difference between the action result (ability score plus dice roll) and the threshold. This difference is then translated into a success level, ranging from 1 to 6, where 1 represents a minimal success and 6 a spectacular success.
+
+For example, if a task has a difficulty threshold of 40 (simple), and a character’s action result is 60, the difference is 20. According to the degrees of success table, this difference falls within the 20-39 range, equating to a degree of success of 2. This system ensures that the outcome of actions is not just a binary success or failure but reflects the nuanced performance of the character in the context of the challenge they face.
+
+Thresholds
+
+| Difficulty  | Threshold |
+| ----------- | --------- |
+| Trivial     | 20        |
+| Simple      | 40        |
+| Difficult   | 60        |
+| Challenging | 80        |
+| Extreme     | 100       |
+
+Degrees of success
+
+| Difference | Degree of Success |
+| ---------- | ----------------- |
+| 0-19       | 1                 |
+| 20-39      | 2                 |
+| 40-59      | 3                 |
+| 60-79      | 4                 |
+| 80-99      | 5                 |
+| 100+       | 6                 |
+
+
+The system categorises actions into three types: automatic, unchallenged, and challenged, each with distinct resolution methods.
+
+### Automatic Actions
+Not every action requires a dice roll. Automatic actions are routine or straightforward tasks that a character can accomplish without rolling, provided their ability score surpasses the relevant threshold. This approach ensures dice rolls are reserved for significant moments, enhancing their impact on the narrative. For example, a character with a 40 in an ability can automatically succeed in trivial tasks related to that ability without rolling.
+
+### Unchallenged Actions
+These actions occur without direct opposition, such as shooting a target, investigating a scene, or driving a vehicle. The Game Master sets a threshold based on the task's difficulty. The player then rolls a d20, adding this to their ability score to determine the action's outcome.
+
+`action result = ability + 1d20`
+
+The success of unchallenged actions depends on whether the total exceeds the threshold set by the GM.
+
+#### Challenged Actions
+Challenged actions involve direct opposition, where one character’s action competes against another’s ability. Examples include melee combat or a battle of persuasion against willpower. In these instances, the action result of each participant is calculated, and these results are compared to determine the outcome.
+
+
+#### Degree of Success
+
+In RAW, the margin by which an action result surpasses or falls short of the threshold indicates the degree of success or failure:
+#### Critical Roll
+
+A roll of 1 or 20 is critical, significantly affecting the action’s outcome. A natural 1 reduces the effective ability score by 20 for that action, while a natural 20 increases it by 20, potentially altering the degree of success.
+
+|Ability Score|Roll|Total|Successes|
+|---|---|---|---|
+|35|10|45|2|
+|35|1|15|0|
+|35|20|75|3|
+
+Understanding these mechanics is crucial for players and GMs alike to navigate the challenges and adventures within the RAW system effectively.
