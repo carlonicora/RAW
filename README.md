@@ -209,3 +209,20 @@ This approach is more unpredictable but can result in substantial gains, especia
 **Guaranteed Increment:** For characters with higher ability scores, a more reliable method is to exchange one bonus point for a one-point increase in an ability. This method ensures steady growth and is particularly useful for enhancing already strong skills.
 
 Character progression in RAW adheres to the "Rule of Cool," granting players the freedom to shape their characters in exciting ways and ensuring enjoyment for everyone involved. This approach to levelling up fosters a game environment where character growth is both meaningful and rewarding.
+
+## Hero Points
+Hero Points epitomise the essence of heroism in RAW, providing characters with the potential to dramatically alter the outcome of actions and conflicts. Each character has a Hero Points pool, with a maximum capacity of 100 points. These points can be strategically used to boost roll outcomes, turning near-misses into triumphant successes.
+
+### Utilising Hero Points
+Imagine your character is deciphering a complex code, and you roll a total of 57, achieving two successes. By using 3 Hero Points, you could elevate this to three successes, simplifying the task at hand. Or consider a critical combat scenario where your attack roll is just shy of the dragon's defence. Applying Hero Points can bridge this gap, enabling a decisive victory.
+
+### Replenishing Hero Points
+At the start of each session, players have the opportunity to replenish their Hero Points. This is done by rolling a d100, with each success adding to their Hero Points pool, mirroring the method used for increasing abilities.
+
+### Gaining Inspiration
+Inspiration acts as a secondary means to refill Hero Points. Players earn inspiration tokens through exceptional gameplay, such as impactful role-playing or heroic deeds. While anyone can suggest someone for an inspiration reward, only the Game Master has the authority to grant it. Each inspiration token increases the Hero Points pool by 3.
+
+### Donating Hero Points
+Players may choose to donate their Hero Points to a fellow player, enhancing the collective success of the group. The Game Master should facilitate this exchange by exploring the narrative or strategic reason behind the donation, thereby fostering a sense of unity and shared purpose within the party.
+
+Hero Points are a dynamic tool in RAW, offering players increased control over the narrative flow and the ability to succeed in pivotal moments, thereby enriching the gaming experience.
