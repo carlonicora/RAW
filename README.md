@@ -147,13 +147,13 @@ In combat, a character is typically allowed one attack per round. However, when 
 ### Weapon Damage Ratings
 In RAW, weapons are assigned a damage rating that reflects their potential for harm, rather than being categorised. This rating directly influences the damage dealt in combat, with higher-rated weapons inflicting more damage. Here’s an expanded list of common weapons along with their damage ratings:
 
-|Damage Rating|Examples|
-|---|---|
-|1|Kicks, fists, slings, thrown rocks|
-|2|Dagger, club, staff, light crossbow|
-|3|Short sword, spear, hand axe, heavy crossbow|
-|4|Long sword, battle axe, mace, war hammer|
-|5|Greatsword, halberd, flail, longbow|
+| Damage Rating | Examples                                     |
+| ------------- | -------------------------------------------- |
+| 1             | Kicks, fists, slings, thrown rocks           |
+| 2             | Dagger, club, staff, light crossbow          |
+| 3             | Short sword, spear, hand axe, heavy crossbow |
+| 4             | Long sword, battle axe, mace, war hammer     |
+| 5             | Greatsword, halberd, flail, longbow          |
 
 This streamlined approach allows for quick assessment of a weapon’s impact in combat, focusing on the potential damage output rather than its category or type.
 
