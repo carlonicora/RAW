@@ -156,3 +156,11 @@ For opposed actions, one character’s number of successes is pitted against ano
 Critical rolls occur on natural rolls of 1 or 20. A roll of 1 might signify a critical failure, possibly reducing the number of successes, while a roll of 20 signifies a critical success, which could increase the number of successes achieved.
 
 This revised system streamlines the action resolution process, making it clear that success is quantified by achievable increments of 20 points, which directly translate to the number of successes needed to overcome challenges.
+
+## Combat
+Combat in RAW is straightforward and tactical, focusing on the skill of the combatant rather than relying on random damage rolls. There is no initiative system; player characters act first, followed by non-player characters. The Game Master ensures that each player has the opportunity to act before any player character takes their second turn, maintaining fairness and engagement.
+
+### Initiating an Attack and Calculating Damage
+In combat, a player initiates an attack by rolling for either a Melee or Ranged attack. To determine if the attack hits, add the ability score to the dice roll. A hit occurs when this total results in at least one success, meaning the combined score reaches the necessary threshold to overcome the opponent's defenses. The number of successes reflects the attacker's proficiency and skill in executing the attack.
+
+Once a hit is confirmed, damage calculation comes into play. Instead of relying on random dice rolls for damage, RAW uses a fixed system where the weapon’s damage rating (1 to 5) is multiplied by the number of successes from the attack roll. This method highlights the importance of skill in combat, allowing a more proficient fighter to inflict greater damage by leveraging their expertise with their weapon.
