@@ -142,7 +142,19 @@ Once a hit is confirmed, damage calculation comes into play. Instead of relying 
 When defending, a character's passive melee ability (for melee attacks) or passive athletics (for ranged attacks), along with their armour rating, determines how much damage they can negate. The defender subtracts the sum of their passive ability and armour rating from the incoming damage.
 
 ### Counter Attacks
-In combat, a character is typically allowed one attack per round. However, when facing several adversaries, they can launch attacks against different opponents, with the number of possible attacks capped by their passive melee score (with a minimum of one attack allowed). After the first attack, each subsequent attack within the same round incurs a cumulative penalty of -20 to the attack roll. This rule reflects the increasing difficulty of managing multiple threats simultaneously and ensures that combat remains balanced and strategic.
+Each character is typically allowed one attack per round. However, they can perform counter-attacks when attacked by non-player characters within the same round.
+
+Mechanically a counter-attack works as a normal attack, but it is performed after the opponent completes their attack.
+
+The number of counter-attacks a player character can make is limited by their passive melee score. The first counter-attack incurs a -20 penalty to the attack roll, with each subsequent counter-attack increasing the penalty by an additional -20. This system reflects the growing difficulty of defending against multiple assaults and keeps the combat fair and tactical.
+
+When facing multiple adversaries, a character cannot initiate multiple attacks in their turn but can react with counter-attacks to incoming attacks from different opponents, with the penalties ensuring that these reactions are balanced against the opportunity to strike back.
+
+```
+Alia, our hero, has been cornered by three thugs: Jack, Mick and Shack. She has a melee score of 38. When the fight starts, Alia attacks Jack, hitting him and then being attacked back.
+It is then Mick's turn to attack Alia, after which she can counter-attack him.
+Last, but not least, she is attacked by Shack. Unfortunately Alia's passive melee is only 1, so she cannot counter-attack Shack.
+```
 
 ### Weapon Damage Ratings
 In RAW, weapons are assigned a damage rating that reflects their potential for harm, rather than being categorised. This rating directly influences the damage dealt in combat, with higher-rated weapons inflicting more damage. Here’s an expanded list of common weapons along with their damage ratings:
