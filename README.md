@@ -102,15 +102,15 @@ In RAW, game mechanics are centred around abilities, dictating both the potentia
 
 For instance, if a character has an ability score of 40 and rolls a 15, their total is 55. Divided by 20, this total gives 2 successes. If the action's threshold was 2 successes, the character would meet the required threshold to succeed in the action.
 
-|Total Value (Ability + Roll)|Threshold Type|Number of Successes|
-|---|---|---|
-|0-19|Trivial|0|
-|20-39|Simple|1|
-|40-59|Moderate|2|
-|60-79|Difficult|3|
-|80-99|Challenging|4|
-|100-119|Extreme|5|
-|120+|Near Impossible|6|
+| Total Value (Ability + Roll) | Threshold Type  | Number of Successes |
+| ---------------------------- | --------------- | ------------------- |
+| 0-19                         | Failure         | 0                   |
+| 20-39                        | Simple          | 1                   |
+| 40-59                        | Moderate        | 2                   |
+| 60-79                        | Difficult       | 3                   |
+| 80-99                        | Challenging     | 4                   |
+| 100-119                      | Extreme         | 5                   |
+| 120+                         | Near Impossible | 6                   |
 
 ### Action Types
 Actions in RAW are divided into automatic, unopposed, and opposed categories, each with specific resolution methods.
