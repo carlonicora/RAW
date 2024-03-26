@@ -135,10 +135,9 @@ In unopposed actions, such as shooting or driving, the character's total (abilit
 For opposed actions, one character’s number of successes is pitted against another’s passive ability or active resistance. The initiator of the action must achieve more successes than the defender to succeed in their action.
 
 ### Critical Rolls
-A critical roll occur on natural rolls of 20, which signify a critical success. Rolling a natural 20 gives another 20 points of bonus to the roll. A critical success does not imply an automatic success.
+Critical rolls occur on natural rolls of 1 or 20. A roll of 1 might signify a critical failure, possibly reducing the number of successes, while a roll of 20 signifies a critical success, which could increase the number of successes achieved.
 
-### Fumbles
-A fumble occurs on a natural roll of 1. In this case, whatever the character is trying to achieve, fails.
+This revised system streamlines the action resolution process, making it clear that success is quantified by achievable increments of 20 points, which directly translate to the number of successes needed to overcome challenges.
 
 ## Combat
 Combat in RAW is straightforward and tactical, focusing on the skill of the combatant rather than relying on random damage rolls. There is no initiative system; player characters act first, followed by non-player characters. The Game Master ensures that each player has the opportunity to act before any player character takes their second turn, maintaining fairness and engagement.
