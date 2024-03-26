@@ -1,4 +1,4 @@
-# RAW Role Playing Game Mechanics
+# RAW Role Playing Game Mechanics (Version 3)
 RAW is a tabletop role-playing game designed with simplicity at its core. It simplifies traditional TTRPG mechanics by using a broad-strokes approach to abilities. Unlike games with extensive lists of skills, RAW condenses them into a few versatile abilities. This design lets players act decisively without getting bogged down in rules. For instance, a character skilled in melee can excel in both sword fighting and unarmed combat using the same ability score. This streamlined system keeps the focus on action and narrative progression.
 
 This simplicity promotes a story-driven experience, where the game master uses common sense and creativity to lead the game.
@@ -135,9 +135,10 @@ In unopposed actions, such as shooting or driving, the character's total (abilit
 For opposed actions, one character’s number of successes is pitted against another’s passive ability or active resistance. The initiator of the action must achieve more successes than the defender to succeed in their action.
 
 ### Critical Rolls
-Critical rolls occur on natural rolls of 1 or 20. A roll of 1 might signify a critical failure, possibly reducing the number of successes, while a roll of 20 signifies a critical success, which could increase the number of successes achieved.
+A critical roll occur on natural rolls of 20, which signify a critical success. Rolling a natural 20 gives another 20 points of bonus to the roll. A critical success does not imply an automatic success.
 
-This revised system streamlines the action resolution process, making it clear that success is quantified by achievable increments of 20 points, which directly translate to the number of successes needed to overcome challenges.
+### Fumbles
+A fumble occurs on a natural roll of 1. In this case, whatever the character is trying to achieve, fails.
 
 ## Combat
 Combat in RAW is straightforward and tactical, focusing on the skill of the combatant rather than relying on random damage rolls. There is no initiative system; player characters act first, followed by non-player characters. The Game Master ensures that each player has the opportunity to act before any player character takes their second turn, maintaining fairness and engagement.
