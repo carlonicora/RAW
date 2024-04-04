@@ -192,6 +192,11 @@ Armour can become damaged if an attacker rolls a natural 20, reducing its damage
 
 RAW support a flexible magic system, aimed to support Fantasy setups as well as allowing more occult-based scenario to perform magic.
 
+### Type of Magic Users
+RAW keeps into consideration two types of magic users: Sorcerers and Mystics.
+- **Sorcerers**: They are the typical fantasy wizards. They study magic, the have a spell book where they record their spells.
+- **Mystics**: They are the typical clerics of the fantasy worlds. Their magic is derived from a higher power and they generally pray for their magic to come to life.
+
 ### How Magic Works
 Magic is creative, inventive and free. RAW ships with no pre-built spell book, but empowers the players to come up with whatever they want from their magic. Whenever they come up with what a spell wants to achieve, the GM will set a threshold for the magic to succeed. The magic user can tweak the difficulty applying some spell modifiers, and when the final challenge is set, the caster must perform an **Occult** check and succeed against the threshold.
 
@@ -207,6 +212,7 @@ Once the player has described the spell to the GM, the latter will be in charge 
 | Deadly        | Miracle       | Defining         | 5       | 4    |
 
 The minimum cost of a spell is always 1, but the caster can use spell cost modifiers to change the final cost of the spell.
+
 #### Spell Cost Modifiers
 A spell-caster has the ability to increase or decrease the cost of a spell by modifying one of its attributes: casting time, range, area of effect, component, effects duration. A Sorcerer or Mystic must specify the desired value of each attribute while they cast the spell.
 
@@ -216,7 +222,7 @@ A spell-caster has the ability to increase or decrease the cost of a spell by mo
 - **Components**: Magic is created with one or more components: Verbal, Semantic and Material.
 - **Effects Duration**: For how long the effect of a spell lasts.
 
-Each attribute has the ability to modify the final challenge. The spell-caster can decide how to apply the attributes after the GM has provided them with the base spell cost.
+Each attribute has the ability to modify the final challenge. 
 
 | Casting Time    | Range         | Area of Effect       | Components | Effect Duration | Modifier |
 | --------------- | ------------- | -------------------- | ---------- | --------------- | -------- |
@@ -224,16 +230,21 @@ Each attribute has the ability to modify the final challenge. The spell-caster c
 | Medium (~1 min) | Close (~10 m) | Small (~3 m radius)  | 2          | Medium (~1 min) | +0       |
 | Immediate       | Far (>100 m)  | Large (~10 m radius) | 1          | Long (~1 hr)    | +1       |
 
+The spell-caster can decide how to apply the attributes after the GM has provided them with the base spell cost.
+
 ### Mana
+Mana is the magical power every caster has. Mana is depleted every time a caster uses magic, but is replenished every time a sorcerer or mystic rests. A caster has an amount of mana of 5 times their passive occult for each day.
+
+#### Using Mana
+Mana is depleted casting spells. Each spell depletes as many point of mana as it costs. A spell with a cost of 5 points will deplete 5 mana points.
+
+#### Recovering Mana
+Sleeping and meditating allow spell-casters to recover their mana. A night of sleep restores mana at full, but an hour of rest or meditation should recover 5 points of mana every hour.
 
 #### Being Consumed by Magic
 Being a spell-caster is no easy feat, and there will be time in which your mana won't be enough to allow you to cast that last spell. But even with your character's mana pool reduced to zero, your can still cast the last fireball. Sorcerers and Mystics can, in fact, draw the magic energy from their own health, using their life points as mana.
 
-### Type of Magic Users
-RAW keeps into consideration two types of magic users: Sorcerers and Mystics.
-- **Sorcerers**: They are the typical fantasy wizards. They study magic, the have a spell book where they record their spells.
-- **Mystics**: They are the typical clerics of the fantasy worlds. Their magic is derived from a higher power and they generally pray for their magic to come to life.
-
+### Spheres of Magic
 
 
 ## Character Progression and Levelling Up
