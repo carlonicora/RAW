@@ -244,8 +244,8 @@ Sleeping and meditating allow spell-casters to recover their mana. A night of sl
 #### Being Consumed by Magic
 Being a spell-caster is no easy feat, and there will be time in which your mana won't be enough to allow you to cast that last spell. But even with your character's mana pool reduced to zero, your can still cast the last fireball. Sorcerers and Mystics can, in fact, draw the magic energy from their own health, using their life points as mana.
 
-### Spheres of Magic
-
+### Spheres and Paths of Magic
+Magic is divided into Spheres which are further divided into Paths.
 
 ## Character Progression and Levelling Up
 In RAW, character progression is tied directly to the improvement of abilities, reflecting a character's growing expertise and experience. Unlike some RPGs, life points remain constant, emphasising that progression occurs through skill enhancement rather than physical changes.
