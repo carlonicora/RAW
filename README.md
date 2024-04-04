@@ -245,7 +245,10 @@ Sleeping and meditating allow spell-casters to recover their mana. A night of sl
 Being a spell-caster is no easy feat, and there will be time in which your mana won't be enough to allow you to cast that last spell. But even with your character's mana pool reduced to zero, your can still cast the last fireball. Sorcerers and Mystics can, in fact, draw the magic energy from their own health, using their life points as mana.
 
 ### Spheres and Paths of Magic
-Magic is divided into Spheres which are further divided into Paths.
+Magic is divided into Spheres which are further divided into Paths. These categories are a loose approximation intended to make conceptualising magic easier for the players and GM, but are not definitive or entirely without overlap. Take them as guidelines rather than absolutes. The GM is encouraged to allow a certain amount of flexibility within a given scope of a sphere. It is also possible, and even encouraged, to combine spheres. A Spiritualist with Geomancy for example could call forth an elemental spirit of stone in the form of a rock golem, while a Restorationist with Geomancy could restore the fertility of blighted soil. Aeromancy and Electromancy could call forth a thunderstorm.
+
+#### Access to Spheres and Paths
+Sorcerers are learned casters. Initially they can chose two paths, but they can, with study, learn more . While every sorcerer can craft spells, it is easier to cast a spell which is contained within a libram at your disposal. When you cast a spell which is not written down, you take a malus of -20 to the casting. You may spend an hour to write down a spell you have cast at least once. Should you find a written spell which is not within one of your known spheres, you may cast it with a malus of -20.
 
 ## Character Progression and Levelling Up
 In RAW, character progression is tied directly to the improvement of abilities, reflecting a character's growing expertise and experience. Unlike some RPGs, life points remain constant, emphasising that progression occurs through skill enhancement rather than physical changes.
