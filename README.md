@@ -277,21 +277,40 @@ Magic is divided into Spheres which are further divided into Paths. These catego
 
 ##### Animancy
 
+###### Restoration
+###### Spiritualism
+
 ##### Artifice
+###### Creation
+###### Disruption
 
 ##### Knowledge
 
 ##### Elementalism
+###### Aeromancy
+###### Cryomancy
+###### Electomancy
+###### Geomancy
+###### Hydromancy
+###### Pyromancy
+###### Spectromancy
 
 ##### Naturalism
+###### Animalism
+###### Botanism
+###### Wathermancy
 
 ##### Cosmism
+###### Celestial
+###### Void
 
 ##### Mentalism
+###### Telekinesis
+###### Telepathy
 
 ##### Transmutation
-
-
+###### Alteration
+###### Transformation
 
 ## Character Progression and Levelling Up
 In RAW, character progression is tied directly to the improvement of abilities, reflecting a character's growing expertise and experience. Unlike some RPGs, life points remain constant, emphasising that progression occurs through skill enhancement rather than physical changes.
