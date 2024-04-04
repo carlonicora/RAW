@@ -285,7 +285,11 @@ Magic is divided into Spheres which are further divided into Paths. These catego
 
 ##### Naturalism
 
-##### Animancy
+##### Cosmism
+
+##### Mentalism
+
+##### Transmutation
 
 
 
