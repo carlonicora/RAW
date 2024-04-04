@@ -247,9 +247,14 @@ Being a spell-caster is no easy feat, and there will be time in which your mana 
 ### Spheres and Paths of Magic
 Magic is divided into Spheres which are further divided into Paths. These categories are a loose approximation intended to make conceptualising magic easier for the players and GM, but are not definitive or entirely without overlap. Take them as guidelines rather than absolutes. The GM is encouraged to allow a certain amount of flexibility within a given scope of a sphere. It is also possible, and even encouraged, to combine spheres. A Spiritualist with Geomancy for example could call forth an elemental spirit of stone in the form of a rock golem, while a Restorationist with Geomancy could restore the fertility of blighted soil. Aeromancy and Electromancy could call forth a thunderstorm.
 
+#### Access to Spheres and Paths
+
+|Sphere & Path|
+
 #### Spheres
 
-#### Access to Spheres and Paths
+##### Animancy
+
 
 ###
 
