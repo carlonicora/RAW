@@ -249,14 +249,45 @@ Magic is divided into Spheres which are further divided into Paths. These catego
 
 #### Access to Spheres and Paths
 
-|Sphere & Path|
+| Sphere & Path                  | Sorcerers | Mystics |
+| ------------------------------ | :-------: | :-----: |
+| Animancy / Restoration         |           |    X    |
+| Animancy / Spiritualism        |           |    X    |
+| Artifice / Creation            |     X     |         |
+| Artifice / Disruption          |     X     |         |
+| Knowledge                      |     X     |    X    |
+| Elementalism / Aeromancy       |     X     |         |
+| Elementalism / Cryomancy       |     X     |         |
+| Elementalism / Electomancy     |     X     |         |
+| Elementalism / Geomancy        |     X     |         |
+| Elementalism / Hydromancy      |     X     |         |
+| Elementalism / Pyromancy       |     X     |         |
+| Elementalism / Spectromancy    |     X     |         |
+| Naturalism / Animalism         |           |    X    |
+| Naturalism / Botanism          |           |    X    |
+| Naturalism / Weathermancy      |           |    X    |
+| Cosmism / Celestial            |           |    X    |
+| Cosmism / Void                 |           |    X    |
+| Mentalism / Telekinesis        |     X     |         |
+| Mentalism / Telepathy          |           |    X    |
+| Transmutation / Alteration     |     X     |         |
+| Transmutation / Transformation |           |    X    |
 
 #### Spheres
 
 ##### Animancy
 
+##### Artifice
 
-###
+##### Knowledge
+
+##### Elementalism
+
+##### Naturalism
+
+##### Animancy
+
+
 
 ## Character Progression and Levelling Up
 In RAW, character progression is tied directly to the improvement of abilities, reflecting a character's growing expertise and experience. Unlike some RPGs, life points remain constant, emphasising that progression occurs through skill enhancement rather than physical changes.
