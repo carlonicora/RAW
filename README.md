@@ -193,7 +193,9 @@ Armour can become damaged if an attacker rolls a natural 20, reducing its damage
 RAW support a flexible magic system, aimed to support Fantasy setups as well as allowing more occult-based scenario to perform magic.
 
 ### How Magic Works
-Magic 
+Magic is creative, inventive and free. RAW ships with no pre-built spell book, but empowers the players to come up with whatever they want from their magic. Whenever they come up with what a spell wants to achieve, the GM will set a threshold for the magic to succeed. The magic user can tweak the difficulty applying some spell modifiers, and when the final challenge is set, the caster must perform an **Occult** check and succeed against the threshold.
+
+###
 
 ### Type of Magic Users
 RAW keeps into consideration two types of magic users: Sorcerers and Mystics.
