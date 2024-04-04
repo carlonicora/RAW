@@ -250,7 +250,9 @@ Magic is divided into Spheres which are further divided into Paths. These catego
 #### Access to Spheres and Paths
 Sorcerers and Mystics have different approaches to how they can access Spheres and Paths of magic.
 
-Mystics can pick 3 paths from the beginning, as they are the ones given to them by their higher power. They cannot learn other paths, but inside those paths they don't need to 
+Mystics can pick 3 paths from the beginning, as they are the ones given to them by their higher power. They cannot learn other paths, but inside those paths they don't need to have a spell book from which to learn their spells and they receive no malus when casting.
+
+Sorcerers are learners of magic. They start with 2 paths, one of which is their primary path. However, they can learn new paths should they like. They can either improvise their spells 
 
 | Sphere & Path                  | Sorcerers | Mystics |
 | ------------------------------ | :-------: | :-----: |
