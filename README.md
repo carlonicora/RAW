@@ -188,6 +188,20 @@ Armour in RAW provides a static amount of damage reduction, from 1 to 3. Wearing
 
 Armour can become damaged if an attacker rolls a natural 20, reducing its damage reduction by 1 until repaired.
 
+## Magic
+
+RAW support a flexible magic system, aimed to support Fantasy setups as well as allowing more occult-based scenario to perform magic.
+
+### How Magic Works
+Magic 
+
+### Type of Magic Users
+RAW keeps into consideration two types of magic users: Sorcerers and Mystics.
+- **Sorcerers**: They are the typical fantasy wizards. They study magic, the have a spell book where they record their spells.
+- **Mystics**: They are the typical clerics of the fantasy worlds. Their magic is derived from a higher power and they generally pray for their magic to come to life.
+
+
+
 ## Character Progression and Levelling Up
 In RAW, character progression is tied directly to the improvement of abilities, reflecting a character's growing expertise and experience. Unlike some RPGs, life points remain constant, emphasising that progression occurs through skill enhancement rather than physical changes.
 
