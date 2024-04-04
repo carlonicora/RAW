@@ -244,11 +244,20 @@ Sleeping and meditating allow spell-casters to recover their mana. A night of sl
 #### Being Consumed by Magic
 Being a spell-caster is no easy feat, and there will be time in which your mana won't be enough to allow you to cast that last spell. But even with your character's mana pool reduced to zero, your can still cast the last fireball. Sorcerers and Mystics can, in fact, draw the magic energy from their own health, using their life points as mana.
 
+### Type of Spell Casters
+
+Sorcerers and Mystics has access to different paths; moreover, while Mystics receive their magic from a higher power, hence they cannot "learn" new paths, Sorcerers 
+
+#### Sorcerers
+
+#### Mystics
+
+
 ### Spheres and Paths of Magic
 Magic is divided into Spheres which are further divided into Paths. These categories are a loose approximation intended to make conceptualising magic easier for the players and GM, but are not definitive or entirely without overlap. Take them as guidelines rather than absolutes. The GM is encouraged to allow a certain amount of flexibility within a given scope of a sphere. It is also possible, and even encouraged, to combine spheres. A Spiritualist with Geomancy for example could call forth an elemental spirit of stone in the form of a rock golem, while a Restorationist with Geomancy could restore the fertility of blighted soil. Aeromancy and Electromancy could call forth a thunderstorm.
 
 #### Access to Spheres and Paths
-Sorcerers and Mystics has access to different paths; moreover, while Mystics receive their magic from a higher power, hence they cannot "learn" new paths, Sorcerers 
+
 
 | Sphere & Path                  | Sorcerers | Mystics |
 | ------------------------------ | :-------: | :-----: |
@@ -314,6 +323,7 @@ Sorcerers and Mystics has access to different paths; moreover, while Mystics rec
 ##### Transmutation
 ###### Alteration
 ###### Transformation
+
 
 ## Character Progression and Levelling Up
 In RAW, character progression is tied directly to the improvement of abilities, reflecting a character's growing expertise and experience. Unlike some RPGs, life points remain constant, emphasising that progression occurs through skill enhancement rather than physical changes.
